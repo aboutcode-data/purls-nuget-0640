@@ -185,6 +185,7 @@
 - pkg:nuget/Zafiro.FileSystem.Local@4.0.9-sftp0004
 - pkg:nuget/Zafiro.FileSystem.Local@41.1.0
 - pkg:nuget/Zafiro.FileSystem.Local@42.0.0
+- pkg:nuget/Zafiro.FileSystem.Local@42.0.3
 - pkg:nuget/Zafiro.FileSystem.Local@5.0.0
 - pkg:nuget/Zafiro.FileSystem.Local@5.0.1
 - pkg:nuget/Zafiro.FileSystem.Local@5.0.10

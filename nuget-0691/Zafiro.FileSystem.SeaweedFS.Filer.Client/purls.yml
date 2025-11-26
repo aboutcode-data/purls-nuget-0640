@@ -181,6 +181,7 @@
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@4.0.9-sftp0004
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@41.1.0
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@42.0.0
+- pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@42.0.3
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@5.0.0
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@5.0.1
 - pkg:nuget/Zafiro.FileSystem.SeaweedFS.Filer.Client@5.0.10
