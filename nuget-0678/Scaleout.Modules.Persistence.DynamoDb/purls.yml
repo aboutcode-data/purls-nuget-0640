@@ -1,0 +1,2 @@
+- pkg:nuget/Scaleout.Modules.Persistence.DynamoDb@1.0.0
+- pkg:nuget/Scaleout.Modules.Persistence.DynamoDb@2.0.0
