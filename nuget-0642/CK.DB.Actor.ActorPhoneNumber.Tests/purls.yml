@@ -21,6 +21,7 @@
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@18.0.0
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@18.0.1
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@18.0.2
+- pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@19.1.1
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@2.0.0
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@2.0.1
 - pkg:nuget/CK.DB.Actor.ActorPhoneNumber.Tests@3.0.0
