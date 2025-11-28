@@ -144,6 +144,7 @@
 - pkg:nuget/Umbraco.Forms.Core.Providers@16.0.0-rc4
 - pkg:nuget/Umbraco.Forms.Core.Providers@16.0.0-rc5
 - pkg:nuget/Umbraco.Forms.Core.Providers@16.1.0
+- pkg:nuget/Umbraco.Forms.Core.Providers@17.0.1
 - pkg:nuget/Umbraco.Forms.Core.Providers@9.0.0
 - pkg:nuget/Umbraco.Forms.Core.Providers@9.0.0-beta002
 - pkg:nuget/Umbraco.Forms.Core.Providers@9.0.0-beta003
