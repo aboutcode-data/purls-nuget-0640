@@ -5,3 +5,4 @@
 - pkg:nuget/Rsk.KeyRotation.OpenIddict@1.0.0.97208-preview
 - pkg:nuget/Rsk.KeyRotation.OpenIddict@1.0.0.97660-preview
 - pkg:nuget/Rsk.KeyRotation.OpenIddict@1.0.0.97744-preview
+- pkg:nuget/Rsk.KeyRotation.OpenIddict@2.0.0.105491-preview
