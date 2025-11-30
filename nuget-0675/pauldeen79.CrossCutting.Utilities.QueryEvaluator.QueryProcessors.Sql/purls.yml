@@ -1,1 +1,2 @@
 - pkg:nuget/pauldeen79.CrossCutting.Utilities.QueryEvaluator.QueryProcessors.Sql@1.0.0
+- pkg:nuget/pauldeen79.CrossCutting.Utilities.QueryEvaluator.QueryProcessors.Sql@1.1.7
