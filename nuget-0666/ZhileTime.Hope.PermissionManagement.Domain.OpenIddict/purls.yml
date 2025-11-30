@@ -117,3 +117,4 @@
 - pkg:nuget/ZhileTime.Hope.PermissionManagement.Domain.OpenIddict@5.5.1
 - pkg:nuget/ZhileTime.Hope.PermissionManagement.Domain.OpenIddict@5.8.2
 - pkg:nuget/ZhileTime.Hope.PermissionManagement.Domain.OpenIddict@6.0.2
+- pkg:nuget/ZhileTime.Hope.PermissionManagement.Domain.OpenIddict@6.0.5
