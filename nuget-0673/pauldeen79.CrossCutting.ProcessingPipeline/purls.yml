@@ -1,4 +1,5 @@
 - pkg:nuget/pauldeen79.CrossCutting.ProcessingPipeline@12.0.0
+- pkg:nuget/pauldeen79.CrossCutting.ProcessingPipeline@14.0.1
 - pkg:nuget/pauldeen79.CrossCutting.ProcessingPipeline@2.10.0
 - pkg:nuget/pauldeen79.CrossCutting.ProcessingPipeline@2.11.0
 - pkg:nuget/pauldeen79.CrossCutting.ProcessingPipeline@2.12.0
