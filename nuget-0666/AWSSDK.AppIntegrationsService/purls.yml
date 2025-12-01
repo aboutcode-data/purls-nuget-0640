@@ -823,6 +823,7 @@
 - pkg:nuget/AWSSDK.AppIntegrationsService@3.7.502.12
 - pkg:nuget/AWSSDK.AppIntegrationsService@3.7.502.14
 - pkg:nuget/AWSSDK.AppIntegrationsService@3.7.502.5
+- pkg:nuget/AWSSDK.AppIntegrationsService@3.7.503
 - pkg:nuget/AWSSDK.AppIntegrationsService@4.0.0
 - pkg:nuget/AWSSDK.AppIntegrationsService@4.0.0-preview
 - pkg:nuget/AWSSDK.AppIntegrationsService@4.0.0-preview.10
