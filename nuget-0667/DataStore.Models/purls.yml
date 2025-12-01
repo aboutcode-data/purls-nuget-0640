@@ -77,6 +77,8 @@
 - pkg:nuget/DataStore.Models@16.42.0-alpha
 - pkg:nuget/DataStore.Models@16.44.0-alpha
 - pkg:nuget/DataStore.Models@16.45.0-alpha
+- pkg:nuget/DataStore.Models@16.48.0-alpha
+- pkg:nuget/DataStore.Models@16.49.0-alpha
 - pkg:nuget/DataStore.Models@16.5.0-alpha
 - pkg:nuget/DataStore.Models@16.6.0-alpha
 - pkg:nuget/DataStore.Models@16.7.0-alpha
