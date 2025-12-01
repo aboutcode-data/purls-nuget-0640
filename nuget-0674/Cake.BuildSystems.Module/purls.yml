@@ -40,3 +40,4 @@
 - pkg:nuget/Cake.BuildSystems.Module@7.0.0
 - pkg:nuget/Cake.BuildSystems.Module@7.1.0
 - pkg:nuget/Cake.BuildSystems.Module@8.0.0
+- pkg:nuget/Cake.BuildSystems.Module@9.0.0
