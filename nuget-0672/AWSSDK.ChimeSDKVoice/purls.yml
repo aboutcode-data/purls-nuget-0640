@@ -542,6 +542,7 @@
 - pkg:nuget/AWSSDK.ChimeSDKVoice@3.7.502.7
 - pkg:nuget/AWSSDK.ChimeSDKVoice@3.7.503.10
 - pkg:nuget/AWSSDK.ChimeSDKVoice@3.7.503.12
+- pkg:nuget/AWSSDK.ChimeSDKVoice@3.7.503.14
 - pkg:nuget/AWSSDK.ChimeSDKVoice@4.0.0
 - pkg:nuget/AWSSDK.ChimeSDKVoice@4.0.0-preview
 - pkg:nuget/AWSSDK.ChimeSDKVoice@4.0.0-preview.10

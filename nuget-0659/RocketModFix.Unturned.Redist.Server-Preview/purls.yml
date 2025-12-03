@@ -29,6 +29,7 @@
 - pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.24.7.100
 - pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.25.1
 - pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.25.1.101
+- pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.25.10.108
 - pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.25.2
 - pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.25.2.107
 - pkg:nuget/RocketModFix.Unturned.Redist.Server-Preview@3.25.2.108
