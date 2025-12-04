@@ -50,3 +50,4 @@
 - pkg:nuget/CreativeCoders.Daemon.Linux@4.4.0
 - pkg:nuget/CreativeCoders.Daemon.Linux@4.5.0
 - pkg:nuget/CreativeCoders.Daemon.Linux@4.6.0
+- pkg:nuget/CreativeCoders.Daemon.Linux@5.1.0

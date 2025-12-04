@@ -46,3 +46,4 @@
 - pkg:nuget/CreativeCoders.Messaging.DefaultMediator@4.4.0
 - pkg:nuget/CreativeCoders.Messaging.DefaultMediator@4.5.0
 - pkg:nuget/CreativeCoders.Messaging.DefaultMediator@4.6.0
+- pkg:nuget/CreativeCoders.Messaging.DefaultMediator@5.1.0
