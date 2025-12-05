@@ -55,3 +55,4 @@
 - pkg:nuget/OSSCore@3.1.8.1
 - pkg:nuget/OSSCore@3.1.9
 - pkg:nuget/OSSCore@3.2.0
+- pkg:nuget/OSSCore@3.4.0
