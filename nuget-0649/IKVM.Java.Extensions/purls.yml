@@ -1,1 +1,2 @@
 - pkg:nuget/IKVM.Java.Extensions@8.13.4
+- pkg:nuget/IKVM.Java.Extensions@8.15.0-dev.46
