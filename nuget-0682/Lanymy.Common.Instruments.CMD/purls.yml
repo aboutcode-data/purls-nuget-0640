@@ -43,6 +43,7 @@
 - pkg:nuget/Lanymy.Common.Instruments.CMD@0.14.2.1
 - pkg:nuget/Lanymy.Common.Instruments.CMD@0.14.3
 - pkg:nuget/Lanymy.Common.Instruments.CMD@0.15.0
+- pkg:nuget/Lanymy.Common.Instruments.CMD@0.17.5
 - pkg:nuget/Lanymy.Common.Instruments.CMD@0.5.1
 - pkg:nuget/Lanymy.Common.Instruments.CMD@0.5.2
 - pkg:nuget/Lanymy.Common.Instruments.CMD@0.5.3
