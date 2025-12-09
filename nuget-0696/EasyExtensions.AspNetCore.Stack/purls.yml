@@ -3,3 +3,6 @@
 - pkg:nuget/EasyExtensions.AspNetCore.Stack@2.0.27
 - pkg:nuget/EasyExtensions.AspNetCore.Stack@2.0.29
 - pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.1
+- pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.10
+- pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.11
+- pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.12
