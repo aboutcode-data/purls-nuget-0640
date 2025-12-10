@@ -67,3 +67,4 @@
 - pkg:nuget/Audit.NET.AzureStorageTables@30.1.3
 - pkg:nuget/Audit.NET.AzureStorageTables@31.0.0
 - pkg:nuget/Audit.NET.AzureStorageTables@31.0.1
+- pkg:nuget/Audit.NET.AzureStorageTables@31.3.1
