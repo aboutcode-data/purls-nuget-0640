@@ -1,4 +1,6 @@
 - pkg:nuget/SaltSecurity.CollectorExtension@1.0.7
 - pkg:nuget/SaltSecurity.CollectorExtension@1.0.8
 - pkg:nuget/SaltSecurity.CollectorExtension@1.0.9
+- pkg:nuget/SaltSecurity.CollectorExtension@2.0.1
+- pkg:nuget/SaltSecurity.CollectorExtension@2.0.2
 - pkg:nuget/SaltSecurity.CollectorExtension@2.4.0
