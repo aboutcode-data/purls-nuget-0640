@@ -37,3 +37,4 @@
 - pkg:nuget/Ditto.Native.Maccatalyst@4.12.2-rc.1
 - pkg:nuget/Ditto.Native.Maccatalyst@4.12.2-rc.2
 - pkg:nuget/Ditto.Native.Maccatalyst@4.13.0-experimental-internal-jj-ws-support.1
+- pkg:nuget/Ditto.Native.Maccatalyst@5.0.0-experimental-gha-sdk-publish-test.24
