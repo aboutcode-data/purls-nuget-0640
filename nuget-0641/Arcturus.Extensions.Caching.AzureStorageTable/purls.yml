@@ -1,3 +1,4 @@
+- pkg:nuget/Arcturus.Extensions.Caching.AzureStorageTable@2025.12.12.203
 - pkg:nuget/Arcturus.Extensions.Caching.AzureStorageTable@2025.7.14.104
 - pkg:nuget/Arcturus.Extensions.Caching.AzureStorageTable@2025.7.17.112
 - pkg:nuget/Arcturus.Extensions.Caching.AzureStorageTable@2025.7.21.124
