@@ -9,3 +9,4 @@
 - pkg:nuget/CreativeCoders.AspNetCore.TokenAuthApi@4.5.0
 - pkg:nuget/CreativeCoders.AspNetCore.TokenAuthApi@4.6.0
 - pkg:nuget/CreativeCoders.AspNetCore.TokenAuthApi@5.1.0
+- pkg:nuget/CreativeCoders.AspNetCore.TokenAuthApi@5.4.0
