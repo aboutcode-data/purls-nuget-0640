@@ -35,5 +35,6 @@
 - pkg:nuget/DbExtensions@6.4.0
 - pkg:nuget/DbExtensions@6.4.0-preview1
 - pkg:nuget/DbExtensions@6.4.0-preview2
+- pkg:nuget/DbExtensions@7.0.0
 - pkg:nuget/DbExtensions@7.0.0-preview1
 - pkg:nuget/DbExtensions@7.0.0-preview2
