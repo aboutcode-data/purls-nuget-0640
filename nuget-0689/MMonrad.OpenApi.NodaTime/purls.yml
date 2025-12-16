@@ -4,4 +4,5 @@
 - pkg:nuget/MMonrad.OpenApi.NodaTime@0.0.23
 - pkg:nuget/MMonrad.OpenApi.NodaTime@0.0.25
 - pkg:nuget/MMonrad.OpenApi.NodaTime@0.0.26
+- pkg:nuget/MMonrad.OpenApi.NodaTime@0.0.27
 - pkg:nuget/MMonrad.OpenApi.NodaTime@0.0.9
