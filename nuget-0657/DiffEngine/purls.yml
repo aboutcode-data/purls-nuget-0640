@@ -111,6 +111,7 @@
 - pkg:nuget/DiffEngine@16.4.1
 - pkg:nuget/DiffEngine@16.6.0
 - pkg:nuget/DiffEngine@16.8.0
+- pkg:nuget/DiffEngine@18.0.0
 - pkg:nuget/DiffEngine@2.0.0
 - pkg:nuget/DiffEngine@2.0.1
 - pkg:nuget/DiffEngine@2.0.2
