@@ -1,5 +1,6 @@
 - pkg:nuget/xmisc.backbone.identitifiers.concretes@10.0.2
 - pkg:nuget/xmisc.backbone.identitifiers.concretes@10.0.3
+- pkg:nuget/xmisc.backbone.identitifiers.concretes@10.0.5
 - pkg:nuget/xmisc.backbone.identitifiers.concretes@2.0.19-alpha
 - pkg:nuget/xmisc.backbone.identitifiers.concretes@2.0.25-alpha
 - pkg:nuget/xmisc.backbone.identitifiers.concretes@2.0.33-alpha
