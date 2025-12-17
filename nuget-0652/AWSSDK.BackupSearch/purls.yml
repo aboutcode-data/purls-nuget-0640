@@ -149,6 +149,7 @@
 - pkg:nuget/AWSSDK.BackupSearch@3.7.502.8
 - pkg:nuget/AWSSDK.BackupSearch@3.7.502.9
 - pkg:nuget/AWSSDK.BackupSearch@3.7.503.11
+- pkg:nuget/AWSSDK.BackupSearch@3.7.503.16
 - pkg:nuget/AWSSDK.BackupSearch@3.7.503.7
 - pkg:nuget/AWSSDK.BackupSearch@3.7.503.9
 - pkg:nuget/AWSSDK.BackupSearch@4.0.0
