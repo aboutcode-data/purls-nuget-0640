@@ -266,6 +266,7 @@
 - pkg:nuget/TencentCloudSDK.Trocket@3.0.1298
 - pkg:nuget/TencentCloudSDK.Trocket@3.0.1301
 - pkg:nuget/TencentCloudSDK.Trocket@3.0.1303
+- pkg:nuget/TencentCloudSDK.Trocket@3.0.1361
 - pkg:nuget/TencentCloudSDK.Trocket@3.0.819
 - pkg:nuget/TencentCloudSDK.Trocket@3.0.820
 - pkg:nuget/TencentCloudSDK.Trocket@3.0.821
