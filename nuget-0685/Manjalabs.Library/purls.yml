@@ -115,7 +115,9 @@
 - pkg:nuget/Manjalabs.Library@8.0.0.12-pre-release
 - pkg:nuget/Manjalabs.Library@8.0.0.13-pre-release
 - pkg:nuget/Manjalabs.Library@8.0.0.14-pre-release
+- pkg:nuget/Manjalabs.Library@8.0.0.19-pre-release
 - pkg:nuget/Manjalabs.Library@8.0.0.2-pre-release
+- pkg:nuget/Manjalabs.Library@8.0.0.20-pre-release
 - pkg:nuget/Manjalabs.Library@8.0.0.3-pre-release
 - pkg:nuget/Manjalabs.Library@8.0.0.4-pre-release
 - pkg:nuget/Manjalabs.Library@8.0.0.5-pre-release
