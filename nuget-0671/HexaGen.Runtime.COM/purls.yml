@@ -1,4 +1,5 @@
 - pkg:nuget/HexaGen.Runtime.COM@1.0.0
+- pkg:nuget/HexaGen.Runtime.COM@1.1.11
 - pkg:nuget/HexaGen.Runtime.COM@1.1.4
 - pkg:nuget/HexaGen.Runtime.COM@1.1.5
 - pkg:nuget/HexaGen.Runtime.COM@1.1.6
