@@ -64,3 +64,4 @@
 - pkg:nuget/Devart.Data.SQLite@6.4.193
 - pkg:nuget/Devart.Data.SQLite@6.4.235
 - pkg:nuget/Devart.Data.SQLite@6.4.290
+- pkg:nuget/Devart.Data.SQLite@7.0.0
