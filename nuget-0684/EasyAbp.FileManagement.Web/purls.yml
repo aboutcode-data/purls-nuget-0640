@@ -83,3 +83,4 @@
 - pkg:nuget/EasyAbp.FileManagement.Web@5.6.0
 - pkg:nuget/EasyAbp.FileManagement.Web@5.7.0
 - pkg:nuget/EasyAbp.FileManagement.Web@5.8.0
+- pkg:nuget/EasyAbp.FileManagement.Web@5.9.0
