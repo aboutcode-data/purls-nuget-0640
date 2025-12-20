@@ -4,3 +4,4 @@
 - pkg:nuget/Microsoft.SqlServer.Management.SqlParser.Native@172.18.0
 - pkg:nuget/Microsoft.SqlServer.Management.SqlParser.Native@172.20.0
 - pkg:nuget/Microsoft.SqlServer.Management.SqlParser.Native@172.27.0
+- pkg:nuget/Microsoft.SqlServer.Management.SqlParser.Native@173.8.0
