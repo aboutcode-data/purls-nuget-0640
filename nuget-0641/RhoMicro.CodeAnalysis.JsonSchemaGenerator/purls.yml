@@ -37,3 +37,4 @@
 - pkg:nuget/RhoMicro.CodeAnalysis.JsonSchemaGenerator@22.0.1
 - pkg:nuget/RhoMicro.CodeAnalysis.JsonSchemaGenerator@22.0.2
 - pkg:nuget/RhoMicro.CodeAnalysis.JsonSchemaGenerator@22.0.3
+- pkg:nuget/RhoMicro.CodeAnalysis.JsonSchemaGenerator@23.0.0

@@ -5,3 +5,4 @@
 - pkg:nuget/RhoMicro.CodeAnalysis.VisitorGenerator@22.0.1
 - pkg:nuget/RhoMicro.CodeAnalysis.VisitorGenerator@22.0.2
 - pkg:nuget/RhoMicro.CodeAnalysis.VisitorGenerator@22.0.3
+- pkg:nuget/RhoMicro.CodeAnalysis.VisitorGenerator@23.0.0
