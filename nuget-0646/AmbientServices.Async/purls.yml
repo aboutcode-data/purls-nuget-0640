@@ -38,6 +38,7 @@
 - pkg:nuget/AmbientServices.Async@0.1.53
 - pkg:nuget/AmbientServices.Async@0.1.54
 - pkg:nuget/AmbientServices.Async@0.1.55
+- pkg:nuget/AmbientServices.Async@0.1.59
 - pkg:nuget/AmbientServices.Async@0.1.6
 - pkg:nuget/AmbientServices.Async@0.1.7
 - pkg:nuget/AmbientServices.Async@0.1.8
