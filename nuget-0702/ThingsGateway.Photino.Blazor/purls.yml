@@ -353,3 +353,4 @@
 - pkg:nuget/ThingsGateway.Photino.Blazor@10.9.98
 - pkg:nuget/ThingsGateway.Photino.Blazor@10.9.99
 - pkg:nuget/ThingsGateway.Photino.Blazor@12.4.12
+- pkg:nuget/ThingsGateway.Photino.Blazor@12.4.21
