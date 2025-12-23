@@ -131,3 +131,4 @@
 - pkg:nuget/DTOMaker.Runtime@0.71.7
 - pkg:nuget/DTOMaker.Runtime@0.71.8
 - pkg:nuget/DTOMaker.Runtime@0.72.6
+- pkg:nuget/DTOMaker.Runtime@1.4.7-dev
