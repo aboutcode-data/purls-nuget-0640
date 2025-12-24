@@ -954,6 +954,7 @@
 - pkg:nuget/AWSSDK.Kendra@3.7.501
 - pkg:nuget/AWSSDK.Kendra@3.7.501.15
 - pkg:nuget/AWSSDK.Kendra@3.7.501.16
+- pkg:nuget/AWSSDK.Kendra@3.7.501.20
 - pkg:nuget/AWSSDK.Kendra@3.7.501.7
 - pkg:nuget/AWSSDK.Kendra@3.7.501.9
 - pkg:nuget/AWSSDK.Kendra@3.7.6
