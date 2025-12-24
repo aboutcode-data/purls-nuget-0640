@@ -1,2 +1,3 @@
 - pkg:nuget/AzureFunctions.Worker.Extensions.DurableTask.Client@2.0.29
 - pkg:nuget/AzureFunctions.Worker.Extensions.DurableTask.Client@2.0.30
+- pkg:nuget/AzureFunctions.Worker.Extensions.DurableTask.Client@2.2.3
