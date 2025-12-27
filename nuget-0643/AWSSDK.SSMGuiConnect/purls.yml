@@ -73,6 +73,7 @@
 - pkg:nuget/AWSSDK.SSMGuiConnect@3.7.502.15
 - pkg:nuget/AWSSDK.SSMGuiConnect@3.7.502.22
 - pkg:nuget/AWSSDK.SSMGuiConnect@3.7.502.26
+- pkg:nuget/AWSSDK.SSMGuiConnect@3.7.502.27
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.0
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.0.1
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.0.10
