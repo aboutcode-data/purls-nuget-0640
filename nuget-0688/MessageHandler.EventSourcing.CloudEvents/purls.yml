@@ -32,3 +32,5 @@
 - pkg:nuget/MessageHandler.EventSourcing.CloudEvents@5.0.0
 - pkg:nuget/MessageHandler.EventSourcing.CloudEvents@5.0.1
 - pkg:nuget/MessageHandler.EventSourcing.CloudEvents@5.1.0
+- pkg:nuget/MessageHandler.EventSourcing.CloudEvents@5.4.0
+- pkg:nuget/MessageHandler.EventSourcing.CloudEvents@5.5.0
