@@ -190,6 +190,7 @@
 - pkg:nuget/Pyro.Core.Entities@1.9.31
 - pkg:nuget/Pyro.Core.Entities@1.9.34
 - pkg:nuget/Pyro.Core.Entities@1.9.38
+- pkg:nuget/Pyro.Core.Entities@1.9.45
 - pkg:nuget/Pyro.Core.Entities@1.9.5
 - pkg:nuget/Pyro.Core.Entities@1.9.6
 - pkg:nuget/Pyro.Core.Entities@1.9.7
