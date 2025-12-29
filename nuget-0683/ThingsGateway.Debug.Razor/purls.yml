@@ -353,6 +353,7 @@
 - pkg:nuget/ThingsGateway.Debug.Razor@10.9.97
 - pkg:nuget/ThingsGateway.Debug.Razor@10.9.98
 - pkg:nuget/ThingsGateway.Debug.Razor@10.9.99
+- pkg:nuget/ThingsGateway.Debug.Razor@12.4.24
 - pkg:nuget/ThingsGateway.Debug.Razor@9.0.0.10
 - pkg:nuget/ThingsGateway.Debug.Razor@9.0.0.11
 - pkg:nuget/ThingsGateway.Debug.Razor@9.0.0.13
