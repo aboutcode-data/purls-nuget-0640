@@ -363,6 +363,7 @@
 - pkg:nuget/AWSSDK.BedrockRuntime@3.7.505.8
 - pkg:nuget/AWSSDK.BedrockRuntime@3.7.509
 - pkg:nuget/AWSSDK.BedrockRuntime@3.7.510
+- pkg:nuget/AWSSDK.BedrockRuntime@3.7.512.11
 - pkg:nuget/AWSSDK.BedrockRuntime@3.7.512.4
 - pkg:nuget/AWSSDK.BedrockRuntime@3.7.512.5
 - pkg:nuget/AWSSDK.BedrockRuntime@3.7.512.9
