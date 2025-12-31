@@ -259,4 +259,5 @@
 - pkg:nuget/QuantConnect.Algorithm@2.5.17269
 - pkg:nuget/QuantConnect.Algorithm@2.5.17279
 - pkg:nuget/QuantConnect.Algorithm@2.5.17297
+- pkg:nuget/QuantConnect.Algorithm@2.5.17448
 - pkg:nuget/QuantConnect.Algorithm@3582.0.0

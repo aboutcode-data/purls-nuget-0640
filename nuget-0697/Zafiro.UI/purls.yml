@@ -228,6 +228,7 @@
 - pkg:nuget/Zafiro.UI@42.0.3
 - pkg:nuget/Zafiro.UI@45.0.1
 - pkg:nuget/Zafiro.UI@45.0.2
+- pkg:nuget/Zafiro.UI@45.0.5
 - pkg:nuget/Zafiro.UI@5.0.0
 - pkg:nuget/Zafiro.UI@5.0.1
 - pkg:nuget/Zafiro.UI@6.0.0
