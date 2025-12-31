@@ -28,6 +28,7 @@
 - pkg:nuget/Neatoo.RemoteFactory@9.18.2
 - pkg:nuget/Neatoo.RemoteFactory@9.19.0
 - pkg:nuget/Neatoo.RemoteFactory@9.19.1
+- pkg:nuget/Neatoo.RemoteFactory@9.21.0
 - pkg:nuget/Neatoo.RemoteFactory@9.4.0-beta
 - pkg:nuget/Neatoo.RemoteFactory@9.5.0-beta
 - pkg:nuget/Neatoo.RemoteFactory@9.6.0
