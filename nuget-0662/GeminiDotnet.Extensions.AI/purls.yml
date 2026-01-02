@@ -9,6 +9,9 @@
 - pkg:nuget/GeminiDotnet.Extensions.AI@0.14.1
 - pkg:nuget/GeminiDotnet.Extensions.AI@0.14.2
 - pkg:nuget/GeminiDotnet.Extensions.AI@0.18.0
+- pkg:nuget/GeminiDotnet.Extensions.AI@0.19.3-alpha
+- pkg:nuget/GeminiDotnet.Extensions.AI@0.19.4-g6c44932266
+- pkg:nuget/GeminiDotnet.Extensions.AI@0.19.6-ge41ebb5b06
 - pkg:nuget/GeminiDotnet.Extensions.AI@0.2.0-preview
 - pkg:nuget/GeminiDotnet.Extensions.AI@0.3.0-preview
 - pkg:nuget/GeminiDotnet.Extensions.AI@0.4.0-preview
