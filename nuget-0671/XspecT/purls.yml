@@ -88,6 +88,7 @@
 - pkg:nuget/XspecT@18.0.0
 - pkg:nuget/XspecT@18.1.0
 - pkg:nuget/XspecT@18.1.1
+- pkg:nuget/XspecT@18.12.0
 - pkg:nuget/XspecT@18.2.0
 - pkg:nuget/XspecT@18.2.1
 - pkg:nuget/XspecT@18.3.0
