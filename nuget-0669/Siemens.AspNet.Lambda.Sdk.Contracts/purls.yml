@@ -108,6 +108,7 @@
 - pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.281
 - pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.331
 - pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.359
+- pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.370
 - pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.74
 - pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.75
 - pkg:nuget/Siemens.AspNet.Lambda.Sdk.Contracts@0.1.0-alpha.76
