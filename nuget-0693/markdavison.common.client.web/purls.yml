@@ -1,5 +1,6 @@
 - pkg:nuget/markdavison.common.client.web@10.0.18
 - pkg:nuget/markdavison.common.client.web@10.1.0
+- pkg:nuget/markdavison.common.client.web@10.2.2
 - pkg:nuget/markdavison.common.client.web@8.5.0
 - pkg:nuget/markdavison.common.client.web@8.5.1
 - pkg:nuget/markdavison.common.client.web@8.5.10
