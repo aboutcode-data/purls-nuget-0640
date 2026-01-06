@@ -51,6 +51,7 @@
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.22.8-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.22.9-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.23.0-preview
+- pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.23.1-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.6.0-preview2
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.6.1-preview
 - pkg:nuget/Microsoft.Bot.Builder.Dialogs.Debugging@4.6.2-preview

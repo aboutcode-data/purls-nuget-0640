@@ -1120,6 +1120,7 @@
 - pkg:nuget/AWSSDK.GlobalAccelerator@3.7.502.15
 - pkg:nuget/AWSSDK.GlobalAccelerator@3.7.502.22
 - pkg:nuget/AWSSDK.GlobalAccelerator@3.7.502.26
+- pkg:nuget/AWSSDK.GlobalAccelerator@3.7.502.29
 - pkg:nuget/AWSSDK.GlobalAccelerator@4.0.0
 - pkg:nuget/AWSSDK.GlobalAccelerator@4.0.0-preview
 - pkg:nuget/AWSSDK.GlobalAccelerator@4.0.0-preview.10

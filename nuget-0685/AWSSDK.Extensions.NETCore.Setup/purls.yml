@@ -42,5 +42,6 @@
 - pkg:nuget/AWSSDK.Extensions.NETCore.Setup@4.0.2.1
 - pkg:nuget/AWSSDK.Extensions.NETCore.Setup@4.0.2.2
 - pkg:nuget/AWSSDK.Extensions.NETCore.Setup@4.0.3
+- pkg:nuget/AWSSDK.Extensions.NETCore.Setup@4.0.3.18
 - pkg:nuget/AWSSDK.Extensions.NETCore.Setup@4.0.3.2
 - pkg:nuget/AWSSDK.Extensions.NETCore.Setup@4.0.3.6
