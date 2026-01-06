@@ -36,3 +36,5 @@
 - pkg:nuget/Nigel.Basic@8.0.1
 - pkg:nuget/Nigel.Basic@8.1.0
 - pkg:nuget/Nigel.Basic@8.1.1
+- pkg:nuget/Nigel.Basic@8.2.0
+- pkg:nuget/Nigel.Basic@8.2.1
