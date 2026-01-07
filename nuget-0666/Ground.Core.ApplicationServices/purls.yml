@@ -3,3 +3,4 @@
 - pkg:nuget/Ground.Core.ApplicationServices@1.0.2
 - pkg:nuget/Ground.Core.ApplicationServices@2.0.0
 - pkg:nuget/Ground.Core.ApplicationServices@3.0.0
+- pkg:nuget/Ground.Core.ApplicationServices@9.0.2
