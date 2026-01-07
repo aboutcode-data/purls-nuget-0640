@@ -18,6 +18,7 @@
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@3.0.7
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@3.0.8
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@3.0.9
+- pkg:nuget/Soenneker.Cosmos.Repositories.Shared@4.0.110
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@4.0.34
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@4.0.43
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@4.0.44
