@@ -1,3 +1,4 @@
 - pkg:nuget/Ground.Extensions.Events.PollingPublisher@1.0.0
 - pkg:nuget/Ground.Extensions.Events.PollingPublisher@2.0.0
 - pkg:nuget/Ground.Extensions.Events.PollingPublisher@3.0.0
+- pkg:nuget/Ground.Extensions.Events.PollingPublisher@9.0.2
