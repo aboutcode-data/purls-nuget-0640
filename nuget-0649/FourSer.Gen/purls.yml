@@ -43,6 +43,7 @@
 - pkg:nuget/FourSer.Gen@0.0.241
 - pkg:nuget/FourSer.Gen@0.0.243
 - pkg:nuget/FourSer.Gen@0.0.244
+- pkg:nuget/FourSer.Gen@0.0.259
 - pkg:nuget/FourSer.Gen@0.0.26
 - pkg:nuget/FourSer.Gen@0.0.28
 - pkg:nuget/FourSer.Gen@0.0.31
