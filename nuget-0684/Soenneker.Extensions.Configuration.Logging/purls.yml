@@ -58,3 +58,4 @@
 - pkg:nuget/Soenneker.Extensions.Configuration.Logging@3.0.9
 - pkg:nuget/Soenneker.Extensions.Configuration.Logging@4.0.64
 - pkg:nuget/Soenneker.Extensions.Configuration.Logging@4.0.67
+- pkg:nuget/Soenneker.Extensions.Configuration.Logging@4.0.91
