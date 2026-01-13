@@ -17,3 +17,4 @@
 - pkg:nuget/ILNumerics.Accelerator.Command@7.2.37-beta02
 - pkg:nuget/ILNumerics.Accelerator.Command@7.2.41
 - pkg:nuget/ILNumerics.Accelerator.Command@7.3.58
+- pkg:nuget/ILNumerics.Accelerator.Command@7.4.16
