@@ -27,3 +27,5 @@
 - pkg:nuget/CardFramework.Maui@1.6.0-preview
 - pkg:nuget/CardFramework.Maui@1.6.0-preview2
 - pkg:nuget/CardFramework.Maui@1.6.0-rc1
+- pkg:nuget/CardFramework.Maui@1.6.3
+- pkg:nuget/CardFramework.Maui@1.6.4
