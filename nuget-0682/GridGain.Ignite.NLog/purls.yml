@@ -132,6 +132,7 @@
 - pkg:nuget/GridGain.Ignite.NLog@8.9.23
 - pkg:nuget/GridGain.Ignite.NLog@8.9.24
 - pkg:nuget/GridGain.Ignite.NLog@8.9.25
+- pkg:nuget/GridGain.Ignite.NLog@8.9.29
 - pkg:nuget/GridGain.Ignite.NLog@8.9.3
 - pkg:nuget/GridGain.Ignite.NLog@8.9.4
 - pkg:nuget/GridGain.Ignite.NLog@8.9.5
