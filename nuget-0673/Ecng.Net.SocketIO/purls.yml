@@ -386,6 +386,7 @@
 - pkg:nuget/Ecng.Net.SocketIO@1.0.50
 - pkg:nuget/Ecng.Net.SocketIO@1.0.51
 - pkg:nuget/Ecng.Net.SocketIO@1.0.510
+- pkg:nuget/Ecng.Net.SocketIO@1.0.516
 - pkg:nuget/Ecng.Net.SocketIO@1.0.52
 - pkg:nuget/Ecng.Net.SocketIO@1.0.53
 - pkg:nuget/Ecng.Net.SocketIO@1.0.54
