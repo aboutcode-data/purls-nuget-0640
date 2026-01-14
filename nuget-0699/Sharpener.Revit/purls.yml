@@ -1,3 +1,5 @@
 - pkg:nuget/Sharpener.Revit@1.0.0
 - pkg:nuget/Sharpener.Revit@1.0.1
 - pkg:nuget/Sharpener.Revit@1.0.2
+- pkg:nuget/Sharpener.Revit@1.0.6
+- pkg:nuget/Sharpener.Revit@1.1.0
