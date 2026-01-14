@@ -3,6 +3,7 @@
 - pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.163-alpha
 - pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.165-alpha
 - pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.167-alpha
+- pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.341-alpha
 - pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.84-alpha
 - pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.85-alpha
 - pkg:nuget/TheCloudTheory.Topaz.AspNetCore.Extensions@1.0.93-alpha
