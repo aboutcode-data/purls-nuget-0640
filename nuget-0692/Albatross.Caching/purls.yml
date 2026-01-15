@@ -11,4 +11,5 @@
 - pkg:nuget/Albatross.Caching@2.8.0
 - pkg:nuget/Albatross.Caching@4.0.2
 - pkg:nuget/Albatross.Caching@6.1.1
+- pkg:nuget/Albatross.Caching@7.5.10%2Ba047b39
 - pkg:nuget/Albatross.Caching@7.5.8%2B9da6ec4
