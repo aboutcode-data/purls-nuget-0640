@@ -35,6 +35,7 @@
 - pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.14
 - pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.2
 - pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.23
+- pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.24
 - pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.3
 - pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.4
 - pkg:nuget/Gammarers.Utils.AWS.ResourceNaming@0.11.5
