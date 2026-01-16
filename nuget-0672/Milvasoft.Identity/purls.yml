@@ -1,4 +1,5 @@
 - pkg:nuget/Milvasoft.Identity@1.0.0
+- pkg:nuget/Milvasoft.Identity@10.0.0
 - pkg:nuget/Milvasoft.Identity@7.0.0
 - pkg:nuget/Milvasoft.Identity@8.0.0
 - pkg:nuget/Milvasoft.Identity@8.0.1
