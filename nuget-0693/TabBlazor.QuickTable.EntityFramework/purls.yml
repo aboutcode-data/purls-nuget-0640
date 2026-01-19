@@ -21,6 +21,7 @@
 - pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.14.37-beta
 - pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.14.4-beta-g3a0521a956
 - pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.14.42-beta
+- pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.14.59-beta
 - pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.14.7-beta-g7e198a3135
 - pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.7.10-alpha
 - pkg:nuget/TabBlazor.QuickTable.EntityFramework@0.7.12-alpha
