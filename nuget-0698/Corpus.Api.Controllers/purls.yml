@@ -9,6 +9,7 @@
 - pkg:nuget/Corpus.Api.Controllers@10.1.1
 - pkg:nuget/Corpus.Api.Controllers@10.1.2
 - pkg:nuget/Corpus.Api.Controllers@10.1.6
+- pkg:nuget/Corpus.Api.Controllers@11.0.2
 - pkg:nuget/Corpus.Api.Controllers@2.0.0
 - pkg:nuget/Corpus.Api.Controllers@2.0.1
 - pkg:nuget/Corpus.Api.Controllers@2.0.2

@@ -13,3 +13,4 @@
 - pkg:nuget/Pythia.Sql@5.1.2
 - pkg:nuget/Pythia.Sql@5.1.4
 - pkg:nuget/Pythia.Sql@5.1.8
+- pkg:nuget/Pythia.Sql@6.0.2
