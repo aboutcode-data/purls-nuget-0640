@@ -1,3 +1,4 @@
+- pkg:nuget/Pacem.Mvc.OpenIdConnect@0.10.0-descartes
 - pkg:nuget/Pacem.Mvc.OpenIdConnect@0.7.0-bithynia
 - pkg:nuget/Pacem.Mvc.OpenIdConnect@0.7.0-byzantium
 - pkg:nuget/Pacem.Mvc.OpenIdConnect@0.7.0-corcyra
