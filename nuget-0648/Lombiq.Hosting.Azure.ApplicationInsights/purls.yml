@@ -9,6 +9,7 @@
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@0.0.8
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@10.0.0
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@10.0.1-alpha.0.osoe-935
+- pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@10.0.1-alpha.1.osoe-925
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@2.0.0
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@2.0.1
 - pkg:nuget/Lombiq.Hosting.Azure.ApplicationInsights@3.0.0

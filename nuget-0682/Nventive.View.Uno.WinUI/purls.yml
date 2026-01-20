@@ -29,3 +29,4 @@
 - pkg:nuget/Nventive.View.Uno.WinUI@0.6.0-dev.84
 - pkg:nuget/Nventive.View.Uno.WinUI@0.7.0-dev.88
 - pkg:nuget/Nventive.View.Uno.WinUI@0.7.0-dev.chore-remove-unused-nuget-package.87
+- pkg:nuget/Nventive.View.Uno.WinUI@0.8.0-dev.90
