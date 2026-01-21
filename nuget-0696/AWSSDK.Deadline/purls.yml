@@ -272,6 +272,7 @@
 - pkg:nuget/AWSSDK.Deadline@3.7.503.20
 - pkg:nuget/AWSSDK.Deadline@3.7.503.6
 - pkg:nuget/AWSSDK.Deadline@3.7.503.8
+- pkg:nuget/AWSSDK.Deadline@3.7.504.2
 - pkg:nuget/AWSSDK.Deadline@4.0.0
 - pkg:nuget/AWSSDK.Deadline@4.0.0-preview
 - pkg:nuget/AWSSDK.Deadline@4.0.0-preview.10

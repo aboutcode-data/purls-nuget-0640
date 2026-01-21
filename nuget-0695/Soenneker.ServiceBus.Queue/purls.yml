@@ -2261,3 +2261,4 @@
 - pkg:nuget/Soenneker.ServiceBus.Queue@4.0.2059
 - pkg:nuget/Soenneker.ServiceBus.Queue@4.0.2082
 - pkg:nuget/Soenneker.ServiceBus.Queue@4.0.2105
+- pkg:nuget/Soenneker.ServiceBus.Queue@4.0.2135
