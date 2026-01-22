@@ -99,3 +99,4 @@
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.937.0-alpha.161-vcst-3591-order-pickup-data
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.940.0
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.941.0
+- pkg:nuget/VirtoCommerce.XCatalog.Core@3.943.0

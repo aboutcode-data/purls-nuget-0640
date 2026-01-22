@@ -28,6 +28,7 @@
 - pkg:nuget/HyperDev.Data@1.1.1
 - pkg:nuget/HyperDev.Data@1.1.1.1
 - pkg:nuget/HyperDev.Data@1.1.1.2
+- pkg:nuget/HyperDev.Data@1.1.11
 - pkg:nuget/HyperDev.Data@1.1.2
 - pkg:nuget/HyperDev.Data@1.1.2.1
 - pkg:nuget/HyperDev.Data@1.1.2.2
