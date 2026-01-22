@@ -1,5 +1,6 @@
 - pkg:nuget/Nova.NetCore.RepositorioDAL@1.0.0
 - pkg:nuget/Nova.NetCore.RepositorioDAL@1.0.1
+- pkg:nuget/Nova.NetCore.RepositorioDAL@10.0.1
 - pkg:nuget/Nova.NetCore.RepositorioDAL@3.1.0
 - pkg:nuget/Nova.NetCore.RepositorioDAL@3.1.5
 - pkg:nuget/Nova.NetCore.RepositorioDAL@3.1.6
