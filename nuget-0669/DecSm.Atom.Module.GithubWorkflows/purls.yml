@@ -120,3 +120,5 @@
 - pkg:nuget/DecSm.Atom.Module.GithubWorkflows@2.0.0-rc.140
 - pkg:nuget/DecSm.Atom.Module.GithubWorkflows@2.0.0-rc.142
 - pkg:nuget/DecSm.Atom.Module.GithubWorkflows@2.0.0-rc.145
+- pkg:nuget/DecSm.Atom.Module.GithubWorkflows@3.0.0-beta.feature-v-next.96
+- pkg:nuget/DecSm.Atom.Module.GithubWorkflows@3.0.0-beta.feature-v-next.98

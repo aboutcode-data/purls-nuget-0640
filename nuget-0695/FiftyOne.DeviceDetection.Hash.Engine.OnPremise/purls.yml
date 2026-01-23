@@ -379,3 +379,4 @@
 - pkg:nuget/FiftyOne.DeviceDetection.Hash.Engine.OnPremise@4.5.0-alpha.98
 - pkg:nuget/FiftyOne.DeviceDetection.Hash.Engine.OnPremise@4.5.0-alpha.99
 - pkg:nuget/FiftyOne.DeviceDetection.Hash.Engine.OnPremise@4.5.28
+- pkg:nuget/FiftyOne.DeviceDetection.Hash.Engine.OnPremise@4.5.35
