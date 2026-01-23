@@ -280,6 +280,7 @@
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.817.0
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.817.0-alpha.793-vcst-3152-index-aggregation
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.821.0
+- pkg:nuget/VirtoCommerce.SearchModule.Core@3.824.0
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.9.0
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.9.0-alpha.506
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.9.0-alpha.507
