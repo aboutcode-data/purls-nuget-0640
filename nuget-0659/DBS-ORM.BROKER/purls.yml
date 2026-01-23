@@ -8,3 +8,5 @@
 - pkg:nuget/DBS-ORM.BROKER@9.24.0
 - pkg:nuget/DBS-ORM.BROKER@9.25.0
 - pkg:nuget/DBS-ORM.BROKER@9.26.0
+- pkg:nuget/DBS-ORM.BROKER@9.29.0
+- pkg:nuget/DBS-ORM.BROKER@9.30.0
