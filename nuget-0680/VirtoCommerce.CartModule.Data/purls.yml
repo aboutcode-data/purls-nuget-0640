@@ -337,5 +337,6 @@
 - pkg:nuget/VirtoCommerce.CartModule.Data@3.834.0-alpha.758-vcst-3772-shopping-list-sharing
 - pkg:nuget/VirtoCommerce.CartModule.Data@3.835.0
 - pkg:nuget/VirtoCommerce.CartModule.Data@3.835.0-alpha.761-vcst-3772-shopping-list-sharing
+- pkg:nuget/VirtoCommerce.CartModule.Data@3.841.0-alpha.771-variation-configuration-type
 - pkg:nuget/VirtoCommerce.CartModule.Data@3.9.0
 - pkg:nuget/VirtoCommerce.CartModule.Data@3.9.0-alpha.433
