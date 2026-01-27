@@ -24,3 +24,4 @@
 - pkg:nuget/Akka.Logger.NLog@1.5.0
 - pkg:nuget/Akka.Logger.NLog@1.5.13
 - pkg:nuget/Akka.Logger.NLog@1.5.41
+- pkg:nuget/Akka.Logger.NLog@1.5.59
