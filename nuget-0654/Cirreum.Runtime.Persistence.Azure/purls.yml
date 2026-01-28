@@ -1,1 +1,2 @@
 - pkg:nuget/Cirreum.Runtime.Persistence.Azure@1.0.2
+- pkg:nuget/Cirreum.Runtime.Persistence.Azure@1.0.3
