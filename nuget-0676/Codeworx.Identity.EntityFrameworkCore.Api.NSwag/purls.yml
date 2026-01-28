@@ -1,3 +1,4 @@
+- pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.110.0
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.0
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.1
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.2
@@ -8,6 +9,7 @@
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.6-beta-16006
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.7
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.8
+- pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.16000.9
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.17000.0
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.17000.1
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.17000.2
@@ -24,10 +26,12 @@
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.18000.6-beta-18006
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.18000.7
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.18000.8
+- pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.18000.9
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.19000.0
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.19000.0-beta-00019
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.19000.1
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.19000.2
+- pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.19000.3
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.6000.0
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.6000.1
 - pkg:nuget/Codeworx.Identity.EntityFrameworkCore.Api.NSwag@1.6000.10
