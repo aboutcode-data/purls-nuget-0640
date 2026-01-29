@@ -1,1 +1,2 @@
 - pkg:nuget/Sekiban.Dcb.Sqlite@10.0.3
+- pkg:nuget/Sekiban.Dcb.Sqlite@10.0.8
