@@ -1,0 +1,2 @@
+- pkg:nuget/Apex.Core.CrossCuttingConcerns.Logging.Serilog.File@1.0.0
+- pkg:nuget/Apex.Core.CrossCuttingConcerns.Logging.Serilog.File@1.0.1
