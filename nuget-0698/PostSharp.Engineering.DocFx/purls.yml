@@ -128,3 +128,5 @@
 - pkg:nuget/PostSharp.Engineering.DocFx@2023.2.255
 - pkg:nuget/PostSharp.Engineering.DocFx@2023.2.291
 - pkg:nuget/PostSharp.Engineering.DocFx@2023.2.304
+- pkg:nuget/PostSharp.Engineering.DocFx@2023.2.328
+- pkg:nuget/PostSharp.Engineering.DocFx@2023.2.329
