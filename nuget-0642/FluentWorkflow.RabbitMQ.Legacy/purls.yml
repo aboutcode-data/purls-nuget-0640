@@ -26,3 +26,4 @@
 - pkg:nuget/FluentWorkflow.RabbitMQ.Legacy@2.1.0-pre-001
 - pkg:nuget/FluentWorkflow.RabbitMQ.Legacy@2.1.0-pre-002
 - pkg:nuget/FluentWorkflow.RabbitMQ.Legacy@2.1.1
+- pkg:nuget/FluentWorkflow.RabbitMQ.Legacy@2.5.0
