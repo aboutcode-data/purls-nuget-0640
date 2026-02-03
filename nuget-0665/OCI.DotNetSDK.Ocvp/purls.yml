@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Ocvp@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocvp@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Ocvp@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Ocvp@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocvp@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocvp@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Ocvp@14.1.0

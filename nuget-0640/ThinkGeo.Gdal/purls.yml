@@ -1040,3 +1040,4 @@
 - pkg:nuget/ThinkGeo.Gdal@14.5.0-beta008
 - pkg:nuget/ThinkGeo.Gdal@14.5.0-beta010
 - pkg:nuget/ThinkGeo.Gdal@14.5.0-beta015
+- pkg:nuget/ThinkGeo.Gdal@14.5.0-beta080
