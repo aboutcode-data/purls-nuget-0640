@@ -52,6 +52,7 @@
 - pkg:nuget/GDataCyberDefense.Vaas@8.0.3
 - pkg:nuget/GDataCyberDefense.Vaas@8.1.0
 - pkg:nuget/GDataCyberDefense.Vaas@8.1.1
+- pkg:nuget/GDataCyberDefense.Vaas@8.1.11
 - pkg:nuget/GDataCyberDefense.Vaas@8.1.2
 - pkg:nuget/GDataCyberDefense.Vaas@8.1.3
 - pkg:nuget/GDataCyberDefense.Vaas@8.1.4
