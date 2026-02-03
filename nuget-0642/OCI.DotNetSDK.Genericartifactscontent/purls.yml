@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@19.0.0
 - pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@19.1.0
 - pkg:nuget/OCI.DotNetSDK.Genericartifactscontent@19.2.0

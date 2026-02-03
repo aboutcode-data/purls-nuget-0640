@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@29.1.0
 - pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@29.2.0
 - pkg:nuget/OCI.DotNetSDK.Servicemanagerproxy@29.3.0

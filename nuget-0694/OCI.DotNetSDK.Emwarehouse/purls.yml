@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Emwarehouse@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Emwarehouse@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Emwarehouse@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Emwarehouse@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Emwarehouse@39.2.0
 - pkg:nuget/OCI.DotNetSDK.Emwarehouse@39.3.0
 - pkg:nuget/OCI.DotNetSDK.Emwarehouse@40.0.0
