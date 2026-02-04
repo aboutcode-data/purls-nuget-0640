@@ -39,6 +39,7 @@
 - pkg:nuget/Fp@0.26.0
 - pkg:nuget/Fp@0.27.0
 - pkg:nuget/Fp@0.27.1
+- pkg:nuget/Fp@0.28.0
 - pkg:nuget/Fp@0.3.0
 - pkg:nuget/Fp@0.3.1
 - pkg:nuget/Fp@0.3.2
