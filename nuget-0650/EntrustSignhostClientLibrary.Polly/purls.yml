@@ -5,3 +5,4 @@
 - pkg:nuget/EntrustSignhostClientLibrary.Polly@4.0.5-preview
 - pkg:nuget/EntrustSignhostClientLibrary.Polly@4.0.6-preview
 - pkg:nuget/EntrustSignhostClientLibrary.Polly@4.0.7-preview
+- pkg:nuget/EntrustSignhostClientLibrary.Polly@5.0.0
