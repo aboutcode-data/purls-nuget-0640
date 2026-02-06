@@ -1165,6 +1165,7 @@
 - pkg:nuget/AWSSDK.Glue@3.7.512.5
 - pkg:nuget/AWSSDK.Glue@3.7.512.6
 - pkg:nuget/AWSSDK.Glue@3.7.513.5
+- pkg:nuget/AWSSDK.Glue@3.7.514
 - pkg:nuget/AWSSDK.Glue@3.7.6
 - pkg:nuget/AWSSDK.Glue@3.7.6.1
 - pkg:nuget/AWSSDK.Glue@3.7.6.2
@@ -1256,6 +1257,7 @@
 - pkg:nuget/AWSSDK.Glue@4.0.16.2
 - pkg:nuget/AWSSDK.Glue@4.0.17.1
 - pkg:nuget/AWSSDK.Glue@4.0.2
+- pkg:nuget/AWSSDK.Glue@4.0.25
 - pkg:nuget/AWSSDK.Glue@4.0.3
 - pkg:nuget/AWSSDK.Glue@4.0.4
 - pkg:nuget/AWSSDK.Glue@4.0.4.1

@@ -989,6 +989,7 @@
 - pkg:nuget/AWSSDK.AccessAnalyzer@3.7.503.16
 - pkg:nuget/AWSSDK.AccessAnalyzer@3.7.503.18
 - pkg:nuget/AWSSDK.AccessAnalyzer@3.7.503.3
+- pkg:nuget/AWSSDK.AccessAnalyzer@3.7.503.33
 - pkg:nuget/AWSSDK.AccessAnalyzer@3.7.503.5
 - pkg:nuget/AWSSDK.AccessAnalyzer@3.7.503.7
 - pkg:nuget/AWSSDK.AccessAnalyzer@4.0.0
