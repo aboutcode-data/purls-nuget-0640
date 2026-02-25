@@ -6,4 +6,5 @@
 - pkg:nuget/Shouldly.Json@0.5.0
 - pkg:nuget/Shouldly.Json@0.6.0
 - pkg:nuget/Shouldly.Json@0.6.1
+- pkg:nuget/Shouldly.Json@0.8.0
 - pkg:nuget/Shouldly.Json@1.0.0

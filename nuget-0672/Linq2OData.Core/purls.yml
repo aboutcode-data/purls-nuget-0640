@@ -1,1 +1,3 @@
 - pkg:nuget/Linq2OData.Core@0.13.52-prerelease
+- pkg:nuget/Linq2OData.Core@0.13.60-prerelease
+- pkg:nuget/Linq2OData.Core@0.13.95-prerelease
