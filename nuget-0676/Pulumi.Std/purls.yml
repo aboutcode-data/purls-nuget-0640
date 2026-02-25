@@ -8,3 +8,5 @@
 - pkg:nuget/Pulumi.Std@1.7.3
 - pkg:nuget/Pulumi.Std@2.1.0
 - pkg:nuget/Pulumi.Std@2.2.0
+- pkg:nuget/Pulumi.Std@2.3.2
+- pkg:nuget/Pulumi.Std@2.4.0-alpha.1770743682

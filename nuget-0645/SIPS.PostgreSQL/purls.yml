@@ -1,2 +1,3 @@
 - pkg:nuget/SIPS.PostgreSQL@1.0.0
 - pkg:nuget/SIPS.PostgreSQL@1.0.1
+- pkg:nuget/SIPS.PostgreSQL@1.0.6
