@@ -1,1 +1,2 @@
 - pkg:nuget/Dex.Cap.OnceExecutor.AspNetScheduler@8.0.1
+- pkg:nuget/Dex.Cap.OnceExecutor.AspNetScheduler@8.2.6

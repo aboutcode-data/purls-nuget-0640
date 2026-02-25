@@ -1,1 +1,2 @@
 - pkg:nuget/Dapr.Workflow.Grpc@1.17.0-rc02
+- pkg:nuget/Dapr.Workflow.Grpc@1.17.0-rc14

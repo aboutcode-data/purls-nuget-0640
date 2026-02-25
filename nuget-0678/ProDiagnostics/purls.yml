@@ -1,2 +1,3 @@
+- pkg:nuget/ProDiagnostics@11.3.11-preview.11
 - pkg:nuget/ProDiagnostics@11.3.9-preview.21
 - pkg:nuget/ProDiagnostics@11.3.9-preview.22
