@@ -44,3 +44,4 @@
 - pkg:nuget/BIA.Net.Core.Infrastructure.Service@5.0.1
 - pkg:nuget/BIA.Net.Core.Infrastructure.Service@5.0.2
 - pkg:nuget/BIA.Net.Core.Infrastructure.Service@5.1.0
+- pkg:nuget/BIA.Net.Core.Infrastructure.Service@6.1.0

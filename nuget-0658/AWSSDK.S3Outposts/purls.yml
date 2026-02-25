@@ -847,6 +847,7 @@
 - pkg:nuget/AWSSDK.S3Outposts@3.7.502.20
 - pkg:nuget/AWSSDK.S3Outposts@3.7.502.29
 - pkg:nuget/AWSSDK.S3Outposts@3.7.502.36
+- pkg:nuget/AWSSDK.S3Outposts@3.7.502.41
 - pkg:nuget/AWSSDK.S3Outposts@3.7.502.6
 - pkg:nuget/AWSSDK.S3Outposts@4.0.0
 - pkg:nuget/AWSSDK.S3Outposts@4.0.0-preview

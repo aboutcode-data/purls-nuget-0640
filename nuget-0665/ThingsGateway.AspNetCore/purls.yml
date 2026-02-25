@@ -1,1 +1,2 @@
 - pkg:nuget/ThingsGateway.AspNetCore@12.4.10
+- pkg:nuget/ThingsGateway.AspNetCore@12.4.20

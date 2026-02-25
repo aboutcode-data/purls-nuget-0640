@@ -7,6 +7,7 @@
 - pkg:nuget/DotNetCore.CAP.MySql@1.1.0-preview-00018359725
 - pkg:nuget/DotNetCore.CAP.MySql@1.1.1-preview-00018720262
 - pkg:nuget/DotNetCore.CAP.MySql@1.2.0-preview-00019208119
+- pkg:nuget/DotNetCore.CAP.MySql@10.0.2-preview-287480508
 - pkg:nuget/DotNetCore.CAP.MySql@2.0.0
 - pkg:nuget/DotNetCore.CAP.MySql@2.0.0-preview-19793485
 - pkg:nuget/DotNetCore.CAP.MySql@2.0.0-preview-20091963

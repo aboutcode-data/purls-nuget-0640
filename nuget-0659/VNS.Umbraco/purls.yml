@@ -44,6 +44,7 @@
 - pkg:nuget/VNS.Umbraco@16.1.1
 - pkg:nuget/VNS.Umbraco@17.0.9
 - pkg:nuget/VNS.Umbraco@17.1.0
+- pkg:nuget/VNS.Umbraco@17.2.0
 - pkg:nuget/VNS.Umbraco@2.0.0
 - pkg:nuget/VNS.Umbraco@2.0.1
 - pkg:nuget/VNS.Umbraco@2.0.10

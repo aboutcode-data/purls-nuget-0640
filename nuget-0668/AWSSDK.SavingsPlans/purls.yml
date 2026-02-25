@@ -1002,6 +1002,8 @@
 - pkg:nuget/AWSSDK.SavingsPlans@3.7.504.10
 - pkg:nuget/AWSSDK.SavingsPlans@3.7.504.12
 - pkg:nuget/AWSSDK.SavingsPlans@3.7.504.26
+- pkg:nuget/AWSSDK.SavingsPlans@3.7.504.30
+- pkg:nuget/AWSSDK.SavingsPlans@3.7.504.31
 - pkg:nuget/AWSSDK.SavingsPlans@3.7.504.4
 - pkg:nuget/AWSSDK.SavingsPlans@3.7.504.5
 - pkg:nuget/AWSSDK.SavingsPlans@3.7.504.9

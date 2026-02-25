@@ -556,3 +556,5 @@
 - pkg:nuget/VisioForge.DotNet.Core.UI.Avalonia@2025.9.5
 - pkg:nuget/VisioForge.DotNet.Core.UI.Avalonia@2025.9.6
 - pkg:nuget/VisioForge.DotNet.Core.UI.Avalonia@2025.9.7
+- pkg:nuget/VisioForge.DotNet.Core.UI.Avalonia@2026.2.11
+- pkg:nuget/VisioForge.DotNet.Core.UI.Avalonia@2026.2.5

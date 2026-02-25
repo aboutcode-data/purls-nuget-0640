@@ -190,3 +190,4 @@
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.0-alpha.6
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.0-alpha.8
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.13
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.20

@@ -250,6 +250,9 @@
 - pkg:nuget/Parlem.Provisioning.Interfaces@8.0.6-beta2
 - pkg:nuget/Parlem.Provisioning.Interfaces@8.0.6-beta3
 - pkg:nuget/Parlem.Provisioning.Interfaces@8.0.6-beta4
+- pkg:nuget/Parlem.Provisioning.Interfaces@8.0.60
+- pkg:nuget/Parlem.Provisioning.Interfaces@8.0.61
+- pkg:nuget/Parlem.Provisioning.Interfaces@8.0.62-beta1
 - pkg:nuget/Parlem.Provisioning.Interfaces@8.0.7
 - pkg:nuget/Parlem.Provisioning.Interfaces@8.0.8
 - pkg:nuget/Parlem.Provisioning.Interfaces@8.0.8-beta1

@@ -213,6 +213,8 @@
 - pkg:nuget/AWSSDK.PCS@3.7.507.4
 - pkg:nuget/AWSSDK.PCS@3.7.507.6
 - pkg:nuget/AWSSDK.PCS@3.7.507.8
+- pkg:nuget/AWSSDK.PCS@3.7.508.3
+- pkg:nuget/AWSSDK.PCS@3.7.508.4
 - pkg:nuget/AWSSDK.PCS@4.0.0
 - pkg:nuget/AWSSDK.PCS@4.0.0-preview.10
 - pkg:nuget/AWSSDK.PCS@4.0.0-preview.11

@@ -8,3 +8,4 @@
 - pkg:nuget/Microsoft.SqlServer.Dacpacs.Azure.Master@170.0.0
 - pkg:nuget/Microsoft.SqlServer.Dacpacs.Azure.Master@170.0.1
 - pkg:nuget/Microsoft.SqlServer.Dacpacs.Azure.Master@170.0.2
+- pkg:nuget/Microsoft.SqlServer.Dacpacs.Azure.Master@170.0.3

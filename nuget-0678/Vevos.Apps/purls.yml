@@ -51,4 +51,17 @@
 - pkg:nuget/Vevos.Apps@0.31.0
 - pkg:nuget/Vevos.Apps@0.31.1
 - pkg:nuget/Vevos.Apps@0.32.0
+- pkg:nuget/Vevos.Apps@0.32.1
+- pkg:nuget/Vevos.Apps@0.32.2
 - pkg:nuget/Vevos.Apps@0.32.3
+- pkg:nuget/Vevos.Apps@0.32.4
+- pkg:nuget/Vevos.Apps@0.33.0
+- pkg:nuget/Vevos.Apps@0.33.1
+- pkg:nuget/Vevos.Apps@0.33.2
+- pkg:nuget/Vevos.Apps@0.34.0
+- pkg:nuget/Vevos.Apps@0.35.0
+- pkg:nuget/Vevos.Apps@0.35.0-alpha.1
+- pkg:nuget/Vevos.Apps@0.35.0-alpha.2
+- pkg:nuget/Vevos.Apps@0.35.0-alpha.3
+- pkg:nuget/Vevos.Apps@0.35.0-alpha.4
+- pkg:nuget/Vevos.Apps@0.35.0-alpha.5
