@@ -10,3 +10,4 @@
 - pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.33
 - pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.39
 - pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.40
+- pkg:nuget/EasyExtensions.AspNetCore.Stack@3.0.42
