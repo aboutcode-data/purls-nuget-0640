@@ -1,4 +1,5 @@
 - pkg:nuget/Codebelt.Extensions.Newtonsoft.Json.App@10.0.0
+- pkg:nuget/Codebelt.Extensions.Newtonsoft.Json.App@10.0.3
 - pkg:nuget/Codebelt.Extensions.Newtonsoft.Json.App@8.4.0
 - pkg:nuget/Codebelt.Extensions.Newtonsoft.Json.App@9.0.0
 - pkg:nuget/Codebelt.Extensions.Newtonsoft.Json.App@9.0.0-preview.1

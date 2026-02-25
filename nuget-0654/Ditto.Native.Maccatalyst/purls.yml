@@ -38,5 +38,8 @@
 - pkg:nuget/Ditto.Native.Maccatalyst@4.12.2-rc.2
 - pkg:nuget/Ditto.Native.Maccatalyst@4.13.0-experimental-internal-jj-ws-support.1
 - pkg:nuget/Ditto.Native.Maccatalyst@4.13.2
+- pkg:nuget/Ditto.Native.Maccatalyst@4.14.3-rc.2
 - pkg:nuget/Ditto.Native.Maccatalyst@5.0.0-dev-weekly.20251222.151
+- pkg:nuget/Ditto.Native.Maccatalyst@5.0.0-dev-weekly.20260209.206
 - pkg:nuget/Ditto.Native.Maccatalyst@5.0.0-experimental-gha-sdk-publish-test.24
+- pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-experimental-transports-android-module.8

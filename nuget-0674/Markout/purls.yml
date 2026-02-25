@@ -1,1 +1,4 @@
 - pkg:nuget/Markout@0.1.5
+- pkg:nuget/Markout@0.3.0
+- pkg:nuget/Markout@0.3.4
+- pkg:nuget/Markout@0.9.1

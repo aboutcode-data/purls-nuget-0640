@@ -35,3 +35,4 @@
 - pkg:nuget/Nodinite.Serilog.FileSink@2.0.7
 - pkg:nuget/Nodinite.Serilog.FileSink@2.0.8
 - pkg:nuget/Nodinite.Serilog.FileSink@2.0.9
+- pkg:nuget/Nodinite.Serilog.FileSink@7.3.0
