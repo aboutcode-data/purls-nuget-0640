@@ -11,3 +11,6 @@
 - pkg:nuget/Wo.Tools@1.0.7
 - pkg:nuget/Wo.Tools@1.0.8
 - pkg:nuget/Wo.Tools@1.0.9
+- pkg:nuget/Wo.Tools@10.0.1
+- pkg:nuget/Wo.Tools@10.0.2
+- pkg:nuget/Wo.Tools@10.0.3

@@ -1,4 +1,5 @@
 - pkg:nuget/Noder.Word@10.0.0
+- pkg:nuget/Noder.Word@10.0.3
 - pkg:nuget/Noder.Word@8.0.0
 - pkg:nuget/Noder.Word@8.0.10
 - pkg:nuget/Noder.Word@8.0.11
