@@ -40,3 +40,4 @@
 - pkg:nuget/DHI.Services.MIKECore@7.0.1
 - pkg:nuget/DHI.Services.MIKECore@7.0.2
 - pkg:nuget/DHI.Services.MIKECore@8.0.0
+- pkg:nuget/DHI.Services.MIKECore@9.0.2
