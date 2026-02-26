@@ -168,6 +168,9 @@
 - pkg:nuget/librdkafka.redist@2.11.0-RC4
 - pkg:nuget/librdkafka.redist@2.11.1
 - pkg:nuget/librdkafka.redist@2.11.1-RC2
+- pkg:nuget/librdkafka.redist@2.13.0-RC2
+- pkg:nuget/librdkafka.redist@2.13.1-alpha.0
+- pkg:nuget/librdkafka.redist@2.13.2-RC1
 - pkg:nuget/librdkafka.redist@2.2.0
 - pkg:nuget/librdkafka.redist@2.2.0-RC1
 - pkg:nuget/librdkafka.redist@2.2.0-RC2

@@ -19,5 +19,6 @@
 - pkg:nuget/QwFrameworkCore@1.0.42
 - pkg:nuget/QwFrameworkCore@1.0.43
 - pkg:nuget/QwFrameworkCore@1.10.1
+- pkg:nuget/QwFrameworkCore@1.10.11
 - pkg:nuget/QwFrameworkCore@1.9.0
 - pkg:nuget/QwFrameworkCore@1.9.2
