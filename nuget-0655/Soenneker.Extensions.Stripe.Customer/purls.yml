@@ -71,3 +71,4 @@
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@4.0.73
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@4.0.74
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@4.0.76
+- pkg:nuget/Soenneker.Extensions.Stripe.Customer@4.0.84
