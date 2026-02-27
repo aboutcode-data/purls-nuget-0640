@@ -11,3 +11,4 @@
 - pkg:nuget/DTOMaker.SrcGen.JsonSystemText@1.0.9-dev
 - pkg:nuget/DTOMaker.SrcGen.JsonSystemText@1.4.7-dev
 - pkg:nuget/DTOMaker.SrcGen.JsonSystemText@1.8.1-dev
+- pkg:nuget/DTOMaker.SrcGen.JsonSystemText@2.0.13-dev
