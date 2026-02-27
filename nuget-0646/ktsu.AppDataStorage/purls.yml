@@ -71,6 +71,7 @@
 - pkg:nuget/ktsu.AppDataStorage@1.15.8-pre.2
 - pkg:nuget/ktsu.AppDataStorage@1.15.9
 - pkg:nuget/ktsu.AppDataStorage@1.16.2
+- pkg:nuget/ktsu.AppDataStorage@1.16.4
 - pkg:nuget/ktsu.AppDataStorage@1.2.0
 - pkg:nuget/ktsu.AppDataStorage@1.2.1
 - pkg:nuget/ktsu.AppDataStorage@1.2.2
