@@ -135,6 +135,7 @@
 - pkg:nuget/Nager.Date@2.0.2
 - pkg:nuget/Nager.Date@2.1.0
 - pkg:nuget/Nager.Date@2.10.2
+- pkg:nuget/Nager.Date@2.16.1
 - pkg:nuget/Nager.Date@2.2.0
 - pkg:nuget/Nager.Date@2.2.1
 - pkg:nuget/Nager.Date@2.2.2
