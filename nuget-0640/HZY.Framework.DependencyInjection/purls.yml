@@ -31,6 +31,7 @@
 - pkg:nuget/HZY.Framework.DependencyInjection@0.0.1.7
 - pkg:nuget/HZY.Framework.DependencyInjection@0.0.1.8
 - pkg:nuget/HZY.Framework.DependencyInjection@0.0.1.9
+- pkg:nuget/HZY.Framework.DependencyInjection@10.0.8
 - pkg:nuget/HZY.Framework.DependencyInjection@5.0.0
 - pkg:nuget/HZY.Framework.DependencyInjection@5.0.1
 - pkg:nuget/HZY.Framework.DependencyInjection@5.0.2
