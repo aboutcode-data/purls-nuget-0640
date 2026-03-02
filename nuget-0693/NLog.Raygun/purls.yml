@@ -13,3 +13,4 @@
 - pkg:nuget/NLog.Raygun@7.1.0-pre-1
 - pkg:nuget/NLog.Raygun@8.0.0
 - pkg:nuget/NLog.Raygun@8.1.0
+- pkg:nuget/NLog.Raygun@8.1.2
