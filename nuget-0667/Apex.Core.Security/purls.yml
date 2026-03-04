@@ -1,2 +1,4 @@
 - pkg:nuget/Apex.Core.Security@1.0.0
 - pkg:nuget/Apex.Core.Security@1.0.3
+- pkg:nuget/Apex.Core.Security@1.0.4
+- pkg:nuget/Apex.Core.Security@1.0.5
