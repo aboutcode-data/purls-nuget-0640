@@ -1,1 +1,2 @@
 - pkg:nuget/Performer.Ado.PostgreSql@0.2.0-alpha
+- pkg:nuget/Performer.Ado.PostgreSql@1.10.0-dev.2
