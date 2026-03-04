@@ -5,3 +5,4 @@
 - pkg:nuget/GoSMSCore@5.1.2
 - pkg:nuget/GoSMSCore@5.1.3
 - pkg:nuget/GoSMSCore@5.1.4
+- pkg:nuget/GoSMSCore@6.2.0
