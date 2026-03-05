@@ -105,3 +105,5 @@
 - pkg:nuget/NewLife.MQTT@2.1.2025.820-beta1832
 - pkg:nuget/NewLife.MQTT@2.1.2025.901-beta0607
 - pkg:nuget/NewLife.MQTT@2.1.2025.914-beta1427
+- pkg:nuget/NewLife.MQTT@3.0.2026.305
+- pkg:nuget/NewLife.MQTT@3.0.2026.305-beta1402
