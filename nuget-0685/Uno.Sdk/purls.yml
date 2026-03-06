@@ -1123,4 +1123,5 @@
 - pkg:nuget/Uno.Sdk@6.5.0-dev.25
 - pkg:nuget/Uno.Sdk@6.5.0-dev.86
 - pkg:nuget/Uno.Sdk@6.5.0-dev.88
+- pkg:nuget/Uno.Sdk@6.6.0-dev.119
 - pkg:nuget/Uno.Sdk@6.6.0-dev.84

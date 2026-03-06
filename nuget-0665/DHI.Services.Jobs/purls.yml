@@ -36,6 +36,7 @@
 - pkg:nuget/DHI.Services.Jobs@16.0.1
 - pkg:nuget/DHI.Services.Jobs@16.0.2
 - pkg:nuget/DHI.Services.Jobs@16.0.3
+- pkg:nuget/DHI.Services.Jobs@16.1.7
 - pkg:nuget/DHI.Services.Jobs@6.9.2
 - pkg:nuget/DHI.Services.Jobs@6.9.3
 - pkg:nuget/DHI.Services.Jobs@6.9.4
