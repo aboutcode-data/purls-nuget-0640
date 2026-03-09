@@ -268,6 +268,7 @@
 - pkg:nuget/TencentCloudSDK.Ckafka@3.0.1328
 - pkg:nuget/TencentCloudSDK.Ckafka@3.0.1343
 - pkg:nuget/TencentCloudSDK.Ckafka@3.0.1349
+- pkg:nuget/TencentCloudSDK.Ckafka@3.0.1381
 - pkg:nuget/TencentCloudSDK.Ckafka@3.0.168
 - pkg:nuget/TencentCloudSDK.Ckafka@3.0.169
 - pkg:nuget/TencentCloudSDK.Ckafka@3.0.170
