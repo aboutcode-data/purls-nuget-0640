@@ -224,6 +224,7 @@
 - pkg:nuget/Terminal.Gui@2.0.0-alpha.3713
 - pkg:nuget/Terminal.Gui@2.0.0-alpha.3720
 - pkg:nuget/Terminal.Gui@2.0.0-alpha.3721
+- pkg:nuget/Terminal.Gui@2.0.0-beta.81
 - pkg:nuget/Terminal.Gui@2.0.0-dev.1807
 - pkg:nuget/Terminal.Gui@2.0.0-dev.1808
 - pkg:nuget/Terminal.Gui@2.0.0-dev.1809
