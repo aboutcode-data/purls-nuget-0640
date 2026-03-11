@@ -25,3 +25,4 @@
 - pkg:nuget/Fusio.SDK@5.1.7
 - pkg:nuget/Fusio.SDK@5.1.8
 - pkg:nuget/Fusio.SDK@6.0.0
+- pkg:nuget/Fusio.SDK@7.0.4
