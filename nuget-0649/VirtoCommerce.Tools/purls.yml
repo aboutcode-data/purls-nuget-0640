@@ -15,6 +15,7 @@
 - pkg:nuget/VirtoCommerce.Tools@3.10.0
 - pkg:nuget/VirtoCommerce.Tools@3.10.0-alpha.1412
 - pkg:nuget/VirtoCommerce.Tools@3.10.0-alpha.1414
+- pkg:nuget/VirtoCommerce.Tools@3.1002.0
 - pkg:nuget/VirtoCommerce.Tools@3.11.0
 - pkg:nuget/VirtoCommerce.Tools@3.11.0-alpha.1415
 - pkg:nuget/VirtoCommerce.Tools@3.11.0-alpha.1416
