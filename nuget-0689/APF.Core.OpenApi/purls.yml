@@ -13,3 +13,4 @@
 - pkg:nuget/APF.Core.OpenApi@8.0.0.3
 - pkg:nuget/APF.Core.OpenApi@8.0.0.3-Beta-01
 - pkg:nuget/APF.Core.OpenApi@8.0.0.4-Beta-01
+- pkg:nuget/APF.Core.OpenApi@8.0.0.7
