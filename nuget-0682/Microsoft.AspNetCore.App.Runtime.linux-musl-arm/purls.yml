@@ -9,6 +9,8 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@10.0.0-rc.2.25502.107
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@10.0.1
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@10.0.2
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@10.0.3
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@5.0.1
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@5.0.10
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@5.0.11
@@ -122,6 +124,10 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.19
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.2
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.20
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.21
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.22
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.23
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.24
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.3
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.4
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@8.0.5
@@ -140,6 +146,7 @@
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.0-rc.2.24474.3
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.1
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.10
+- pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.11
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.12
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.13
 - pkg:nuget/Microsoft.AspNetCore.App.Runtime.linux-musl-arm@9.0.2

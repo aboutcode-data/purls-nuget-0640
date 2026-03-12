@@ -1,3 +1,4 @@
 - pkg:nuget/Deneblab.StashLock.Cli@0.2.63
 - pkg:nuget/Deneblab.StashLock.Cli@0.2.82
 - pkg:nuget/Deneblab.StashLock.Cli@0.2.84
+- pkg:nuget/Deneblab.StashLock.Cli@0.3.108
