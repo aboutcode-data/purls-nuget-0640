@@ -69,3 +69,4 @@
 - pkg:nuget/Chrysalis@0.7.7
 - pkg:nuget/Chrysalis@0.7.8
 - pkg:nuget/Chrysalis@0.7.9
+- pkg:nuget/Chrysalis@1.4.0-alpha
