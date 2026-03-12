@@ -663,3 +663,5 @@
 - pkg:nuget/NCSSBO@1.9.3.1
 - pkg:nuget/NCSSBO@1.9.3.2
 - pkg:nuget/NCSSBO@2601.2505.1.74
+- pkg:nuget/NCSSBO@2601.2505.1.79
+- pkg:nuget/NCSSBO@2601.2505.1.80
