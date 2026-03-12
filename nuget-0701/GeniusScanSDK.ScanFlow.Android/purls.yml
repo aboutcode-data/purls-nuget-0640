@@ -79,6 +79,7 @@
 - pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.13.0
 - pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.14.0
 - pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.16.0
+- pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.17.5
 - pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.2.0
 - pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.3.0
 - pkg:nuget/GeniusScanSDK.ScanFlow.Android@5.3.1

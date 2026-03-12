@@ -82,6 +82,9 @@
 - pkg:nuget/Soenneker.Extensions.Logger@4.0.143
 - pkg:nuget/Soenneker.Extensions.Logger@4.0.144
 - pkg:nuget/Soenneker.Extensions.Logger@4.0.152
+- pkg:nuget/Soenneker.Extensions.Logger@4.0.153
+- pkg:nuget/Soenneker.Extensions.Logger@4.0.154
+- pkg:nuget/Soenneker.Extensions.Logger@4.0.156
 - pkg:nuget/Soenneker.Extensions.Logger@4.0.82
 - pkg:nuget/Soenneker.Extensions.Logger@4.0.83
 - pkg:nuget/Soenneker.Extensions.Logger@4.0.84
