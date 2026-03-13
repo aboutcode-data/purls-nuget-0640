@@ -207,3 +207,4 @@
 - pkg:nuget/Soenneker.ConcurrentProcessing.Executor@4.0.268
 - pkg:nuget/Soenneker.ConcurrentProcessing.Executor@4.0.271
 - pkg:nuget/Soenneker.ConcurrentProcessing.Executor@4.0.273
+- pkg:nuget/Soenneker.ConcurrentProcessing.Executor@4.0.277

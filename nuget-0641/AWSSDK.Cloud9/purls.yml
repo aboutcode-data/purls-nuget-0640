@@ -1163,6 +1163,7 @@
 - pkg:nuget/AWSSDK.Cloud9@3.7.502.30
 - pkg:nuget/AWSSDK.Cloud9@3.7.502.37
 - pkg:nuget/AWSSDK.Cloud9@3.7.502.42
+- pkg:nuget/AWSSDK.Cloud9@3.7.502.49
 - pkg:nuget/AWSSDK.Cloud9@3.7.502.7
 - pkg:nuget/AWSSDK.Cloud9@3.7.502.9
 - pkg:nuget/AWSSDK.Cloud9@4.0.0

@@ -1220,6 +1220,7 @@
 - pkg:nuget/AWSSDK.SimpleNotificationService@3.7.502.27
 - pkg:nuget/AWSSDK.SimpleNotificationService@3.7.502.41
 - pkg:nuget/AWSSDK.SimpleNotificationService@3.7.502.46
+- pkg:nuget/AWSSDK.SimpleNotificationService@3.7.502.53
 - pkg:nuget/AWSSDK.SimpleNotificationService@4.0.0
 - pkg:nuget/AWSSDK.SimpleNotificationService@4.0.0-preview
 - pkg:nuget/AWSSDK.SimpleNotificationService@4.0.0-preview.10
@@ -1260,3 +1261,4 @@
 - pkg:nuget/AWSSDK.SimpleNotificationService@4.0.1.2
 - pkg:nuget/AWSSDK.SimpleNotificationService@4.0.1.4
 - pkg:nuget/AWSSDK.SimpleNotificationService@4.0.1.8
+- pkg:nuget/AWSSDK.SimpleNotificationService@4.0.2.19

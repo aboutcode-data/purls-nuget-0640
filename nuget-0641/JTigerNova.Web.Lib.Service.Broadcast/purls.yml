@@ -189,6 +189,7 @@
 - pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.2.1
 - pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.25.0
 - pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.27.1
+- pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.27.2
 - pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.3.0
 - pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.3.1
 - pkg:nuget/JTigerNova.Web.Lib.Service.Broadcast@5.3.2
