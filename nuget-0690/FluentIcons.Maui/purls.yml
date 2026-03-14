@@ -82,3 +82,5 @@
 - pkg:nuget/FluentIcons.Maui@1.1.311-ci
 - pkg:nuget/FluentIcons.Maui@1.2.313
 - pkg:nuget/FluentIcons.Maui@1.2.313-ci
+- pkg:nuget/FluentIcons.Maui@2.0.321
+- pkg:nuget/FluentIcons.Maui@2.0.321-ci
