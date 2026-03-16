@@ -91,3 +91,4 @@
 - pkg:nuget/Excalibur.Hosting.Web@2.2.8
 - pkg:nuget/Excalibur.Hosting.Web@2.2.9
 - pkg:nuget/Excalibur.Hosting.Web@3.0.0-alpha.31
+- pkg:nuget/Excalibur.Hosting.Web@3.0.0-alpha.42
