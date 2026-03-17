@@ -1,6 +1,7 @@
 - pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@1.0.1
 - pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@1.0.2
 - pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@1.0.3
+- pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@10.0.14
 - pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@7.0.1
 - pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@7.0.2
 - pkg:nuget/WindowsGenericPopups.WPFCoreLibrary@8.0.1
