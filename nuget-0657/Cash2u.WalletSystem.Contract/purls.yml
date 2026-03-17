@@ -9,3 +9,4 @@
 - pkg:nuget/Cash2u.WalletSystem.Contract@1.0.4-preview-2
 - pkg:nuget/Cash2u.WalletSystem.Contract@1.0.5
 - pkg:nuget/Cash2u.WalletSystem.Contract@1.0.5-auto-repayment-to-partner
+- pkg:nuget/Cash2u.WalletSystem.Contract@1.0.6-new-id
