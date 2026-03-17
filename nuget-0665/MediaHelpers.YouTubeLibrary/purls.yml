@@ -1,3 +1,4 @@
+- pkg:nuget/MediaHelpers.YouTubeLibrary@10.0.12
 - pkg:nuget/MediaHelpers.YouTubeLibrary@8.0.1
 - pkg:nuget/MediaHelpers.YouTubeLibrary@8.0.2
 - pkg:nuget/MediaHelpers.YouTubeLibrary@8.0.3
