@@ -1,4 +1,5 @@
 - pkg:nuget/DummyRummy@1.0.1
+- pkg:nuget/DummyRummy@10.0.5
 - pkg:nuget/DummyRummy@2.0.1
 - pkg:nuget/DummyRummy@2.0.2
 - pkg:nuget/DummyRummy@7.0.1

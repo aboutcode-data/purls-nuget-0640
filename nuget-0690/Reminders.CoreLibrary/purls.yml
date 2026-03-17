@@ -1,4 +1,5 @@
 - pkg:nuget/Reminders.CoreLibrary@1.0.1
+- pkg:nuget/Reminders.CoreLibrary@10.0.14
 - pkg:nuget/Reminders.CoreLibrary@2.0.1
 - pkg:nuget/Reminders.CoreLibrary@2.0.2
 - pkg:nuget/Reminders.CoreLibrary@2.0.3

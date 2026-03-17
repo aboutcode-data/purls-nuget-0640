@@ -1,4 +1,5 @@
 - pkg:nuget/DiceDominos@1.0.1
+- pkg:nuget/DiceDominos@10.0.5
 - pkg:nuget/DiceDominos@2.0.1
 - pkg:nuget/DiceDominos@2.0.2
 - pkg:nuget/DiceDominos@7.0.1
