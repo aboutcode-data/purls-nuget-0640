@@ -1,4 +1,5 @@
 - pkg:nuget/Chao.Abp.WebApiClient@10.1.1.1
+- pkg:nuget/Chao.Abp.WebApiClient@10.1.1.2
 - pkg:nuget/Chao.Abp.WebApiClient@9.0.2
 - pkg:nuget/Chao.Abp.WebApiClient@9.0.3
 - pkg:nuget/Chao.Abp.WebApiClient@9.0.4
