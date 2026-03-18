@@ -86,3 +86,4 @@
 - pkg:nuget/Nethereum.JsonRpc.Client@4.8.0
 - pkg:nuget/Nethereum.JsonRpc.Client@4.9.0
 - pkg:nuget/Nethereum.JsonRpc.Client@5.0.0
+- pkg:nuget/Nethereum.JsonRpc.Client@6.0.4
