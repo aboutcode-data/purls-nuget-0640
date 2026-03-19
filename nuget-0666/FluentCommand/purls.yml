@@ -51,6 +51,7 @@
 - pkg:nuget/FluentCommand@13.3.1
 - pkg:nuget/FluentCommand@13.3.3
 - pkg:nuget/FluentCommand@13.4.0
+- pkg:nuget/FluentCommand@15.0.0
 - pkg:nuget/FluentCommand@2.0.0.46
 - pkg:nuget/FluentCommand@3.0.0.49
 - pkg:nuget/FluentCommand@4.0.0.108
