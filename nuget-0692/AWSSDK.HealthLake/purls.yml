@@ -828,6 +828,7 @@
 - pkg:nuget/AWSSDK.HealthLake@3.7.503.40
 - pkg:nuget/AWSSDK.HealthLake@3.7.503.45
 - pkg:nuget/AWSSDK.HealthLake@3.7.503.52
+- pkg:nuget/AWSSDK.HealthLake@3.7.503.55
 - pkg:nuget/AWSSDK.HealthLake@4.0.0
 - pkg:nuget/AWSSDK.HealthLake@4.0.0-preview
 - pkg:nuget/AWSSDK.HealthLake@4.0.0-preview.10

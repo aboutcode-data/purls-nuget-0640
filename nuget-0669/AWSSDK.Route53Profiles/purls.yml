@@ -261,6 +261,7 @@
 - pkg:nuget/AWSSDK.Route53Profiles@3.7.502.31
 - pkg:nuget/AWSSDK.Route53Profiles@3.7.502.38
 - pkg:nuget/AWSSDK.Route53Profiles@3.7.502.50
+- pkg:nuget/AWSSDK.Route53Profiles@3.7.502.53
 - pkg:nuget/AWSSDK.Route53Profiles@3.7.502.8
 - pkg:nuget/AWSSDK.Route53Profiles@4.0.0
 - pkg:nuget/AWSSDK.Route53Profiles@4.0.0-preview

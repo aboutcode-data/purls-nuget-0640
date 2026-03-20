@@ -287,6 +287,7 @@
 - pkg:nuget/AWSSDK.TimestreamInfluxDB@3.7.504.21
 - pkg:nuget/AWSSDK.TimestreamInfluxDB@3.7.504.26
 - pkg:nuget/AWSSDK.TimestreamInfluxDB@3.7.504.33
+- pkg:nuget/AWSSDK.TimestreamInfluxDB@3.7.504.36
 - pkg:nuget/AWSSDK.TimestreamInfluxDB@3.7.504.4
 - pkg:nuget/AWSSDK.TimestreamInfluxDB@4.0.0
 - pkg:nuget/AWSSDK.TimestreamInfluxDB@4.0.0-preview
