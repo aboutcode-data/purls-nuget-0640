@@ -2,3 +2,4 @@
 - pkg:nuget/Trax.Effect.Provider.Json@1.13.0
 - pkg:nuget/Trax.Effect.Provider.Json@1.13.1
 - pkg:nuget/Trax.Effect.Provider.Json@1.19.0
+- pkg:nuget/Trax.Effect.Provider.Json@1.24.0
