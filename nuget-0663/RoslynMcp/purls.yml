@@ -3,3 +3,4 @@
 - pkg:nuget/RoslynMcp@0.6.7
 - pkg:nuget/RoslynMcp@0.6.8
 - pkg:nuget/RoslynMcp@0.7.0
+- pkg:nuget/RoslynMcp@0.9.3
