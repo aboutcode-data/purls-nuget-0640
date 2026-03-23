@@ -1,3 +1,4 @@
+- pkg:nuget/NHibernate.Extensions.Npgsql@10.0.1
 - pkg:nuget/NHibernate.Extensions.Npgsql@8.0.13
 - pkg:nuget/NHibernate.Extensions.Npgsql@8.0.14
 - pkg:nuget/NHibernate.Extensions.Npgsql@9.0.0
