@@ -38,6 +38,7 @@
 - pkg:nuget/Google.Cloud.Dlp.V2@4.19.0
 - pkg:nuget/Google.Cloud.Dlp.V2@4.2.0
 - pkg:nuget/Google.Cloud.Dlp.V2@4.20.0
+- pkg:nuget/Google.Cloud.Dlp.V2@4.23.0
 - pkg:nuget/Google.Cloud.Dlp.V2@4.3.0
 - pkg:nuget/Google.Cloud.Dlp.V2@4.4.0
 - pkg:nuget/Google.Cloud.Dlp.V2@4.5.0

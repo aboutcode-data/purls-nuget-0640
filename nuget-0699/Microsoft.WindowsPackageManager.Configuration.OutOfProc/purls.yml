@@ -13,6 +13,7 @@
 - pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.11.430
 - pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.12.100-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.12.210-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.28.220
 - pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.7.10091-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.7.11132
 - pkg:nuget/Microsoft.WindowsPackageManager.Configuration.OutOfProc@1.7.11261
