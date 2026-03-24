@@ -41,3 +41,4 @@
 - pkg:nuget/Whipstaff.NodaTime@8.2.210
 - pkg:nuget/Whipstaff.NodaTime@8.2.34
 - pkg:nuget/Whipstaff.NodaTime@8.2.65
+- pkg:nuget/Whipstaff.NodaTime@9.1.36
