@@ -25,3 +25,4 @@
 - pkg:nuget/HttpGenerator@0.7.0-preview.14
 - pkg:nuget/HttpGenerator@0.7.0-preview.15
 - pkg:nuget/HttpGenerator@1.0.0
+- pkg:nuget/HttpGenerator@1.1.0-preview.18
