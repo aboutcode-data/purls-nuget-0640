@@ -36,6 +36,7 @@
 - pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.12.170-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.12.190-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.12.210-preview
+- pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.28.220
 - pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.3.1
 - pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.3.2
 - pkg:nuget/Microsoft.WindowsPackageManager.Utils@1.3.3
