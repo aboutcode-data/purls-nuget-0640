@@ -114,3 +114,6 @@
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.804.0-alpha.133
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.134
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.139
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.177
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.178
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.179
