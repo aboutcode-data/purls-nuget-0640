@@ -205,3 +205,4 @@
 - pkg:nuget/Kayisoft.Abp.StationManagement.HttpApi@4.6.9
 - pkg:nuget/Kayisoft.Abp.StationManagement.HttpApi@4.7.4
 - pkg:nuget/Kayisoft.Abp.StationManagement.HttpApi@4.9.9
+- pkg:nuget/Kayisoft.Abp.StationManagement.HttpApi@5.0.1
