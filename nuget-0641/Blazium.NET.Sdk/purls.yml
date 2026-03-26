@@ -72,6 +72,7 @@
 - pkg:nuget/Blazium.NET.Sdk@0.5.103-nightly
 - pkg:nuget/Blazium.NET.Sdk@0.5.112-nightly
 - pkg:nuget/Blazium.NET.Sdk@0.5.122-nightly
+- pkg:nuget/Blazium.NET.Sdk@0.5.206-nightly
 - pkg:nuget/Blazium.NET.Sdk@0.5.52-nightly
 - pkg:nuget/Blazium.NET.Sdk@0.5.66-nightly
 - pkg:nuget/Blazium.NET.Sdk@0.5.68-release
