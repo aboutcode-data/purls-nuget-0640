@@ -3,4 +3,12 @@
 - pkg:nuget/NTComponents@1.33.0
 - pkg:nuget/NTComponents@1.38.1
 - pkg:nuget/NTComponents@1.38.4
+- pkg:nuget/NTComponents@1.42.2
+- pkg:nuget/NTComponents@1.42.3
+- pkg:nuget/NTComponents@1.43.0
+- pkg:nuget/NTComponents@1.44.2
+- pkg:nuget/NTComponents@1.44.4
+- pkg:nuget/NTComponents@1.44.5
+- pkg:nuget/NTComponents@1.45.0
+- pkg:nuget/NTComponents@1.45.1
 - pkg:nuget/NTComponents@1.8.0

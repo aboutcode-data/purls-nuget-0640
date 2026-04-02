@@ -3,3 +3,6 @@
 - pkg:nuget/dotnet-rivet@0.16.0
 - pkg:nuget/dotnet-rivet@0.21.3
 - pkg:nuget/dotnet-rivet@0.22.0
+- pkg:nuget/dotnet-rivet@0.28.0
+- pkg:nuget/dotnet-rivet@0.29.0
+- pkg:nuget/dotnet-rivet@0.30.0

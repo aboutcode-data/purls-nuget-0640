@@ -1,3 +1,4 @@
+- pkg:nuget/Aspire.Hosting.Qdrant@13.2.1
 - pkg:nuget/Aspire.Hosting.Qdrant@8.0.0
 - pkg:nuget/Aspire.Hosting.Qdrant@8.0.0-preview.6.24214.1
 - pkg:nuget/Aspire.Hosting.Qdrant@8.0.0-preview.7.24251.11

@@ -17,6 +17,8 @@
 - pkg:nuget/DataceenClient@1.1.21
 - pkg:nuget/DataceenClient@1.1.22
 - pkg:nuget/DataceenClient@1.1.3
+- pkg:nuget/DataceenClient@1.1.32
+- pkg:nuget/DataceenClient@1.1.33
 - pkg:nuget/DataceenClient@1.1.4
 - pkg:nuget/DataceenClient@1.1.5
 - pkg:nuget/DataceenClient@1.1.6

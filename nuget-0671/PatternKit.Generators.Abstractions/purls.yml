@@ -2,3 +2,7 @@
 - pkg:nuget/PatternKit.Generators.Abstractions@0.27.2
 - pkg:nuget/PatternKit.Generators.Abstractions@0.31.0
 - pkg:nuget/PatternKit.Generators.Abstractions@0.31.1
+- pkg:nuget/PatternKit.Generators.Abstractions@0.35.10
+- pkg:nuget/PatternKit.Generators.Abstractions@0.35.11
+- pkg:nuget/PatternKit.Generators.Abstractions@0.35.12
+- pkg:nuget/PatternKit.Generators.Abstractions@0.35.13

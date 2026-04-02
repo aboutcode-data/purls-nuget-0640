@@ -74,3 +74,6 @@
 - pkg:nuget/Shark.Fido2.SqlServer@1.2.0.91
 - pkg:nuget/Shark.Fido2.SqlServer@1.2.0.92
 - pkg:nuget/Shark.Fido2.SqlServer@1.2.0.93
+- pkg:nuget/Shark.Fido2.SqlServer@1.2.2.104
+- pkg:nuget/Shark.Fido2.SqlServer@1.2.2.105
+- pkg:nuget/Shark.Fido2.SqlServer@1.2.2.106
