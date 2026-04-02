@@ -21,6 +21,8 @@
 - pkg:nuget/Archivist.OCR@0.10.7
 - pkg:nuget/Archivist.OCR@0.10.8
 - pkg:nuget/Archivist.OCR@0.10.9
+- pkg:nuget/Archivist.OCR@0.12.10
+- pkg:nuget/Archivist.OCR@0.12.9
 - pkg:nuget/Archivist.OCR@0.8.0
 - pkg:nuget/Archivist.OCR@0.8.1
 - pkg:nuget/Archivist.OCR@0.8.2

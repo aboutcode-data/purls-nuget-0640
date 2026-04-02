@@ -330,3 +330,5 @@
 - pkg:nuget/Zaber.Motion@8.0.0-rc
 - pkg:nuget/Zaber.Motion@8.0.3
 - pkg:nuget/Zaber.Motion@8.0.4-rc
+- pkg:nuget/Zaber.Motion@9.0.0
+- pkg:nuget/Zaber.Motion@9.0.0-rc

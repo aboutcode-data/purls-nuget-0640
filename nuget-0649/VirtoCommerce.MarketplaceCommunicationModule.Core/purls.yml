@@ -1,3 +1,6 @@
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.1000.0
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.1000.0-alpha.193
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.1001.0-alpha.194
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.800.0-alpha.10
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.800.0-alpha.11
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.800.0-alpha.12
@@ -112,8 +115,13 @@
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.804.0-alpha.131
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.804.0-alpha.132
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.804.0-alpha.133
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.134
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.139
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.177
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.178
 - pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.179
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.805.0-alpha.181
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.806.0-alpha.182
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.806.0-alpha.191
+- pkg:nuget/VirtoCommerce.MarketplaceCommunicationModule.Core@3.806.0-alpha.192

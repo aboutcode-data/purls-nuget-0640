@@ -10,3 +10,5 @@
 - pkg:nuget/Majorsoft.Blazor.Components.Loading@1.3.0
 - pkg:nuget/Majorsoft.Blazor.Components.Loading@1.4.0
 - pkg:nuget/Majorsoft.Blazor.Components.Loading@1.5.0
+- pkg:nuget/Majorsoft.Blazor.Components.Loading@1.6.0
+- pkg:nuget/Majorsoft.Blazor.Components.Loading@1.6.1

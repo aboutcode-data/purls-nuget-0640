@@ -129,5 +129,6 @@
 - pkg:nuget/Microsoft.ServiceFabric.Diagnostics.Internal@8.1.208
 - pkg:nuget/Microsoft.ServiceFabric.Diagnostics.Internal@8.2.274
 - pkg:nuget/Microsoft.ServiceFabric.Diagnostics.Internal@8.3.475
+- pkg:nuget/Microsoft.ServiceFabric.Diagnostics.Internal@8.3.658
 - pkg:nuget/Microsoft.ServiceFabric.Diagnostics.Internal@9.0.0-dev.user-cburg-wi-32024996.1003
 - pkg:nuget/Microsoft.ServiceFabric.Diagnostics.Internal@9.0.0-dev.user-cburg-wi-32024996.1005

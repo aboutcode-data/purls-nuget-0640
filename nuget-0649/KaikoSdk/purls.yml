@@ -17,3 +17,5 @@
 - pkg:nuget/KaikoSdk@1.28.1
 - pkg:nuget/KaikoSdk@1.29.0
 - pkg:nuget/KaikoSdk@1.33.0
+- pkg:nuget/KaikoSdk@1.33.1
+- pkg:nuget/KaikoSdk@1.34.0

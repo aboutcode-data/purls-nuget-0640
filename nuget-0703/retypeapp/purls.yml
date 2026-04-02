@@ -58,3 +58,6 @@
 - pkg:nuget/retypeapp@3.9.0
 - pkg:nuget/retypeapp@3.9.0-preview
 - pkg:nuget/retypeapp@4.2.0-preview4
+- pkg:nuget/retypeapp@4.5.0-preview
+- pkg:nuget/retypeapp@4.5.0-preview2
+- pkg:nuget/retypeapp@4.5.0-preview3

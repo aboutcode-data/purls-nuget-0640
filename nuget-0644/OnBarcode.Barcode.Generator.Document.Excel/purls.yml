@@ -15,6 +15,7 @@
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.2
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.3
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.4
+- pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.44
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.5
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.6
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel@10.0.2.7

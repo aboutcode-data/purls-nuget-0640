@@ -70,3 +70,7 @@
 - pkg:nuget/Chrysalis@0.7.8
 - pkg:nuget/Chrysalis@0.7.9
 - pkg:nuget/Chrysalis@1.4.0-alpha
+- pkg:nuget/Chrysalis@1.7.4-alpha
+- pkg:nuget/Chrysalis@1.7.5-alpha
+- pkg:nuget/Chrysalis@1.7.6-alpha
+- pkg:nuget/Chrysalis@1.7.7-alpha

@@ -538,3 +538,6 @@
 - pkg:nuget/ZakmDataLayer@4.2.8.79
 - pkg:nuget/ZakmDataLayer@4.2.8.8
 - pkg:nuget/ZakmDataLayer@4.3.0.29
+- pkg:nuget/ZakmDataLayer@4.3.0.35
+- pkg:nuget/ZakmDataLayer@4.3.0.36
+- pkg:nuget/ZakmDataLayer@4.3.0.37

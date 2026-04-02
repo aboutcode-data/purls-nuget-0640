@@ -16,3 +16,7 @@
 - pkg:nuget/Sufficit.Identity.Client@1.25.811.2112
 - pkg:nuget/Sufficit.Identity.Client@1.25.825.1922
 - pkg:nuget/Sufficit.Identity.Client@1.25.910.2104
+- pkg:nuget/Sufficit.Identity.Client@1.26.327.1835
+- pkg:nuget/Sufficit.Identity.Client@1.26.327.1854
+- pkg:nuget/Sufficit.Identity.Client@1.26.327.1859
+- pkg:nuget/Sufficit.Identity.Client@1.26.401.1425

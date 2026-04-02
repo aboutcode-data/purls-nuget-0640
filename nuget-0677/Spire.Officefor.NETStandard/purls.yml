@@ -6,6 +6,7 @@
 - pkg:nuget/Spire.Officefor.NETStandard@10.7.0
 - pkg:nuget/Spire.Officefor.NETStandard@10.8.0
 - pkg:nuget/Spire.Officefor.NETStandard@10.9.0
+- pkg:nuget/Spire.Officefor.NETStandard@11.3.0
 - pkg:nuget/Spire.Officefor.NETStandard@6.12.1
 - pkg:nuget/Spire.Officefor.NETStandard@7.1.2
 - pkg:nuget/Spire.Officefor.NETStandard@7.1.4
