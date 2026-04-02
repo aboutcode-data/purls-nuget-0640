@@ -22,6 +22,7 @@
 - pkg:nuget/SadConsole.Templates@10.4.3
 - pkg:nuget/SadConsole.Templates@10.5.0
 - pkg:nuget/SadConsole.Templates@10.6.0
+- pkg:nuget/SadConsole.Templates@10.9.0
 - pkg:nuget/SadConsole.Templates@2.0.0
 - pkg:nuget/SadConsole.Templates@2.0.1
 - pkg:nuget/SadConsole.Templates@2.0.2

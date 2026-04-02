@@ -16,3 +16,4 @@
 - pkg:nuget/Microsoft.Debugging.Tools.PdbStr@20250411.1210.0
 - pkg:nuget/Microsoft.Debugging.Tools.PdbStr@20250611.1057.0
 - pkg:nuget/Microsoft.Debugging.Tools.PdbStr@20250825.1142.0
+- pkg:nuget/Microsoft.Debugging.Tools.PdbStr@20260319.1511.0

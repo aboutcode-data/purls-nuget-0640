@@ -64,3 +64,7 @@
 - pkg:nuget/RT.Servers@1.1.508-master
 - pkg:nuget/RT.Servers@1.1.509
 - pkg:nuget/RT.Servers@1.1.522
+- pkg:nuget/RT.Servers@1.1.524
+- pkg:nuget/RT.Servers@1.1.525
+- pkg:nuget/RT.Servers@1.1.526
+- pkg:nuget/RT.Servers@1.1.527
