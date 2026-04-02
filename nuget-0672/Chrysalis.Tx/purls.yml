@@ -1,1 +1,5 @@
 - pkg:nuget/Chrysalis.Tx@1.4.0-alpha
+- pkg:nuget/Chrysalis.Tx@1.7.4-alpha
+- pkg:nuget/Chrysalis.Tx@1.7.5-alpha
+- pkg:nuget/Chrysalis.Tx@1.7.6-alpha
+- pkg:nuget/Chrysalis.Tx@1.7.7-alpha
