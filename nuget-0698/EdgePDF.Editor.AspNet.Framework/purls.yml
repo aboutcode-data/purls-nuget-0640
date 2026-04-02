@@ -33,3 +33,5 @@
 - pkg:nuget/EdgePDF.Editor.AspNet.Framework@12.3.8
 - pkg:nuget/EdgePDF.Editor.AspNet.Framework@12.3.8.1
 - pkg:nuget/EdgePDF.Editor.AspNet.Framework@12.5.2
+- pkg:nuget/EdgePDF.Editor.AspNet.Framework@12.5.2.2
+- pkg:nuget/EdgePDF.Editor.AspNet.Framework@12.6.0

@@ -545,6 +545,7 @@
 - pkg:nuget/AWSSDK.ARCZonalShift@3.7.502.54
 - pkg:nuget/AWSSDK.ARCZonalShift@3.7.502.57
 - pkg:nuget/AWSSDK.ARCZonalShift@3.7.502.58
+- pkg:nuget/AWSSDK.ARCZonalShift@3.7.502.59
 - pkg:nuget/AWSSDK.ARCZonalShift@4.0.0
 - pkg:nuget/AWSSDK.ARCZonalShift@4.0.0-preview
 - pkg:nuget/AWSSDK.ARCZonalShift@4.0.0-preview.10
@@ -588,3 +589,7 @@
 - pkg:nuget/AWSSDK.ARCZonalShift@4.0.3
 - pkg:nuget/AWSSDK.ARCZonalShift@4.0.3.11
 - pkg:nuget/AWSSDK.ARCZonalShift@4.0.3.18
+- pkg:nuget/AWSSDK.ARCZonalShift@4.0.3.20
+- pkg:nuget/AWSSDK.ARCZonalShift@4.0.3.21
+- pkg:nuget/AWSSDK.ARCZonalShift@4.0.3.22
+- pkg:nuget/AWSSDK.ARCZonalShift@4.0.3.23

@@ -462,3 +462,5 @@
 - pkg:nuget/Pulumi.Ns1@3.8.0-alpha.1765261122
 - pkg:nuget/Pulumi.Ns1@3.8.0-alpha.1767139759
 - pkg:nuget/Pulumi.Ns1@3.9.0-alpha.1773728457
+- pkg:nuget/Pulumi.Ns1@3.9.0-alpha.1774761172
+- pkg:nuget/Pulumi.Ns1@3.9.0-alpha.1774890228

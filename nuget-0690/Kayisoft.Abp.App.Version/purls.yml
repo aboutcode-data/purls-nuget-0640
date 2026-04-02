@@ -262,3 +262,6 @@
 - pkg:nuget/Kayisoft.Abp.App.Version@4.6.1
 - pkg:nuget/Kayisoft.Abp.App.Version@4.6.2
 - pkg:nuget/Kayisoft.Abp.App.Version@4.7.6
+- pkg:nuget/Kayisoft.Abp.App.Version@5.0.2
+- pkg:nuget/Kayisoft.Abp.App.Version@5.0.3
+- pkg:nuget/Kayisoft.Abp.App.Version@5.0.4

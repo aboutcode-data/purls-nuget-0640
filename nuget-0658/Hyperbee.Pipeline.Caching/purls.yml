@@ -12,3 +12,4 @@
 - pkg:nuget/Hyperbee.Pipeline.Caching@2.0.3
 - pkg:nuget/Hyperbee.Pipeline.Caching@2.0.3-develop.250714181624
 - pkg:nuget/Hyperbee.Pipeline.Caching@2.1.0
+- pkg:nuget/Hyperbee.Pipeline.Caching@2.11.1

@@ -7,3 +7,4 @@
 - pkg:nuget/SunamoThreading@25.12.21.1
 - pkg:nuget/SunamoThreading@25.3.29.1
 - pkg:nuget/SunamoThreading@25.6.7.1
+- pkg:nuget/SunamoThreading@26.3.28.4

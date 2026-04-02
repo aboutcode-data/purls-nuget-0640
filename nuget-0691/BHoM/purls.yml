@@ -72,3 +72,5 @@
 - pkg:nuget/BHoM@8.3.0-alpha.5.0
 - pkg:nuget/BHoM@8.3.0-alpha.6.0
 - pkg:nuget/BHoM@8.3.0-beta.0
+- pkg:nuget/BHoM@9.1.0-alpha.6.0
+- pkg:nuget/BHoM@9.1.0-beta.0

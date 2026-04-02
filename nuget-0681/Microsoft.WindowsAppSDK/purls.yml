@@ -87,3 +87,4 @@
 - pkg:nuget/Microsoft.WindowsAppSDK@1.8.250916003
 - pkg:nuget/Microsoft.WindowsAppSDK@1.8.260317003
 - pkg:nuget/Microsoft.WindowsAppSDK@2.0.0-experimental3
+- pkg:nuget/Microsoft.WindowsAppSDK@2.0.0-preview2

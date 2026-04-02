@@ -58,3 +58,5 @@
 - pkg:nuget/FastACH@0.7.0.101
 - pkg:nuget/FastACH@0.7.0.102
 - pkg:nuget/FastACH@0.7.1.103
+- pkg:nuget/FastACH@0.7.4
+- pkg:nuget/FastACH@0.8.0

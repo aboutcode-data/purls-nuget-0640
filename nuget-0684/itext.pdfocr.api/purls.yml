@@ -4,3 +4,4 @@
 - pkg:nuget/itext.pdfocr.api@4.0.1
 - pkg:nuget/itext.pdfocr.api@4.0.2
 - pkg:nuget/itext.pdfocr.api@4.1.0
+- pkg:nuget/itext.pdfocr.api@5.0.0

@@ -68,3 +68,9 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.1.1557-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2022-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2055-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2110
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2132
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2150-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2173-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.3.2194-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.Android@9.4.2216-rc

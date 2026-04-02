@@ -415,6 +415,7 @@
 - pkg:nuget/AWSSDK.MedicalImaging@3.7.504.48
 - pkg:nuget/AWSSDK.MedicalImaging@3.7.504.49
 - pkg:nuget/AWSSDK.MedicalImaging@3.7.504.5
+- pkg:nuget/AWSSDK.MedicalImaging@3.7.504.50
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.0
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.0-preview
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.0-preview.10
@@ -457,4 +458,8 @@
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.3.3
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.3.4
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.3.7
+- pkg:nuget/AWSSDK.MedicalImaging@4.0.5.16
+- pkg:nuget/AWSSDK.MedicalImaging@4.0.5.17
+- pkg:nuget/AWSSDK.MedicalImaging@4.0.5.18
 - pkg:nuget/AWSSDK.MedicalImaging@4.0.5.7
+- pkg:nuget/AWSSDK.MedicalImaging@4.0.6

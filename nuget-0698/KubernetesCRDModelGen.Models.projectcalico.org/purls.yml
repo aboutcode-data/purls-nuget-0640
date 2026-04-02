@@ -574,5 +574,8 @@
 - pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.30.0
 - pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.31.0
 - pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.4.0
+- pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.43.0
+- pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.44.0
+- pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.45.0
 - pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.5.0
 - pkg:nuget/KubernetesCRDModelGen.Models.projectcalico.org@1.6.0

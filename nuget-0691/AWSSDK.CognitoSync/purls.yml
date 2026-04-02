@@ -1215,6 +1215,7 @@
 - pkg:nuget/AWSSDK.CognitoSync@3.7.502.48
 - pkg:nuget/AWSSDK.CognitoSync@3.7.502.51
 - pkg:nuget/AWSSDK.CognitoSync@3.7.502.52
+- pkg:nuget/AWSSDK.CognitoSync@3.7.502.53
 - pkg:nuget/AWSSDK.CognitoSync@3.7.502.6
 - pkg:nuget/AWSSDK.CognitoSync@3.7.502.8
 - pkg:nuget/AWSSDK.CognitoSync@4.0.0
@@ -1256,3 +1257,7 @@
 - pkg:nuget/AWSSDK.CognitoSync@4.0.1.2
 - pkg:nuget/AWSSDK.CognitoSync@4.0.1.4
 - pkg:nuget/AWSSDK.CognitoSync@4.0.1.8
+- pkg:nuget/AWSSDK.CognitoSync@4.0.2.18
+- pkg:nuget/AWSSDK.CognitoSync@4.0.2.19
+- pkg:nuget/AWSSDK.CognitoSync@4.0.2.20
+- pkg:nuget/AWSSDK.CognitoSync@4.0.2.21

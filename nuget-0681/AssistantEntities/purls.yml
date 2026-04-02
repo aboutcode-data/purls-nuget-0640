@@ -53,3 +53,5 @@
 - pkg:nuget/AssistantEntities@1.0.89
 - pkg:nuget/AssistantEntities@1.0.90
 - pkg:nuget/AssistantEntities@1.1.18
+- pkg:nuget/AssistantEntities@1.1.43
+- pkg:nuget/AssistantEntities@1.1.44

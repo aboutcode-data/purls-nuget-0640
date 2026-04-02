@@ -76,6 +76,7 @@
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@1.8.0.7
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@1.8.0.8
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@1.8.0.9
+- pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@10.0.8.1
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@2.0.0.1
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@2.0.0.11
 - pkg:nuget/Vintasoft.Imaging.DocCleanup.Web.Api2Controllers@2.0.0.15

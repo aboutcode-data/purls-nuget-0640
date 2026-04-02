@@ -22,3 +22,4 @@
 - pkg:nuget/SunamoPackageJson@24.7.16.1
 - pkg:nuget/SunamoPackageJson@24.9.20.1
 - pkg:nuget/SunamoPackageJson@25.3.29.1
+- pkg:nuget/SunamoPackageJson@26.3.28.3

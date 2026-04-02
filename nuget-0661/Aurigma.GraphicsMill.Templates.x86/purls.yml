@@ -143,6 +143,7 @@
 - pkg:nuget/Aurigma.GraphicsMill.Templates.x86@11.5.81
 - pkg:nuget/Aurigma.GraphicsMill.Templates.x86@11.5.82
 - pkg:nuget/Aurigma.GraphicsMill.Templates.x86@11.5.84
+- pkg:nuget/Aurigma.GraphicsMill.Templates.x86@11.6.25
 - pkg:nuget/Aurigma.GraphicsMill.Templates.x86@8.0.18
 - pkg:nuget/Aurigma.GraphicsMill.Templates.x86@8.0.34
 - pkg:nuget/Aurigma.GraphicsMill.Templates.x86@8.0.37

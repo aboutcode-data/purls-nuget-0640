@@ -25,3 +25,4 @@
 - pkg:nuget/SunamoThread@24.9.20.1
 - pkg:nuget/SunamoThread@25.12.21.1
 - pkg:nuget/SunamoThread@25.3.29.1
+- pkg:nuget/SunamoThread@26.3.28.2

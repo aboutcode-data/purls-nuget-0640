@@ -1,2 +1,7 @@
 - pkg:nuget/NeoUI.Blazor.Primitives@3.0.0-rc.1
 - pkg:nuget/NeoUI.Blazor.Primitives@3.4.0
+- pkg:nuget/NeoUI.Blazor.Primitives@3.7.2
+- pkg:nuget/NeoUI.Blazor.Primitives@3.8.0
+- pkg:nuget/NeoUI.Blazor.Primitives@3.8.1
+- pkg:nuget/NeoUI.Blazor.Primitives@3.8.2
+- pkg:nuget/NeoUI.Blazor.Primitives@3.8.3

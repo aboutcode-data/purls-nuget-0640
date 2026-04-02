@@ -5,3 +5,4 @@
 - pkg:nuget/Hsm.CloudToDeviceDistributionService.Client@2.0.0-alpha.3
 - pkg:nuget/Hsm.CloudToDeviceDistributionService.Client@2.0.0-alpha.4
 - pkg:nuget/Hsm.CloudToDeviceDistributionService.Client@2.0.0-alpha.5
+- pkg:nuget/Hsm.CloudToDeviceDistributionService.Client@2.0.0-alpha.6

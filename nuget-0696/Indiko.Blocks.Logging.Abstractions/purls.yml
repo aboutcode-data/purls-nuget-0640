@@ -152,3 +152,4 @@
 - pkg:nuget/Indiko.Blocks.Logging.Abstractions@1.7.9
 - pkg:nuget/Indiko.Blocks.Logging.Abstractions@2.1.1
 - pkg:nuget/Indiko.Blocks.Logging.Abstractions@2.2.3
+- pkg:nuget/Indiko.Blocks.Logging.Abstractions@2.5.0

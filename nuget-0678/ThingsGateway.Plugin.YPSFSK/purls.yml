@@ -360,6 +360,9 @@
 - pkg:nuget/ThingsGateway.Plugin.YPSFSK@12.4.43
 - pkg:nuget/ThingsGateway.Plugin.YPSFSK@12.4.45
 - pkg:nuget/ThingsGateway.Plugin.YPSFSK@12.4.8
+- pkg:nuget/ThingsGateway.Plugin.YPSFSK@12.5.6
+- pkg:nuget/ThingsGateway.Plugin.YPSFSK@12.5.7
+- pkg:nuget/ThingsGateway.Plugin.YPSFSK@12.5.8
 - pkg:nuget/ThingsGateway.Plugin.YPSFSK@9.0.2.74
 - pkg:nuget/ThingsGateway.Plugin.YPSFSK@9.0.2.75
 - pkg:nuget/ThingsGateway.Plugin.YPSFSK@9.0.2.76

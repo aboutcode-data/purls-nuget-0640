@@ -43,3 +43,9 @@
 - pkg:nuget/JBase.Common@3.1.7
 - pkg:nuget/JBase.Common@3.1.9
 - pkg:nuget/JBase.Common@3.2.6
+- pkg:nuget/JBase.Common@3.4.9
+- pkg:nuget/JBase.Common@3.5.0
+- pkg:nuget/JBase.Common@3.5.1
+- pkg:nuget/JBase.Common@3.5.2
+- pkg:nuget/JBase.Common@3.5.3
+- pkg:nuget/JBase.Common@3.5.4

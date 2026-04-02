@@ -100,3 +100,5 @@
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@4.0.237
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@4.0.243
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@4.0.247
+- pkg:nuget/Soenneker.Blazor.Google.TagManager@4.0.249
+- pkg:nuget/Soenneker.Blazor.Google.TagManager@4.0.250

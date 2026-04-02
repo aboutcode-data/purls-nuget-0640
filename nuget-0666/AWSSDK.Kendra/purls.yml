@@ -959,6 +959,7 @@
 - pkg:nuget/AWSSDK.Kendra@3.7.501.49
 - pkg:nuget/AWSSDK.Kendra@3.7.501.52
 - pkg:nuget/AWSSDK.Kendra@3.7.501.53
+- pkg:nuget/AWSSDK.Kendra@3.7.501.54
 - pkg:nuget/AWSSDK.Kendra@3.7.501.7
 - pkg:nuget/AWSSDK.Kendra@3.7.501.9
 - pkg:nuget/AWSSDK.Kendra@3.7.6
@@ -1045,4 +1046,8 @@
 - pkg:nuget/AWSSDK.Kendra@4.0.0.7
 - pkg:nuget/AWSSDK.Kendra@4.0.0.8
 - pkg:nuget/AWSSDK.Kendra@4.0.0.9
+- pkg:nuget/AWSSDK.Kendra@4.0.1.18
+- pkg:nuget/AWSSDK.Kendra@4.0.1.19
+- pkg:nuget/AWSSDK.Kendra@4.0.1.20
+- pkg:nuget/AWSSDK.Kendra@4.0.1.21
 - pkg:nuget/AWSSDK.Kendra@4.0.1.9

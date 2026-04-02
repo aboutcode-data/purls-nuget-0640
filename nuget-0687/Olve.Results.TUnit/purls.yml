@@ -12,3 +12,5 @@
 - pkg:nuget/Olve.Results.TUnit@0.32.1
 - pkg:nuget/Olve.Results.TUnit@0.32.2
 - pkg:nuget/Olve.Results.TUnit@0.33.0
+- pkg:nuget/Olve.Results.TUnit@0.41.0
+- pkg:nuget/Olve.Results.TUnit@0.42.0

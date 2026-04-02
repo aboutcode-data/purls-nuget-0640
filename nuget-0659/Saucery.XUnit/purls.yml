@@ -1,4 +1,5 @@
 - pkg:nuget/Saucery.XUnit@4.0.0
+- pkg:nuget/Saucery.XUnit@4.10.7
 - pkg:nuget/Saucery.XUnit@4.2.0
 - pkg:nuget/Saucery.XUnit@4.3.0
 - pkg:nuget/Saucery.XUnit@4.4.0

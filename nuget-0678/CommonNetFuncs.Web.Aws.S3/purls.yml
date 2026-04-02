@@ -127,6 +127,7 @@
 - pkg:nuget/CommonNetFuncs.Web.Aws.S3@3.8.13
 - pkg:nuget/CommonNetFuncs.Web.Aws.S3@3.8.26
 - pkg:nuget/CommonNetFuncs.Web.Aws.S3@3.8.38
+- pkg:nuget/CommonNetFuncs.Web.Aws.S3@3.8.45
 - pkg:nuget/CommonNetFuncs.Web.Aws.S3@4.0.17
 - pkg:nuget/CommonNetFuncs.Web.Aws.S3@4.0.18
 - pkg:nuget/CommonNetFuncs.Web.Aws.S3@4.0.23

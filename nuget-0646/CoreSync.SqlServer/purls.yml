@@ -18,6 +18,7 @@
 - pkg:nuget/CoreSync.SqlServer@0.1.12-beta
 - pkg:nuget/CoreSync.SqlServer@0.1.120
 - pkg:nuget/CoreSync.SqlServer@0.1.121
+- pkg:nuget/CoreSync.SqlServer@0.1.128
 - pkg:nuget/CoreSync.SqlServer@0.1.13-beta
 - pkg:nuget/CoreSync.SqlServer@0.1.14-beta
 - pkg:nuget/CoreSync.SqlServer@0.1.15-beta

@@ -1,1 +1,5 @@
 - pkg:nuget/Umbraco.Community.IconPicker.Assets@13.0.2
+- pkg:nuget/Umbraco.Community.IconPicker.Assets@17.0.0
+- pkg:nuget/Umbraco.Community.IconPicker.Assets@17.0.0-beta1
+- pkg:nuget/Umbraco.Community.IconPicker.Assets@17.0.0-beta2
+- pkg:nuget/Umbraco.Community.IconPicker.Assets@17.0.0-beta4

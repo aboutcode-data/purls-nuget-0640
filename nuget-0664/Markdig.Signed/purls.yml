@@ -64,3 +64,4 @@
 - pkg:nuget/Markdig.Signed@0.41.2
 - pkg:nuget/Markdig.Signed@0.41.3
 - pkg:nuget/Markdig.Signed@0.42.0
+- pkg:nuget/Markdig.Signed@1.1.2

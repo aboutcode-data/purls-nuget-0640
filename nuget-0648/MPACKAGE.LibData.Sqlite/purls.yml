@@ -755,6 +755,7 @@
 - pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.818
 - pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.82
 - pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.83
+- pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.832
 - pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.84
 - pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.85
 - pkg:nuget/MPACKAGE.LibData.Sqlite@1.0.86

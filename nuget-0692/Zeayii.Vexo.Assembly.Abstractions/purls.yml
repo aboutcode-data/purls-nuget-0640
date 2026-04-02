@@ -1,3 +1,7 @@
 - pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.10
 - pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.13
 - pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.15
+- pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.27
+- pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.28
+- pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.29
+- pkg:nuget/Zeayii.Vexo.Assembly.Abstractions@0.0.30

@@ -104,6 +104,7 @@
 - pkg:nuget/Indice.Features.Media.AspNetCore@8.3.0
 - pkg:nuget/Indice.Features.Media.AspNetCore@8.4.0
 - pkg:nuget/Indice.Features.Media.AspNetCore@8.40.0
+- pkg:nuget/Indice.Features.Media.AspNetCore@8.42.0
 - pkg:nuget/Indice.Features.Media.AspNetCore@8.5.0
 - pkg:nuget/Indice.Features.Media.AspNetCore@8.6.0
 - pkg:nuget/Indice.Features.Media.AspNetCore@8.7.0

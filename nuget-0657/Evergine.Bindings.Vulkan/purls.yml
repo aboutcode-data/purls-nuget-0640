@@ -46,3 +46,5 @@
 - pkg:nuget/Evergine.Bindings.Vulkan@2025.5.5.37
 - pkg:nuget/Evergine.Bindings.Vulkan@2025.6.1.40
 - pkg:nuget/Evergine.Bindings.Vulkan@2025.9.1.43
+- pkg:nuget/Evergine.Bindings.Vulkan@2026.4.1.15
+- pkg:nuget/Evergine.Bindings.Vulkan@2026.4.1.16

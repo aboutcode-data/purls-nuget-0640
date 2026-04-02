@@ -22,6 +22,7 @@
 - pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@10.1.1
 - pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@10.1.2
 - pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@10.1.3
+- pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@10.1.4
 - pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@2.0.0
 - pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@2.0.1
 - pkg:nuget/Dynamicweb.Ecommerce.CheckoutHandlers.QuickPayPaymentWindow@2.0.10
