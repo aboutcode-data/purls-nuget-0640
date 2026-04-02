@@ -19,6 +19,9 @@
 - pkg:nuget/QsMessaging-develop@1.0.136
 - pkg:nuget/QsMessaging-develop@1.0.138-pr
 - pkg:nuget/QsMessaging-develop@1.0.139
+- pkg:nuget/QsMessaging-develop@1.0.231-pr
+- pkg:nuget/QsMessaging-develop@1.0.232-pr
+- pkg:nuget/QsMessaging-develop@1.0.233
 - pkg:nuget/QsMessaging-develop@1.0.69
 - pkg:nuget/QsMessaging-develop@1.0.70
 - pkg:nuget/QsMessaging-develop@1.0.72

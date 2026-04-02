@@ -1,2 +1,3 @@
 - pkg:nuget/Serender.SalesAndPurchase.Domain@1.0.14
 - pkg:nuget/Serender.SalesAndPurchase.Domain@1.1.1
+- pkg:nuget/Serender.SalesAndPurchase.Domain@1.1.4

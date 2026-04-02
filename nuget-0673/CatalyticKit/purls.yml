@@ -1,3 +1,7 @@
 - pkg:nuget/CatalyticKit@0.3.1
 - pkg:nuget/CatalyticKit@0.3.2
 - pkg:nuget/CatalyticKit@0.4.0
+- pkg:nuget/CatalyticKit@0.5.5
+- pkg:nuget/CatalyticKit@0.5.6
+- pkg:nuget/CatalyticKit@0.5.7
+- pkg:nuget/CatalyticKit@0.6.0
