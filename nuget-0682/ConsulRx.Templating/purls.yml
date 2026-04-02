@@ -1,3 +1,5 @@
 - pkg:nuget/ConsulRx.Templating@1.2.0-beta01
 - pkg:nuget/ConsulRx.Templating@1.2.0-beta02
 - pkg:nuget/ConsulRx.Templating@1.2.0-beta03
+- pkg:nuget/ConsulRx.Templating@2.0.0-alpha02
+- pkg:nuget/ConsulRx.Templating@2.0.0-alpha03
