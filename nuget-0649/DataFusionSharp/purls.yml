@@ -1,1 +1,3 @@
 - pkg:nuget/DataFusionSharp@0.3.1
+- pkg:nuget/DataFusionSharp@0.4.1
+- pkg:nuget/DataFusionSharp@0.4.3
