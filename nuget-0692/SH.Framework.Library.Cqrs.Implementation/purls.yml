@@ -1,3 +1,5 @@
 - pkg:nuget/SH.Framework.Library.Cqrs.Implementation@1.0.0
 - pkg:nuget/SH.Framework.Library.Cqrs.Implementation@1.0.1
 - pkg:nuget/SH.Framework.Library.Cqrs.Implementation@1.1.0
+- pkg:nuget/SH.Framework.Library.Cqrs.Implementation@3.0.5
+- pkg:nuget/SH.Framework.Library.Cqrs.Implementation@3.0.6
