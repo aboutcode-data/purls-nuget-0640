@@ -23,3 +23,5 @@
 - pkg:nuget/uml4net.Extensions@4.0.3
 - pkg:nuget/uml4net.Extensions@4.1.0
 - pkg:nuget/uml4net.Extensions@4.1.1
+- pkg:nuget/uml4net.Extensions@8.0.0
+- pkg:nuget/uml4net.Extensions@8.0.1

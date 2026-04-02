@@ -3,3 +3,4 @@
 - pkg:nuget/MicroCom.CodeGenerator@0.10.4
 - pkg:nuget/MicroCom.CodeGenerator@0.10.5
 - pkg:nuget/MicroCom.CodeGenerator@0.11.0
+- pkg:nuget/MicroCom.CodeGenerator@0.11.5

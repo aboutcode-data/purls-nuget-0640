@@ -4,3 +4,5 @@
 - pkg:nuget/ThreeByte.LinkLib.Shared@1.0.3
 - pkg:nuget/ThreeByte.LinkLib.Shared@1.1.0
 - pkg:nuget/ThreeByte.LinkLib.Shared@1.2.0
+- pkg:nuget/ThreeByte.LinkLib.Shared@1.2.4
+- pkg:nuget/ThreeByte.LinkLib.Shared@2.0.0

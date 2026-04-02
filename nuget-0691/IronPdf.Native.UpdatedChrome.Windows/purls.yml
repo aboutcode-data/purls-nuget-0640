@@ -11,3 +11,4 @@
 - pkg:nuget/IronPdf.Native.UpdatedChrome.Windows@2025.7.13
 - pkg:nuget/IronPdf.Native.UpdatedChrome.Windows@2025.8.13
 - pkg:nuget/IronPdf.Native.UpdatedChrome.Windows@2025.9.18
+- pkg:nuget/IronPdf.Native.UpdatedChrome.Windows@2026.4.1

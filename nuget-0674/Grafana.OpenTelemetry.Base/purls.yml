@@ -16,3 +16,4 @@
 - pkg:nuget/Grafana.OpenTelemetry.Base@1.1.0
 - pkg:nuget/Grafana.OpenTelemetry.Base@1.2.0
 - pkg:nuget/Grafana.OpenTelemetry.Base@1.3.0
+- pkg:nuget/Grafana.OpenTelemetry.Base@1.6.0
