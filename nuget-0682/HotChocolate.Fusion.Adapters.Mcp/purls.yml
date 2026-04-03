@@ -11,6 +11,8 @@
 - pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-p.11.32
 - pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-p.11.49
 - pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-p.9.20
+- pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-rc.1.14
+- pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-rc.1.15
 - pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-rc.1.16
 - pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-rc.1.17
 - pkg:nuget/HotChocolate.Fusion.Adapters.Mcp@16.0.0-rc.1.18
