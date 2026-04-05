@@ -137,6 +137,7 @@
 - pkg:nuget/Zongsoft.Core@7.4.1
 - pkg:nuget/Zongsoft.Core@7.4.2
 - pkg:nuget/Zongsoft.Core@7.40.1
+- pkg:nuget/Zongsoft.Core@7.41.0
 - pkg:nuget/Zongsoft.Core@7.5.0
 - pkg:nuget/Zongsoft.Core@7.5.1
 - pkg:nuget/Zongsoft.Core@7.6.0
