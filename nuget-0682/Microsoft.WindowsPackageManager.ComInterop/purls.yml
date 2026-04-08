@@ -20,6 +20,7 @@
 - pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.12.100-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.12.210-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.12.420
+- pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.29.70-preview
 - pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.4.10052
 - pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.5.1572
 - pkg:nuget/Microsoft.WindowsPackageManager.ComInterop@1.5.721-preview
