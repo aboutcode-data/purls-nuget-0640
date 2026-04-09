@@ -131,6 +131,7 @@
 - pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.40.0
 - pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.40.1
 - pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.40.2
+- pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.42.4
 - pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.7.0
 - pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.7.1
 - pkg:nuget/Microsoft.Azure.Cosmos.Direct@3.9.0
