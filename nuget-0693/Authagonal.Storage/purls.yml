@@ -29,6 +29,7 @@
 - pkg:nuget/Authagonal.Storage@0.1.56
 - pkg:nuget/Authagonal.Storage@0.1.59
 - pkg:nuget/Authagonal.Storage@0.1.6
+- pkg:nuget/Authagonal.Storage@0.1.64
 - pkg:nuget/Authagonal.Storage@0.1.7
 - pkg:nuget/Authagonal.Storage@0.1.8
 - pkg:nuget/Authagonal.Storage@0.1.9
