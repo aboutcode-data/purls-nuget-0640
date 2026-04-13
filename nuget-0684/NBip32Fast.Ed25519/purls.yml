@@ -3,3 +3,4 @@
 - pkg:nuget/NBip32Fast.Ed25519@2.0.0
 - pkg:nuget/NBip32Fast.Ed25519@2.0.2
 - pkg:nuget/NBip32Fast.Ed25519@2.0.3
+- pkg:nuget/NBip32Fast.Ed25519@2.0.6
