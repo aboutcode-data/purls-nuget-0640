@@ -1,2 +1,4 @@
 - pkg:nuget/ModPlus.Revit.Module.2026@32.0.0
 - pkg:nuget/ModPlus.Revit.Module.2026@33.0.0
+- pkg:nuget/ModPlus.Revit.Module.2026@36.0.0
+- pkg:nuget/ModPlus.Revit.Module.2026@37.0.0
