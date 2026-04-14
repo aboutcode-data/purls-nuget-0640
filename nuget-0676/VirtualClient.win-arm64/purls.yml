@@ -60,6 +60,7 @@
 - pkg:nuget/VirtualClient.win-arm64@2.1.7-beta
 - pkg:nuget/VirtualClient.win-arm64@2.1.8-beta
 - pkg:nuget/VirtualClient.win-arm64@2.1.9-beta
+- pkg:nuget/VirtualClient.win-arm64@3.0.17-beta
 - pkg:nuget/VirtualClient.win-arm64@3.0.4-beta
 - pkg:nuget/VirtualClient.win-arm64@3.0.5-beta
 - pkg:nuget/VirtualClient.win-arm64@3.0.6-beta
