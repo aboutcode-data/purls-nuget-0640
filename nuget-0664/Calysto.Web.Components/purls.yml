@@ -81,6 +81,7 @@
 - pkg:nuget/Calysto.Web.Components@1.0.412
 - pkg:nuget/Calysto.Web.Components@1.0.418
 - pkg:nuget/Calysto.Web.Components@1.0.446
+- pkg:nuget/Calysto.Web.Components@1.0.489
 - pkg:nuget/Calysto.Web.Components@1.0.53
 - pkg:nuget/Calysto.Web.Components@1.0.55
 - pkg:nuget/Calysto.Web.Components@1.0.62
