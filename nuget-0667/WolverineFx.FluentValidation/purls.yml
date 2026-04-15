@@ -168,4 +168,5 @@
 - pkg:nuget/WolverineFx.FluentValidation@5.25.0
 - pkg:nuget/WolverineFx.FluentValidation@5.26.0
 - pkg:nuget/WolverineFx.FluentValidation@5.27.0
+- pkg:nuget/WolverineFx.FluentValidation@5.31.0
 - pkg:nuget/WolverineFx.FluentValidation@5.4.3
