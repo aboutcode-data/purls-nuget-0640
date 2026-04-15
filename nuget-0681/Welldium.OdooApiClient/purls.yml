@@ -9,6 +9,8 @@
 - pkg:nuget/Welldium.OdooApiClient@0.113.0
 - pkg:nuget/Welldium.OdooApiClient@0.114.0
 - pkg:nuget/Welldium.OdooApiClient@0.12.0
+- pkg:nuget/Welldium.OdooApiClient@0.120.0
+- pkg:nuget/Welldium.OdooApiClient@0.121.0
 - pkg:nuget/Welldium.OdooApiClient@0.13.0
 - pkg:nuget/Welldium.OdooApiClient@0.14.0
 - pkg:nuget/Welldium.OdooApiClient@0.15.0
