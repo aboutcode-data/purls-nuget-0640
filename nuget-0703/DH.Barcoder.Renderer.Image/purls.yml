@@ -1,4 +1,6 @@
 - pkg:nuget/DH.Barcoder.Renderer.Image@10.0.2026.13000013
+- pkg:nuget/DH.Barcoder.Renderer.Image@10.0.2026.41600019
+- pkg:nuget/DH.Barcoder.Renderer.Image@10.0.2026.41600020
 - pkg:nuget/DH.Barcoder.Renderer.Image@3.4.2024.1090091
 - pkg:nuget/DH.Barcoder.Renderer.Image@3.4.2024.1100092
 - pkg:nuget/DH.Barcoder.Renderer.Image@3.4.2024.1110093
