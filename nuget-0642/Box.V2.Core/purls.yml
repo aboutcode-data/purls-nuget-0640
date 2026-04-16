@@ -1,4 +1,5 @@
 - pkg:nuget/Box.V2.Core@10.8.0
+- pkg:nuget/Box.V2.Core@10.9.0
 - pkg:nuget/Box.V2.Core@2.12.0
 - pkg:nuget/Box.V2.Core@2.12.2
 - pkg:nuget/Box.V2.Core@2.12.3
@@ -70,3 +71,4 @@
 - pkg:nuget/Box.V2.Core@5.7.1
 - pkg:nuget/Box.V2.Core@5.8.0
 - pkg:nuget/Box.V2.Core@6.7.0
+- pkg:nuget/Box.V2.Core@6.8.0

@@ -1,1 +1,2 @@
 - pkg:nuget/Flownet.Data.SqlServer@0.1.4
+- pkg:nuget/Flownet.Data.SqlServer@0.3.0
