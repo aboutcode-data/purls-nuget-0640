@@ -1,1 +1,2 @@
 - pkg:nuget/DevTunnels.Client.DependencyInjection@1.0.0-rc1
+- pkg:nuget/DevTunnels.Client.DependencyInjection@1.0.3

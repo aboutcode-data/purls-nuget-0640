@@ -1,2 +1,3 @@
 - pkg:nuget/GarageGroup.Infra.Http.SocketsHandlerProvider@2.4.2
 - pkg:nuget/GarageGroup.Infra.Http.SocketsHandlerProvider@3.1.0
+- pkg:nuget/GarageGroup.Infra.Http.SocketsHandlerProvider@3.2.1
