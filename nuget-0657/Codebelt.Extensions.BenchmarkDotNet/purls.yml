@@ -1,1 +1,2 @@
 - pkg:nuget/Codebelt.Extensions.BenchmarkDotNet@1.2.1
+- pkg:nuget/Codebelt.Extensions.BenchmarkDotNet@1.2.6
