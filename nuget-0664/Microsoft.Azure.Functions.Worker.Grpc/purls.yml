@@ -33,3 +33,4 @@
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Grpc@2.0.0-preview4
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Grpc@2.0.0-preview5
 - pkg:nuget/Microsoft.Azure.Functions.Worker.Grpc@2.50.0-preview1
+- pkg:nuget/Microsoft.Azure.Functions.Worker.Grpc@2.52.0
