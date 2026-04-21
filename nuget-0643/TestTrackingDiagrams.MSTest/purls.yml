@@ -26,3 +26,4 @@
 - pkg:nuget/TestTrackingDiagrams.MSTest@2.0.65-alpha
 - pkg:nuget/TestTrackingDiagrams.MSTest@2.0.75-beta
 - pkg:nuget/TestTrackingDiagrams.MSTest@2.0.96-beta
+- pkg:nuget/TestTrackingDiagrams.MSTest@2.4.1
