@@ -2,3 +2,4 @@
 - pkg:nuget/CK.EmbeddedResources.Assets@0.26.1
 - pkg:nuget/CK.EmbeddedResources.Assets@1.0.0
 - pkg:nuget/CK.EmbeddedResources.Assets@1.0.1
+- pkg:nuget/CK.EmbeddedResources.Assets@2.0.0

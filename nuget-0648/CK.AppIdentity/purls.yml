@@ -4,6 +4,7 @@
 - pkg:nuget/CK.AppIdentity@0.10.0
 - pkg:nuget/CK.AppIdentity@0.11.0
 - pkg:nuget/CK.AppIdentity@0.11.1
+- pkg:nuget/CK.AppIdentity@0.14.0
 - pkg:nuget/CK.AppIdentity@0.2.0
 - pkg:nuget/CK.AppIdentity@0.2.1
 - pkg:nuget/CK.AppIdentity@0.3.0

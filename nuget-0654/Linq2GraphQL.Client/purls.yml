@@ -9,6 +9,7 @@
 - pkg:nuget/Linq2GraphQL.Client@0.13.106-prerelease
 - pkg:nuget/Linq2GraphQL.Client@0.13.108-prerelease
 - pkg:nuget/Linq2GraphQL.Client@0.13.11-prerelease
+- pkg:nuget/Linq2GraphQL.Client@0.13.127-prerelease
 - pkg:nuget/Linq2GraphQL.Client@0.13.15-prerelease
 - pkg:nuget/Linq2GraphQL.Client@0.13.17-prerelease
 - pkg:nuget/Linq2GraphQL.Client@0.13.20-prerelease
