@@ -154,3 +154,4 @@
 - pkg:nuget/Squidex.Assets.S3@7.7.0
 - pkg:nuget/Squidex.Assets.S3@7.8.0
 - pkg:nuget/Squidex.Assets.S3@7.9.0
+- pkg:nuget/Squidex.Assets.S3@8.0.1
