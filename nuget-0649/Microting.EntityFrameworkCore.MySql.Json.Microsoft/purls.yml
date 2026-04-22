@@ -1,2 +1,3 @@
+- pkg:nuget/Microting.EntityFrameworkCore.MySql.Json.Microsoft@10.0.7
 - pkg:nuget/Microting.EntityFrameworkCore.MySql.Json.Microsoft@9.0.0
 - pkg:nuget/Microting.EntityFrameworkCore.MySql.Json.Microsoft@9.0.8
