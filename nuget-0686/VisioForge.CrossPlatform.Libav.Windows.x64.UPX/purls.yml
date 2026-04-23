@@ -35,3 +35,4 @@
 - pkg:nuget/VisioForge.CrossPlatform.Libav.Windows.x64.UPX@2025.8.2
 - pkg:nuget/VisioForge.CrossPlatform.Libav.Windows.x64.UPX@2025.9.0
 - pkg:nuget/VisioForge.CrossPlatform.Libav.Windows.x64.UPX@2026.3.12
+- pkg:nuget/VisioForge.CrossPlatform.Libav.Windows.x64.UPX@2026.4.23
