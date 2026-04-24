@@ -1,3 +1,4 @@
+- pkg:nuget/Aevo.CommonLib.Translate@1.10.0-beta
 - pkg:nuget/Aevo.CommonLib.Translate@1.5.0
 - pkg:nuget/Aevo.CommonLib.Translate@1.5.0-rc1
 - pkg:nuget/Aevo.CommonLib.Translate@1.5.0-rc2
