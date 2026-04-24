@@ -17,3 +17,4 @@
 - pkg:nuget/OptimaJet.Workflow.Api.Mssql@20.0.5
 - pkg:nuget/OptimaJet.Workflow.Api.Mssql@20.0.7
 - pkg:nuget/OptimaJet.Workflow.Api.Mssql@20.0.8
+- pkg:nuget/OptimaJet.Workflow.Api.Mssql@21.0.0
