@@ -70,6 +70,7 @@
 - pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.15.0-alpha12
 - pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.15.0-alpha13
 - pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.15.0-alpha2
+- pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.15.1-alpha2
 - pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.9.0
 - pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.9.0-alpha16
 - pkg:nuget/FlowtideDotNet.Connector.SpiceDB@0.9.0-alpha17
