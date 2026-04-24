@@ -68,5 +68,6 @@
 - pkg:nuget/Microsoft.Orleans.CodeGenerator.MSBuild@3.8.0-preview2
 - pkg:nuget/Microsoft.Orleans.CodeGenerator.MSBuild@3.8.0-preview3
 - pkg:nuget/Microsoft.Orleans.CodeGenerator.MSBuild@3.8.0-preview5
+- pkg:nuget/Microsoft.Orleans.CodeGenerator.MSBuild@3.8.1
 - pkg:nuget/Microsoft.Orleans.CodeGenerator.MSBuild@4.0.0-preview1
 - pkg:nuget/Microsoft.Orleans.CodeGenerator.MSBuild@4.0.0-preview2
