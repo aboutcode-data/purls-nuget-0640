@@ -1,1 +1,2 @@
 - pkg:nuget/Lumarin.Notify.Admin.EntityFrameworkCore.PostgreSQL@0.8.0-preview.110
+- pkg:nuget/Lumarin.Notify.Admin.EntityFrameworkCore.PostgreSQL@0.8.0-preview.150
