@@ -1,6 +1,7 @@
 - pkg:nuget/Saucery.Core@4.0.0
 - pkg:nuget/Saucery.Core@4.0.1
 - pkg:nuget/Saucery.Core@4.10.7
+- pkg:nuget/Saucery.Core@4.10.9
 - pkg:nuget/Saucery.Core@4.2.0
 - pkg:nuget/Saucery.Core@4.3.0
 - pkg:nuget/Saucery.Core@4.4.0
