@@ -7,3 +7,4 @@
 - pkg:nuget/CodeWF.EventBus.Socket@0.2.0.1
 - pkg:nuget/CodeWF.EventBus.Socket@0.2.1
 - pkg:nuget/CodeWF.EventBus.Socket@0.2.1.1
+- pkg:nuget/CodeWF.EventBus.Socket@1.2.0
