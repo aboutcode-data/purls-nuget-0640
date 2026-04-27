@@ -4,3 +4,4 @@
 - pkg:nuget/NPipeline.Connectors.Http@0.38.0
 - pkg:nuget/NPipeline.Connectors.Http@0.40.0
 - pkg:nuget/NPipeline.Connectors.Http@0.40.1
+- pkg:nuget/NPipeline.Connectors.Http@0.40.3
