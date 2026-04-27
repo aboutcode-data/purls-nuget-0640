@@ -57,6 +57,7 @@
 - pkg:nuget/Cube.Native.Pdfium@139.0.7258
 - pkg:nuget/Cube.Native.Pdfium@140.0.7339
 - pkg:nuget/Cube.Native.Pdfium@141.0.7390
+- pkg:nuget/Cube.Native.Pdfium@147.0.7727
 - pkg:nuget/Cube.Native.Pdfium@92.0.4515
 - pkg:nuget/Cube.Native.Pdfium@93.0.4577
 - pkg:nuget/Cube.Native.Pdfium@94.0.4606
