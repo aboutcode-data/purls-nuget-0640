@@ -44,6 +44,8 @@
 - pkg:nuget/PropertyMaster.Data.Identifiers@3.3.192
 - pkg:nuget/PropertyMaster.Data.Identifiers@3.3.195
 - pkg:nuget/PropertyMaster.Data.Identifiers@3.3.197
+- pkg:nuget/PropertyMaster.Data.Identifiers@3.3.2
+- pkg:nuget/PropertyMaster.Data.Identifiers@3.3.2-beta
 - pkg:nuget/PropertyMaster.Data.Identifiers@3.3.200
 - pkg:nuget/PropertyMaster.Data.Identifiers@3.3.220
 - pkg:nuget/PropertyMaster.Data.Identifiers@3.3.235
