@@ -1,2 +1,3 @@
 - pkg:nuget/Aspire4Wasm.WebAssembly@6.0.0
 - pkg:nuget/Aspire4Wasm.WebAssembly@6.0.1
+- pkg:nuget/Aspire4Wasm.WebAssembly@7.0.0
