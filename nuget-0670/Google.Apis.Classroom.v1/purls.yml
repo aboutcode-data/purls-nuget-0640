@@ -405,6 +405,7 @@
 - pkg:nuget/Google.Apis.Classroom.v1@1.69.0.3798
 - pkg:nuget/Google.Apis.Classroom.v1@1.70.0.3874
 - pkg:nuget/Google.Apis.Classroom.v1@1.70.0.3891
+- pkg:nuget/Google.Apis.Classroom.v1@1.73.0.4121
 - pkg:nuget/Google.Apis.Classroom.v1@1.9.0.10
 - pkg:nuget/Google.Apis.Classroom.v1@1.9.2.10
 - pkg:nuget/Google.Apis.Classroom.v1@1.9.2.20
