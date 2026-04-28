@@ -408,7 +408,9 @@
 - pkg:nuget/Jari.SREF.Shared@1.5.125
 - pkg:nuget/Jari.SREF.Shared@1.5.13
 - pkg:nuget/Jari.SREF.Shared@1.5.133
+- pkg:nuget/Jari.SREF.Shared@1.5.139
 - pkg:nuget/Jari.SREF.Shared@1.5.14
+- pkg:nuget/Jari.SREF.Shared@1.5.140
 - pkg:nuget/Jari.SREF.Shared@1.5.15
 - pkg:nuget/Jari.SREF.Shared@1.5.16
 - pkg:nuget/Jari.SREF.Shared@1.5.17
