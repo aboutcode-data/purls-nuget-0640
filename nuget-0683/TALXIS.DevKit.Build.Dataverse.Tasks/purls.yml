@@ -1,4 +1,5 @@
 - pkg:nuget/TALXIS.DevKit.Build.Dataverse.Tasks@0.0.0.1
 - pkg:nuget/TALXIS.DevKit.Build.Dataverse.Tasks@0.0.0.14
+- pkg:nuget/TALXIS.DevKit.Build.Dataverse.Tasks@0.0.0.16
 - pkg:nuget/TALXIS.DevKit.Build.Dataverse.Tasks@0.0.0.2
 - pkg:nuget/TALXIS.DevKit.Build.Dataverse.Tasks@0.0.0.3
