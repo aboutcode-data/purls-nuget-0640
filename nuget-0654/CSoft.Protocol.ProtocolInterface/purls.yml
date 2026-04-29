@@ -2,6 +2,7 @@
 - pkg:nuget/CSoft.Protocol.ProtocolInterface@10.0.1
 - pkg:nuget/CSoft.Protocol.ProtocolInterface@10.0.18
 - pkg:nuget/CSoft.Protocol.ProtocolInterface@10.0.19
+- pkg:nuget/CSoft.Protocol.ProtocolInterface@10.1.0
 - pkg:nuget/CSoft.Protocol.ProtocolInterface@2.0.0
 - pkg:nuget/CSoft.Protocol.ProtocolInterface@3.0.0
 - pkg:nuget/CSoft.Protocol.ProtocolInterface@4.0.0
