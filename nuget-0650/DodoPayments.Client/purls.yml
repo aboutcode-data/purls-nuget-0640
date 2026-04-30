@@ -3,3 +3,4 @@
 - pkg:nuget/DodoPayments.Client@6.11.1
 - pkg:nuget/DodoPayments.Client@6.12.1
 - pkg:nuget/DodoPayments.Client@6.13.0
+- pkg:nuget/DodoPayments.Client@6.17.0
