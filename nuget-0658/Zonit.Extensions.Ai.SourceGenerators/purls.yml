@@ -1,2 +1,3 @@
 - pkg:nuget/Zonit.Extensions.Ai.SourceGenerators@1.9.15
 - pkg:nuget/Zonit.Extensions.Ai.SourceGenerators@1.9.19
+- pkg:nuget/Zonit.Extensions.Ai.SourceGenerators@2.0.13
