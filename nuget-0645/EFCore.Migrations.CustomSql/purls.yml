@@ -1,1 +1,2 @@
+- pkg:nuget/EFCore.Migrations.CustomSql@10.1.0-preview.5
 - pkg:nuget/EFCore.Migrations.CustomSql@6.0.1
