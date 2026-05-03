@@ -17,3 +17,4 @@
 - pkg:nuget/AiDotNet.Native.ROCm@0.45.0
 - pkg:nuget/AiDotNet.Native.ROCm@0.59.0
 - pkg:nuget/AiDotNet.Native.ROCm@0.67.1
+- pkg:nuget/AiDotNet.Native.ROCm@0.69.4
