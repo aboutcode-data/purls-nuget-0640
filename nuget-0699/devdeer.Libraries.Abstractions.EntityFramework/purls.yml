@@ -41,6 +41,8 @@
 - pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@1.2.5
 - pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@1.2.7
 - pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@1.2.8
+- pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@11.0.7
+- pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@11.0.8
 - pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@2.0.0
 - pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@2.1.0
 - pkg:nuget/devdeer.Libraries.Abstractions.EntityFramework@2.2.0
