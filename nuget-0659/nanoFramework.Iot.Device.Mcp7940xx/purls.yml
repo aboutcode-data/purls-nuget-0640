@@ -42,3 +42,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.Mcp7940xx@1.0.810
 - pkg:nuget/nanoFramework.Iot.Device.Mcp7940xx@1.0.87
 - pkg:nuget/nanoFramework.Iot.Device.Mcp7940xx@1.0.99
+- pkg:nuget/nanoFramework.Iot.Device.Mcp7940xx@2.0.0-preview.49

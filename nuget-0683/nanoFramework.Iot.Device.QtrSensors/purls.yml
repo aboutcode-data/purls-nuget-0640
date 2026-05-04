@@ -16,3 +16,4 @@
 - pkg:nuget/nanoFramework.Iot.Device.QtrSensors@1.0.637
 - pkg:nuget/nanoFramework.Iot.Device.QtrSensors@1.0.70
 - pkg:nuget/nanoFramework.Iot.Device.QtrSensors@1.0.86
+- pkg:nuget/nanoFramework.Iot.Device.QtrSensors@2.0.0-preview.49
