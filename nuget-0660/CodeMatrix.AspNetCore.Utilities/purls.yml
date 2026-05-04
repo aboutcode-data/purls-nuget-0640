@@ -4,6 +4,7 @@
 - pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.11
 - pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.12
 - pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.2
+- pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.21
 - pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.3
 - pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.7
 - pkg:nuget/CodeMatrix.AspNetCore.Utilities@1.0.8
