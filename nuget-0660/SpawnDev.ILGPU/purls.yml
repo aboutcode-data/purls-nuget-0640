@@ -8,3 +8,5 @@
 - pkg:nuget/SpawnDev.ILGPU@4.7.1
 - pkg:nuget/SpawnDev.ILGPU@4.7.1-rc.1
 - pkg:nuget/SpawnDev.ILGPU@4.7.2
+- pkg:nuget/SpawnDev.ILGPU@4.9.5-rc.13
+- pkg:nuget/SpawnDev.ILGPU@4.9.5-rc.14
