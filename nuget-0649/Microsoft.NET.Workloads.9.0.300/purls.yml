@@ -8,3 +8,4 @@
 - pkg:nuget/Microsoft.NET.Workloads.9.0.300@9.305.0
 - pkg:nuget/Microsoft.NET.Workloads.9.0.300@9.308.1
 - pkg:nuget/Microsoft.NET.Workloads.9.0.300@9.311.0
+- pkg:nuget/Microsoft.NET.Workloads.9.0.300@9.313.1
