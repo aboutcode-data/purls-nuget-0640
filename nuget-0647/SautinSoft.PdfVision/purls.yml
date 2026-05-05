@@ -17,6 +17,7 @@
 - pkg:nuget/SautinSoft.PdfVision@2025.8.25
 - pkg:nuget/SautinSoft.PdfVision@2025.9.24
 - pkg:nuget/SautinSoft.PdfVision@2025.9.8
+- pkg:nuget/SautinSoft.PdfVision@2026.5.5
 - pkg:nuget/SautinSoft.PdfVision@5.0.13.10
 - pkg:nuget/SautinSoft.PdfVision@5.3.6.5
 - pkg:nuget/SautinSoft.PdfVision@5.4.2.21

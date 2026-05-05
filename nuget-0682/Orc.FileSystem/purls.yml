@@ -81,3 +81,4 @@
 - pkg:nuget/Orc.FileSystem@5.0.0-alpha0226
 - pkg:nuget/Orc.FileSystem@5.0.0-alpha0322
 - pkg:nuget/Orc.FileSystem@5.0.0-alpha0356
+- pkg:nuget/Orc.FileSystem@6.0.0-alpha0119
