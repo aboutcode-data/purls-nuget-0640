@@ -540,6 +540,7 @@
 - pkg:nuget/UGestor.Service@4.1.9.129
 - pkg:nuget/UGestor.Service@4.1.9.131
 - pkg:nuget/UGestor.Service@4.1.9.141
+- pkg:nuget/UGestor.Service@4.2.0.109
 - pkg:nuget/UGestor.Service@4.2.0.53
 - pkg:nuget/UGestor.Service@4.2.0.75
 - pkg:nuget/UGestor.Service@4.2.0.77

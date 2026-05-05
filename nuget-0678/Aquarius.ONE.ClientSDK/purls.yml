@@ -156,6 +156,7 @@
 - pkg:nuget/Aquarius.ONE.ClientSDK@18.3.0-pre-26
 - pkg:nuget/Aquarius.ONE.ClientSDK@18.3.0-pre-27
 - pkg:nuget/Aquarius.ONE.ClientSDK@18.3.1-pre-28
+- pkg:nuget/Aquarius.ONE.ClientSDK@19.0.1-pre-35
 - pkg:nuget/Aquarius.ONE.ClientSDK@8.3.1
 - pkg:nuget/Aquarius.ONE.ClientSDK@8.4.1
 - pkg:nuget/Aquarius.ONE.ClientSDK@8.5.0
