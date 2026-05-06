@@ -36,3 +36,4 @@
 - pkg:nuget/AppDynamics.Azure.SiteExtension.JavaAgent@26.1.1
 - pkg:nuget/AppDynamics.Azure.SiteExtension.JavaAgent@26.1.2
 - pkg:nuget/AppDynamics.Azure.SiteExtension.JavaAgent@26.2.0
+- pkg:nuget/AppDynamics.Azure.SiteExtension.JavaAgent@26.4.0
