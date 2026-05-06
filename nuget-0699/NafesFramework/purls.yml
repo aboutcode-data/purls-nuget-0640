@@ -27,3 +27,4 @@
 - pkg:nuget/NafesFramework@1.4.6
 - pkg:nuget/NafesFramework@1.4.7
 - pkg:nuget/NafesFramework@1.5.1
+- pkg:nuget/NafesFramework@1.8.2
