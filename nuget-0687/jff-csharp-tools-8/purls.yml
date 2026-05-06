@@ -1,3 +1,5 @@
+- pkg:nuget/jff-csharp-tools-8@11.2.2
+- pkg:nuget/jff-csharp-tools-8@11.2.3
 - pkg:nuget/jff-csharp-tools-8@8.0.0
 - pkg:nuget/jff-csharp-tools-8@8.0.1
 - pkg:nuget/jff-csharp-tools-8@8.0.10
