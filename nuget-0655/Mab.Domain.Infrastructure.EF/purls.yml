@@ -27,3 +27,4 @@
 - pkg:nuget/Mab.Domain.Infrastructure.EF@1.8.2
 - pkg:nuget/Mab.Domain.Infrastructure.EF@1.8.3
 - pkg:nuget/Mab.Domain.Infrastructure.EF@1.8.4
+- pkg:nuget/Mab.Domain.Infrastructure.EF@1.9.0
