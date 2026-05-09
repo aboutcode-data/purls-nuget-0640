@@ -38,6 +38,7 @@
 - pkg:nuget/Ditto.Native.Maccatalyst@4.12.2-rc.2
 - pkg:nuget/Ditto.Native.Maccatalyst@4.12.5
 - pkg:nuget/Ditto.Native.Maccatalyst@4.12.6-experimental-gha-workflow-kotlin-only.1
+- pkg:nuget/Ditto.Native.Maccatalyst@4.12.6-experimental-gha-workflow.2
 - pkg:nuget/Ditto.Native.Maccatalyst@4.13.0-experimental-internal-jj-ws-support.1
 - pkg:nuget/Ditto.Native.Maccatalyst@4.13.2
 - pkg:nuget/Ditto.Native.Maccatalyst@4.13.4
