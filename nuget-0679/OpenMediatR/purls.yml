@@ -4,3 +4,4 @@
 - pkg:nuget/OpenMediatR@0.0.4-alpha
 - pkg:nuget/OpenMediatR@1.0.0-beta.1
 - pkg:nuget/OpenMediatR@1.0.0-beta.2
+- pkg:nuget/OpenMediatR@1.1.0
