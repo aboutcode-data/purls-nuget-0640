@@ -35,6 +35,7 @@
 - pkg:nuget/Stateflows.Locks.DistributedLock@0.17.7-alpha
 - pkg:nuget/Stateflows.Locks.DistributedLock@0.17.8-alpha
 - pkg:nuget/Stateflows.Locks.DistributedLock@0.17.9-alpha
+- pkg:nuget/Stateflows.Locks.DistributedLock@0.19.5-beta
 - pkg:nuget/Stateflows.Locks.DistributedLock@0.2.0-alpha
 - pkg:nuget/Stateflows.Locks.DistributedLock@0.2.1-alpha
 - pkg:nuget/Stateflows.Locks.DistributedLock@0.3.0-alpha

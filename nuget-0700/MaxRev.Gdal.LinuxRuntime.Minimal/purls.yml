@@ -21,6 +21,7 @@
 - pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.12.2.472
 - pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.12.2.494
 - pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.12.3.496
+- pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.13.0.527
 - pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.2.0.100
 - pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.2.0.200
 - pkg:nuget/MaxRev.Gdal.LinuxRuntime.Minimal@3.2.0.250
