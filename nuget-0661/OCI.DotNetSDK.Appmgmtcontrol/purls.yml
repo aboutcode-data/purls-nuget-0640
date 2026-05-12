@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@29.3.0
 - pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@29.4.0
 - pkg:nuget/OCI.DotNetSDK.Appmgmtcontrol@30.0.0

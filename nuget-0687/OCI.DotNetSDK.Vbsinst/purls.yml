@@ -43,6 +43,7 @@
 - pkg:nuget/OCI.DotNetSDK.Vbsinst@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Vbsinst@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Vbsinst@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Vbsinst@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Vbsinst@52.1.0
 - pkg:nuget/OCI.DotNetSDK.Vbsinst@53.0.0
 - pkg:nuget/OCI.DotNetSDK.Vbsinst@53.1.0
