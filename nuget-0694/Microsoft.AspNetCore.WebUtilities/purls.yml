@@ -19,7 +19,9 @@
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@10.0.0-rc.1.25451.107
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@10.0.1
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@10.0.7
+- pkg:nuget/Microsoft.AspNetCore.WebUtilities@10.0.8
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.AspNetCore.WebUtilities@11.0.0-preview.4.26230.115
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.0.0
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.0.0-preview1-final
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.0.0-preview2-final
@@ -36,6 +38,7 @@
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.2.0-preview2-35157
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.2.0-preview3-35497
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.3.0
+- pkg:nuget/Microsoft.AspNetCore.WebUtilities@2.3.10
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@8.0.0
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@8.0.0-preview.5.23302.2
 - pkg:nuget/Microsoft.AspNetCore.WebUtilities@8.0.0-preview.6.23329.11
