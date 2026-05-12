@@ -1,2 +1,3 @@
 - pkg:nuget/Oip.Data@0.0.10
 - pkg:nuget/Oip.Data@0.0.8
+- pkg:nuget/Oip.Data@0.2.2
