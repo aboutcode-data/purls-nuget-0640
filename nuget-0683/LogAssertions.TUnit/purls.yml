@@ -1,2 +1,3 @@
 - pkg:nuget/LogAssertions.TUnit@0.1.0
 - pkg:nuget/LogAssertions.TUnit@0.2.1
+- pkg:nuget/LogAssertions.TUnit@0.4.1

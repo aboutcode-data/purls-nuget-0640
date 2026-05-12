@@ -2,3 +2,5 @@
 - pkg:nuget/OptiGraphExtensions@0.1.2-beta
 - pkg:nuget/OptiGraphExtensions@0.1.3-beta
 - pkg:nuget/OptiGraphExtensions@0.1.4-beta
+- pkg:nuget/OptiGraphExtensions@6.0.1
+- pkg:nuget/OptiGraphExtensions@7.0.0
