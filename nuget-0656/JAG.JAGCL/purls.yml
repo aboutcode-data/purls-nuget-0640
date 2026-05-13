@@ -6,6 +6,8 @@
 - pkg:nuget/JAG.JAGCL@10.0.1.11
 - pkg:nuget/JAG.JAGCL@10.0.1.9
 - pkg:nuget/JAG.JAGCL@10.0.2
+- pkg:nuget/JAG.JAGCL@10.0.2.6
+- pkg:nuget/JAG.JAGCL@10.0.2.7
 - pkg:nuget/JAG.JAGCL@9.0.0
 - pkg:nuget/JAG.JAGCL@9.0.2
 - pkg:nuget/JAG.JAGCL@9.0.9.1
