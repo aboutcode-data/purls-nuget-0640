@@ -29,4 +29,6 @@
 - pkg:nuget/AdoNet.Async@1.2.1-alpha.11
 - pkg:nuget/AdoNet.Async@1.2.1-alpha.3
 - pkg:nuget/AdoNet.Async@1.2.2-alpha.10
+- pkg:nuget/AdoNet.Async@1.2.2-alpha.11
+- pkg:nuget/AdoNet.Async@1.2.2-alpha.12
 - pkg:nuget/AdoNet.Async@1.2.2-alpha.9
