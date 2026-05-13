@@ -28,3 +28,4 @@
 - pkg:nuget/Bewit.Validation@5.0.0-rc.2
 - pkg:nuget/Bewit.Validation@6.0.0-preview.1
 - pkg:nuget/Bewit.Validation@6.0.0-preview.2
+- pkg:nuget/Bewit.Validation@8.0.0
