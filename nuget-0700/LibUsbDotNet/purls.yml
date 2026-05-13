@@ -8,6 +8,7 @@
 - pkg:nuget/LibUsbDotNet@2.2.29
 - pkg:nuget/LibUsbDotNet@2.2.75
 - pkg:nuget/LibUsbDotNet@2.2.8
+- pkg:nuget/LibUsbDotNet@2.2.85
 - pkg:nuget/LibUsbDotNet@2.2.9-r21
 - pkg:nuget/LibUsbDotNet@2.2.9-r9
 - pkg:nuget/LibUsbDotNet@3.0.102-alpha
