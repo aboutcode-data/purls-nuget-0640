@@ -1,5 +1,6 @@
 - pkg:nuget/DHI.Services.Connections.WebApi@1.0.4
 - pkg:nuget/DHI.Services.Connections.WebApi@1.1.0
+- pkg:nuget/DHI.Services.Connections.WebApi@17.0.0
 - pkg:nuget/DHI.Services.Connections.WebApi@2.0.0
 - pkg:nuget/DHI.Services.Connections.WebApi@3.0.0
 - pkg:nuget/DHI.Services.Connections.WebApi@3.0.0-rc1
