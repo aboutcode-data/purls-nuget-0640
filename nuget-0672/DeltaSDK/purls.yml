@@ -150,6 +150,7 @@
 - pkg:nuget/DeltaSDK@1.1.55
 - pkg:nuget/DeltaSDK@1.1.56
 - pkg:nuget/DeltaSDK@1.1.6
+- pkg:nuget/DeltaSDK@1.1.61
 - pkg:nuget/DeltaSDK@1.1.7
 - pkg:nuget/DeltaSDK@1.1.8
 - pkg:nuget/DeltaSDK@1.1.9
