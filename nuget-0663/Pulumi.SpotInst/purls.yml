@@ -328,6 +328,7 @@
 - pkg:nuget/Pulumi.SpotInst@3.131.0
 - pkg:nuget/Pulumi.SpotInst@3.131.0-alpha.1776322640
 - pkg:nuget/Pulumi.SpotInst@3.131.0-alpha.1777090208
+- pkg:nuget/Pulumi.SpotInst@3.132.0-alpha.1778743312
 - pkg:nuget/Pulumi.SpotInst@3.14.0
 - pkg:nuget/Pulumi.SpotInst@3.14.0-alpha.1643219381%2B0d920d6d
 - pkg:nuget/Pulumi.SpotInst@3.14.0-alpha.1643227133%2B6a26b5c0

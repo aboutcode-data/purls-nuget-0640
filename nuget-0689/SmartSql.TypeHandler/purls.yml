@@ -141,3 +141,4 @@
 - pkg:nuget/SmartSql.TypeHandler@4.1.7
 - pkg:nuget/SmartSql.TypeHandler@4.1.8
 - pkg:nuget/SmartSql.TypeHandler@4.1.9
+- pkg:nuget/SmartSql.TypeHandler@4.2.0
