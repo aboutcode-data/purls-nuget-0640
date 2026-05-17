@@ -1,1 +1,2 @@
 - pkg:nuget/Orleans.Lattice.Storage.AzureTable@3.4.0
+- pkg:nuget/Orleans.Lattice.Storage.AzureTable@4.0.0
