@@ -11,3 +11,4 @@
 - pkg:nuget/ThinkGeo.Dependency.Oracle@14.0.0
 - pkg:nuget/ThinkGeo.Dependency.Oracle@14.0.0-beta001
 - pkg:nuget/ThinkGeo.Dependency.Oracle@14.0.0-beta002
+- pkg:nuget/ThinkGeo.Dependency.Oracle@14.5.2
