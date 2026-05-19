@@ -1,1 +1,2 @@
 - pkg:nuget/ExiftoolWrapper@4.0.0
+- pkg:nuget/ExiftoolWrapper@5.2.0
