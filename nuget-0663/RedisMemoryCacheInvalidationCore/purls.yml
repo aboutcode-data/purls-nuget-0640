@@ -3,3 +3,4 @@
 - pkg:nuget/RedisMemoryCacheInvalidationCore@2.3.0
 - pkg:nuget/RedisMemoryCacheInvalidationCore@2.4.0
 - pkg:nuget/RedisMemoryCacheInvalidationCore@2.5.0
+- pkg:nuget/RedisMemoryCacheInvalidationCore@2.6.0

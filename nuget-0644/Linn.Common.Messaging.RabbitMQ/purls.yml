@@ -13,3 +13,4 @@
 - pkg:nuget/Linn.Common.Messaging.RabbitMQ@3.2.4
 - pkg:nuget/Linn.Common.Messaging.RabbitMQ@4.0.1
 - pkg:nuget/Linn.Common.Messaging.RabbitMQ@5.1.0
+- pkg:nuget/Linn.Common.Messaging.RabbitMQ@5.2.0

@@ -26,3 +26,5 @@
 - pkg:nuget/Rymote.Pulse.Core@1.1.7
 - pkg:nuget/Rymote.Pulse.Core@1.1.8
 - pkg:nuget/Rymote.Pulse.Core@1.1.9
+- pkg:nuget/Rymote.Pulse.Core@3.0.0
+- pkg:nuget/Rymote.Pulse.Core@3.0.1
