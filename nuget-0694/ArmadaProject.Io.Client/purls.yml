@@ -68,6 +68,7 @@
 - pkg:nuget/ArmadaProject.Io.Client@0.20.37
 - pkg:nuget/ArmadaProject.Io.Client@0.20.44
 - pkg:nuget/ArmadaProject.Io.Client@0.20.6
+- pkg:nuget/ArmadaProject.Io.Client@0.21.3
 - pkg:nuget/ArmadaProject.Io.Client@0.3.27
 - pkg:nuget/ArmadaProject.Io.Client@0.3.28
 - pkg:nuget/ArmadaProject.Io.Client@0.3.29
