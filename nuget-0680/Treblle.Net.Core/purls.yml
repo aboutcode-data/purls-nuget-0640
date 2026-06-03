@@ -40,3 +40,5 @@
 - pkg:nuget/Treblle.Net.Core@2.0.1
 - pkg:nuget/Treblle.Net.Core@2.0.1-beta.1
 - pkg:nuget/Treblle.Net.Core@2.0.1-beta.2
+- pkg:nuget/Treblle.Net.Core@2.0.10
+- pkg:nuget/Treblle.Net.Core@2.0.11
