@@ -55,3 +55,4 @@
 - pkg:nuget/Shesha.NHibernate.PostGis@0.43.8
 - pkg:nuget/Shesha.NHibernate.PostGis@0.44.0
 - pkg:nuget/Shesha.NHibernate.PostGis@0.45.0
+- pkg:nuget/Shesha.NHibernate.PostGis@0.45.1
