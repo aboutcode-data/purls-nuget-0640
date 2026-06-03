@@ -344,3 +344,6 @@
 - pkg:nuget/Shiny.Push.AzureNotificationHubs@4.1.0-beta-0093
 - pkg:nuget/Shiny.Push.AzureNotificationHubs@4.1.0-beta-0113
 - pkg:nuget/Shiny.Push.AzureNotificationHubs@5.0.0-beta-0064
+- pkg:nuget/Shiny.Push.AzureNotificationHubs@5.0.0-beta-0122
+- pkg:nuget/Shiny.Push.AzureNotificationHubs@5.0.0-beta-0123
+- pkg:nuget/Shiny.Push.AzureNotificationHubs@5.0.0-beta-0125
