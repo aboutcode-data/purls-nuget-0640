@@ -28,3 +28,4 @@
 - pkg:nuget/PowerServer.Core@3.0.0-beta5
 - pkg:nuget/PowerServer.Core@3.0.0-beta6
 - pkg:nuget/PowerServer.Core@3.0.1
+- pkg:nuget/PowerServer.Core@3.1.0
