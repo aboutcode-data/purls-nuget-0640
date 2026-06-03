@@ -186,3 +186,8 @@
 - pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.41
 - pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.47
 - pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.5
+- pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.54
+- pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.61
+- pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.62
+- pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.64
+- pkg:nuget/UnifiedBlazor.Shared.Blazor@0.1.65
