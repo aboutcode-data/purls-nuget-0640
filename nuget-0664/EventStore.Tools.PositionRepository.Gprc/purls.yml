@@ -12,3 +12,4 @@
 - pkg:nuget/EventStore.Tools.PositionRepository.Gprc@1.4.2
 - pkg:nuget/EventStore.Tools.PositionRepository.Gprc@1.4.3
 - pkg:nuget/EventStore.Tools.PositionRepository.Gprc@1.4.4
+- pkg:nuget/EventStore.Tools.PositionRepository.Gprc@1.4.5
