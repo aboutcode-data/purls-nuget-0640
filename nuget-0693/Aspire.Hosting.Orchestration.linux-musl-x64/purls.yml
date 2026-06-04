@@ -1,5 +1,7 @@
 - pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@13.2.1
 - pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@13.3.1
+- pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@13.4.0
+- pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@13.4.1
 - pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@9.4.0
 - pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@9.4.1
 - pkg:nuget/Aspire.Hosting.Orchestration.linux-musl-x64@9.4.2
