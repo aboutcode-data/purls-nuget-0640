@@ -1,3 +1,4 @@
 - pkg:nuget/Avr8Sharp@1.0.0
 - pkg:nuget/Avr8Sharp@1.0.1
 - pkg:nuget/Avr8Sharp@1.0.2
+- pkg:nuget/Avr8Sharp@1.1.0-beta2
