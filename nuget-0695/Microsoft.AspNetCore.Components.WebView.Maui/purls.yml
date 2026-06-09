@@ -9,6 +9,7 @@
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@10.0.0-rc.1.25452.6
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@10.0.50
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@10.0.70
+- pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@11.0.0-preview.5.26304.4
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@6.0.100-preview.5.751%2Bsha.db055a19a-azdo.4862204
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@6.0.100-preview.5.753%2Bsha.f1de30513-azdo.4862597
 - pkg:nuget/Microsoft.AspNetCore.Components.WebView.Maui@6.0.100-preview.5.760%2Bsha.37f0b2829-azdo.4864672
