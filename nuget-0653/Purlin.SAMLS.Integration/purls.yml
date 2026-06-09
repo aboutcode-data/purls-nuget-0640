@@ -126,3 +126,5 @@
 - pkg:nuget/Purlin.SAMLS.Integration@2.7.9
 - pkg:nuget/Purlin.SAMLS.Integration@2.8.5
 - pkg:nuget/Purlin.SAMLS.Integration@2.9.7
+- pkg:nuget/Purlin.SAMLS.Integration@3.0.2
+- pkg:nuget/Purlin.SAMLS.Integration@3.0.3

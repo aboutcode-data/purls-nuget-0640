@@ -103,4 +103,5 @@
 - pkg:nuget/GeneXus.DynService.CosmosDB@1.35.15
 - pkg:nuget/GeneXus.DynService.CosmosDB@1.35.3
 - pkg:nuget/GeneXus.DynService.CosmosDB@1.36.4
+- pkg:nuget/GeneXus.DynService.CosmosDB@1.36.6
 - pkg:nuget/GeneXus.DynService.CosmosDB@1.37.2
