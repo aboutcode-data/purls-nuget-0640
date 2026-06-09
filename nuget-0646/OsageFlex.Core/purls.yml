@@ -40,6 +40,7 @@
 - pkg:nuget/OsageFlex.Core@1.2.12
 - pkg:nuget/OsageFlex.Core@1.2.128
 - pkg:nuget/OsageFlex.Core@1.2.13
+- pkg:nuget/OsageFlex.Core@1.2.133
 - pkg:nuget/OsageFlex.Core@1.2.14
 - pkg:nuget/OsageFlex.Core@1.2.15
 - pkg:nuget/OsageFlex.Core@1.2.16
