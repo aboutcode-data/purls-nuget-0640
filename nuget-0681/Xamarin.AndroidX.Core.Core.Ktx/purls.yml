@@ -23,6 +23,7 @@
 - pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.16.0.2
 - pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.16.0.3
 - pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.17.0
+- pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.19.0
 - pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.5.0
 - pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.6.0
 - pkg:nuget/Xamarin.AndroidX.Core.Core.Ktx@1.6.0.1
