@@ -262,3 +262,4 @@
 - pkg:nuget/DiadocSDK@3.30.0
 - pkg:nuget/DiadocSDK@3.30.1
 - pkg:nuget/DiadocSDK@3.31.0
+- pkg:nuget/DiadocSDK@3.32.0
