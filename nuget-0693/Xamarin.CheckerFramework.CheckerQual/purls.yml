@@ -58,3 +58,4 @@
 - pkg:nuget/Xamarin.CheckerFramework.CheckerQual@3.49.5.1
 - pkg:nuget/Xamarin.CheckerFramework.CheckerQual@3.50.0
 - pkg:nuget/Xamarin.CheckerFramework.CheckerQual@3.55.1
+- pkg:nuget/Xamarin.CheckerFramework.CheckerQual@4.2.0
