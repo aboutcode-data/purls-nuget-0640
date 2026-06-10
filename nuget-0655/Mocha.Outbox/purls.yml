@@ -31,3 +31,4 @@
 - pkg:nuget/Mocha.Outbox@16.1.2
 - pkg:nuget/Mocha.Outbox@16.1.4-p.3
 - pkg:nuget/Mocha.Outbox@16.1.4-p.4
+- pkg:nuget/Mocha.Outbox@16.1.4-p.5
