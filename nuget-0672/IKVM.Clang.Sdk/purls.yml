@@ -31,3 +31,5 @@
 - pkg:nuget/IKVM.Clang.Sdk@0.2.7
 - pkg:nuget/IKVM.Clang.Sdk@0.2.8
 - pkg:nuget/IKVM.Clang.Sdk@0.2.9
+- pkg:nuget/IKVM.Clang.Sdk@2.0.2
+- pkg:nuget/IKVM.Clang.Sdk@2.0.4
