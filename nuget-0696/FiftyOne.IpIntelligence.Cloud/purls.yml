@@ -67,3 +67,6 @@
 - pkg:nuget/FiftyOne.IpIntelligence.Cloud@4.5.53
 - pkg:nuget/FiftyOne.IpIntelligence.Cloud@4.5.57
 - pkg:nuget/FiftyOne.IpIntelligence.Cloud@4.5.64
+- pkg:nuget/FiftyOne.IpIntelligence.Cloud@4.5.69
+- pkg:nuget/FiftyOne.IpIntelligence.Cloud@4.5.70
+- pkg:nuget/FiftyOne.IpIntelligence.Cloud@4.5.77
