@@ -63,6 +63,7 @@
 - pkg:nuget/WebWindowNetCore@11.0.7-beta-7
 - pkg:nuget/WebWindowNetCore@11.0.8-beta-8
 - pkg:nuget/WebWindowNetCore@11.0.9-beta-9
+- pkg:nuget/WebWindowNetCore@12.0.0-beta
 - pkg:nuget/WebWindowNetCore@2.0.0
 - pkg:nuget/WebWindowNetCore@2.1.0
 - pkg:nuget/WebWindowNetCore@2.1.1
