@@ -1,4 +1,5 @@
 - pkg:nuget/Etch.Cms.Umbraco.Hangfire@1.0.0
+- pkg:nuget/Etch.Cms.Umbraco.Hangfire@17.0.8
 - pkg:nuget/Etch.Cms.Umbraco.Hangfire@2.0.0
 - pkg:nuget/Etch.Cms.Umbraco.Hangfire@2.0.1
 - pkg:nuget/Etch.Cms.Umbraco.Hangfire@2.0.10
