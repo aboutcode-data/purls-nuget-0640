@@ -19,3 +19,5 @@
 - pkg:nuget/TipsTrade-HMRC@0.0.2.8
 - pkg:nuget/TipsTrade-HMRC@0.0.2.9
 - pkg:nuget/TipsTrade-HMRC@0.0.3.1
+- pkg:nuget/TipsTrade-HMRC@8.0.0-beta1
+- pkg:nuget/TipsTrade-HMRC@8.0.0-beta2
