@@ -2,6 +2,7 @@
 - pkg:nuget/Carbon.MassTransit@3.10.0
 - pkg:nuget/Carbon.MassTransit@3.10.1
 - pkg:nuget/Carbon.MassTransit@3.10.2
+- pkg:nuget/Carbon.MassTransit@3.10.7
 - pkg:nuget/Carbon.MassTransit@3.3.0
 - pkg:nuget/Carbon.MassTransit@3.4.0
 - pkg:nuget/Carbon.MassTransit@3.5.0
