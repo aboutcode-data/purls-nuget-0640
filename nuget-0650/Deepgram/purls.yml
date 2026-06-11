@@ -53,3 +53,4 @@
 - pkg:nuget/Deepgram@6.5.0
 - pkg:nuget/Deepgram@6.5.1
 - pkg:nuget/Deepgram@6.6.0
+- pkg:nuget/Deepgram@6.7.0
