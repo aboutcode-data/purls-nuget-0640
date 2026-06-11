@@ -203,3 +203,4 @@
 - pkg:nuget/AWSSDK.BackupSearch@4.0.3.20
 - pkg:nuget/AWSSDK.BackupSearch@4.0.3.21
 - pkg:nuget/AWSSDK.BackupSearch@4.0.3.30
+- pkg:nuget/AWSSDK.BackupSearch@4.0.4.5
