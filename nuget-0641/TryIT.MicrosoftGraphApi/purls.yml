@@ -107,3 +107,5 @@
 - pkg:nuget/TryIT.MicrosoftGraphApi@2.2.1
 - pkg:nuget/TryIT.MicrosoftGraphApi@2.2.5
 - pkg:nuget/TryIT.MicrosoftGraphApi@2.2.6
+- pkg:nuget/TryIT.MicrosoftGraphApi@2.2.7
+- pkg:nuget/TryIT.MicrosoftGraphApi@2.2.8
