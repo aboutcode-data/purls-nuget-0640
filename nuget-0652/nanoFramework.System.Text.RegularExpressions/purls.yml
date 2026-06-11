@@ -34,4 +34,5 @@
 - pkg:nuget/nanoFramework.System.Text.RegularExpressions@1.1.9
 - pkg:nuget/nanoFramework.System.Text.RegularExpressions@1.1.95
 - pkg:nuget/nanoFramework.System.Text.RegularExpressions@2.0.0-preview.14
+- pkg:nuget/nanoFramework.System.Text.RegularExpressions@2.0.0-preview.28
 - pkg:nuget/nanoFramework.System.Text.RegularExpressions@2.0.0-preview.7
