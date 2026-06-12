@@ -327,6 +327,7 @@
 - pkg:nuget/JetBrains.Platform.Standalone.Shell@262.0.20260514.122248-eap02
 - pkg:nuget/JetBrains.Platform.Standalone.Shell@262.0.20260527.204840-eap04
 - pkg:nuget/JetBrains.Platform.Standalone.Shell@262.0.20260603.61056-eap05
+- pkg:nuget/JetBrains.Platform.Standalone.Shell@262.0.20260611.170508-eap06
 - pkg:nuget/JetBrains.Platform.Standalone.Shell@6.0.20141127.180119-eap9
 - pkg:nuget/JetBrains.Platform.Standalone.Shell@6.0.20141201.160117-eap10
 - pkg:nuget/JetBrains.Platform.Standalone.Shell@6.0.20141204.190160
