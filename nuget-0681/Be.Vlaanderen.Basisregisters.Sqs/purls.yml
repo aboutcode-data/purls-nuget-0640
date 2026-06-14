@@ -18,3 +18,6 @@
 - pkg:nuget/Be.Vlaanderen.Basisregisters.Sqs@4.0.1
 - pkg:nuget/Be.Vlaanderen.Basisregisters.Sqs@4.1.0
 - pkg:nuget/Be.Vlaanderen.Basisregisters.Sqs@4.1.1
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Sqs@5.0.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Sqs@5.2.0
+- pkg:nuget/Be.Vlaanderen.Basisregisters.Sqs@5.3.0
