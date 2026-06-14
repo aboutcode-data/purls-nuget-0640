@@ -6,3 +6,4 @@
 - pkg:nuget/RF.Api.Client.Contracts@6.209.0
 - pkg:nuget/RF.Api.Client.Contracts@6.260.0-rc.34
 - pkg:nuget/RF.Api.Client.Contracts@6.312.0-rc.34
+- pkg:nuget/RF.Api.Client.Contracts@6.337.0-rc.217
