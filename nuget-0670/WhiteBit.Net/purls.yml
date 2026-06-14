@@ -27,3 +27,5 @@
 - pkg:nuget/WhiteBit.Net@2.7.0
 - pkg:nuget/WhiteBit.Net@2.8.0
 - pkg:nuget/WhiteBit.Net@2.9.0
+- pkg:nuget/WhiteBit.Net@3.11.0
+- pkg:nuget/WhiteBit.Net@3.11.1
