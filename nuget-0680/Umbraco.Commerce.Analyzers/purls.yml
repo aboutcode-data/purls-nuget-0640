@@ -30,3 +30,4 @@
 - pkg:nuget/Umbraco.Commerce.Analyzers@16.3.0
 - pkg:nuget/Umbraco.Commerce.Analyzers@16.4.0
 - pkg:nuget/Umbraco.Commerce.Analyzers@16.5.0
+- pkg:nuget/Umbraco.Commerce.Analyzers@18.0.0-rc1
