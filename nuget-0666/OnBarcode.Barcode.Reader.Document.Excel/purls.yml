@@ -20,6 +20,8 @@
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.45
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.5
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.52
+- pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.53
+- pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.54
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.6
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.7
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.Excel@9.5.0.8
