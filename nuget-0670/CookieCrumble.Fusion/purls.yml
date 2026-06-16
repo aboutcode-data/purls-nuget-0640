@@ -52,6 +52,7 @@
 - pkg:nuget/CookieCrumble.Fusion@15.1.11-p.1
 - pkg:nuget/CookieCrumble.Fusion@15.1.11-p.2
 - pkg:nuget/CookieCrumble.Fusion@15.1.11-p.5
+- pkg:nuget/CookieCrumble.Fusion@15.1.17
 - pkg:nuget/CookieCrumble.Fusion@15.1.2
 - pkg:nuget/CookieCrumble.Fusion@15.1.2-p.1
 - pkg:nuget/CookieCrumble.Fusion@15.1.3
@@ -230,6 +231,7 @@
 - pkg:nuget/CookieCrumble.Fusion@16.1.0-p.13
 - pkg:nuget/CookieCrumble.Fusion@16.1.0-p.14
 - pkg:nuget/CookieCrumble.Fusion@16.1.2
+- pkg:nuget/CookieCrumble.Fusion@16.1.4
 - pkg:nuget/CookieCrumble.Fusion@16.1.4-p.3
 - pkg:nuget/CookieCrumble.Fusion@16.1.4-p.5
 - pkg:nuget/CookieCrumble.Fusion@16.1.4-p.6
