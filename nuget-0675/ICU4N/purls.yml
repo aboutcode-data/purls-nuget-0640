@@ -21,6 +21,7 @@
 - pkg:nuget/ICU4N@60.1.0-alpha.436
 - pkg:nuget/ICU4N@60.1.0-alpha.437
 - pkg:nuget/ICU4N@60.1.0-alpha.438
+- pkg:nuget/ICU4N@60.1.0-alpha.440
 - pkg:nuget/ICU4N@60.1.0-alpha.46
 - pkg:nuget/ICU4N@60.1.0-alpha.52
 - pkg:nuget/ICU4N@60.1.0-alpha.53
