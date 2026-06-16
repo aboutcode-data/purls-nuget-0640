@@ -42,6 +42,7 @@
 - pkg:nuget/Google.Cloud.Bigtable.V2@3.22.0
 - pkg:nuget/Google.Cloud.Bigtable.V2@3.23.0
 - pkg:nuget/Google.Cloud.Bigtable.V2@3.24.0
+- pkg:nuget/Google.Cloud.Bigtable.V2@3.29.0
 - pkg:nuget/Google.Cloud.Bigtable.V2@3.3.0
 - pkg:nuget/Google.Cloud.Bigtable.V2@3.4.0
 - pkg:nuget/Google.Cloud.Bigtable.V2@3.5.0
