@@ -25,6 +25,7 @@
 - pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.186
 - pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.188
 - pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.189
+- pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.228
 - pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.24
 - pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.28
 - pkg:nuget/Calysto.ProjectEnvironmentGenerator@1.0.37
