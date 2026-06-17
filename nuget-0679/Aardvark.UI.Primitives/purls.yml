@@ -228,3 +228,4 @@
 - pkg:nuget/Aardvark.UI.Primitives@5.5.4
 - pkg:nuget/Aardvark.UI.Primitives@5.6.0-prerelease0001
 - pkg:nuget/Aardvark.UI.Primitives@5.7.0-prerelease0002
+- pkg:nuget/Aardvark.UI.Primitives@5.7.0-prerelease0004
