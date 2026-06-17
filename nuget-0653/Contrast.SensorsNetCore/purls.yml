@@ -179,3 +179,4 @@
 - pkg:nuget/Contrast.SensorsNetCore@4.5.0
 - pkg:nuget/Contrast.SensorsNetCore@4.5.1
 - pkg:nuget/Contrast.SensorsNetCore@5.0.8
+- pkg:nuget/Contrast.SensorsNetCore@60.1.0
