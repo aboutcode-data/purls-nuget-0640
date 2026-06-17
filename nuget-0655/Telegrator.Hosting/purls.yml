@@ -30,3 +30,5 @@
 - pkg:nuget/Telegrator.Hosting@1.18.5
 - pkg:nuget/Telegrator.Hosting@1.18.5.1
 - pkg:nuget/Telegrator.Hosting@18.7.0
+- pkg:nuget/Telegrator.Hosting@18.7.1
+- pkg:nuget/Telegrator.Hosting@18.7.2
