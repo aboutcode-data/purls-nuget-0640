@@ -87,3 +87,4 @@
 - pkg:nuget/Svg.Skia.Converter@3.0.6
 - pkg:nuget/Svg.Skia.Converter@3.6.0
 - pkg:nuget/Svg.Skia.Converter@4.9.1
+- pkg:nuget/Svg.Skia.Converter@5.1.1
