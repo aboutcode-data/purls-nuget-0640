@@ -1,3 +1,4 @@
 - pkg:nuget/DevExpress.AIIntegration.Blazor.Editors.es@25.2.5
 - pkg:nuget/DevExpress.AIIntegration.Blazor.Editors.es@25.2.7
 - pkg:nuget/DevExpress.AIIntegration.Blazor.Editors.es@25.2.8
+- pkg:nuget/DevExpress.AIIntegration.Blazor.Editors.es@26.1.2-beta
