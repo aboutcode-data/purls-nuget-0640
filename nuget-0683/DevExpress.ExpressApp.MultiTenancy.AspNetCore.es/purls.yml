@@ -3,3 +3,5 @@
 - pkg:nuget/DevExpress.ExpressApp.MultiTenancy.AspNetCore.es@25.1.7
 - pkg:nuget/DevExpress.ExpressApp.MultiTenancy.AspNetCore.es@25.2.7
 - pkg:nuget/DevExpress.ExpressApp.MultiTenancy.AspNetCore.es@25.2.8
+- pkg:nuget/DevExpress.ExpressApp.MultiTenancy.AspNetCore.es@26.1.2-beta
+- pkg:nuget/DevExpress.ExpressApp.MultiTenancy.AspNetCore.es@26.1.3
