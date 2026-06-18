@@ -252,6 +252,8 @@
 - pkg:nuget/Selenium.WebDriver.ChromeDriver@142.0.7444.3400-beta
 - pkg:nuget/Selenium.WebDriver.ChromeDriver@143.0.7499.14600
 - pkg:nuget/Selenium.WebDriver.ChromeDriver@147.0.7727.5000-beta
+- pkg:nuget/Selenium.WebDriver.ChromeDriver@149.0.7827.15500
+- pkg:nuget/Selenium.WebDriver.ChromeDriver@150.0.7871.2400-beta
 - pkg:nuget/Selenium.WebDriver.ChromeDriver@2.10.0
 - pkg:nuget/Selenium.WebDriver.ChromeDriver@2.10.0.1-beta
 - pkg:nuget/Selenium.WebDriver.ChromeDriver@2.10.0.1-beta2
