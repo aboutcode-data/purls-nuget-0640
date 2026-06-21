@@ -1,6 +1,7 @@
 - pkg:nuget/SeliseBlocks.Genesis@10.0.13
 - pkg:nuget/SeliseBlocks.Genesis@10.0.14
 - pkg:nuget/SeliseBlocks.Genesis@10.0.15
+- pkg:nuget/SeliseBlocks.Genesis@10.0.18
 - pkg:nuget/SeliseBlocks.Genesis@8.0.0-preview.1
 - pkg:nuget/SeliseBlocks.Genesis@8.0.0-preview.10
 - pkg:nuget/SeliseBlocks.Genesis@8.0.0-preview.11
