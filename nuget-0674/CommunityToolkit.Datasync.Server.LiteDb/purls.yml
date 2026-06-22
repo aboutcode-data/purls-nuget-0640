@@ -1,3 +1,4 @@
+- pkg:nuget/CommunityToolkit.Datasync.Server.LiteDb@10.1.0
 - pkg:nuget/CommunityToolkit.Datasync.Server.LiteDb@8.0.0
 - pkg:nuget/CommunityToolkit.Datasync.Server.LiteDb@8.0.1
 - pkg:nuget/CommunityToolkit.Datasync.Server.LiteDb@8.0.2
