@@ -1546,6 +1546,7 @@
 - pkg:nuget/HotChocolate.Subscriptions.Redis@16.1.4-p.6
 - pkg:nuget/HotChocolate.Subscriptions.Redis@16.2.0-p.6
 - pkg:nuget/HotChocolate.Subscriptions.Redis@16.2.1
+- pkg:nuget/HotChocolate.Subscriptions.Redis@16.2.3
 - pkg:nuget/HotChocolate.Subscriptions.Redis@9.1.0-preview.33
 - pkg:nuget/HotChocolate.Subscriptions.Redis@9.1.0-preview.34
 - pkg:nuget/HotChocolate.Subscriptions.Redis@9.1.0-preview.35
