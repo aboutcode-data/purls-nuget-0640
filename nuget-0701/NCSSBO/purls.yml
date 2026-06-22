@@ -684,6 +684,8 @@
 - pkg:nuget/NCSSBO@2601.2505.1.201
 - pkg:nuget/NCSSBO@2601.2505.1.216
 - pkg:nuget/NCSSBO@2601.2505.1.232
+- pkg:nuget/NCSSBO@2601.2505.1.241
+- pkg:nuget/NCSSBO@2601.2505.1.242
 - pkg:nuget/NCSSBO@2601.2505.1.74
 - pkg:nuget/NCSSBO@2601.2505.1.79
 - pkg:nuget/NCSSBO@2601.2505.1.80
