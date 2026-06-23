@@ -138,3 +138,4 @@
 - pkg:nuget/Squidex.Messaging@7.8.0
 - pkg:nuget/Squidex.Messaging@7.9.0
 - pkg:nuget/Squidex.Messaging@8.0.1
+- pkg:nuget/Squidex.Messaging@8.0.2
