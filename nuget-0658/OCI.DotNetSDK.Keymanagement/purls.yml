@@ -55,6 +55,7 @@
 - pkg:nuget/OCI.DotNetSDK.Keymanagement@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Keymanagement@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Keymanagement@14.2.0
+- pkg:nuget/OCI.DotNetSDK.Keymanagement@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Keymanagement@15.0.0
 - pkg:nuget/OCI.DotNetSDK.Keymanagement@15.1.0
 - pkg:nuget/OCI.DotNetSDK.Keymanagement@15.2.0
