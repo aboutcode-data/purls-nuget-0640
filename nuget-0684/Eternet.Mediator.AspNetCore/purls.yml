@@ -2,5 +2,6 @@
 - pkg:nuget/Eternet.Mediator.AspNetCore@2.0.23
 - pkg:nuget/Eternet.Mediator.AspNetCore@2.0.26
 - pkg:nuget/Eternet.Mediator.AspNetCore@2.0.27
+- pkg:nuget/Eternet.Mediator.AspNetCore@2.0.29
 - pkg:nuget/Eternet.Mediator.AspNetCore@2.0.5
 - pkg:nuget/Eternet.Mediator.AspNetCore@2.0.6
