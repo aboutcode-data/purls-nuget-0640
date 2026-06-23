@@ -114,3 +114,4 @@
 - pkg:nuget/Zero.Core@5.8.5
 - pkg:nuget/Zero.Core@5.8.6
 - pkg:nuget/Zero.Core@5.8.7
+- pkg:nuget/Zero.Core@6.1.3
