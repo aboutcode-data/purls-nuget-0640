@@ -81,3 +81,4 @@
 - pkg:nuget/Lavalink4NET.Integrations.TextToSpeech@4.0.7
 - pkg:nuget/Lavalink4NET.Integrations.TextToSpeech@4.0.8
 - pkg:nuget/Lavalink4NET.Integrations.TextToSpeech@4.0.9
+- pkg:nuget/Lavalink4NET.Integrations.TextToSpeech@4.2.2
