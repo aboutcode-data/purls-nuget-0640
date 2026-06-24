@@ -52,6 +52,7 @@
 - pkg:nuget/Ditto.Native.Maccatalyst@5.0.0-experimental-sdk-publish.1
 - pkg:nuget/Ditto.Native.Maccatalyst@5.0.1
 - pkg:nuget/Ditto.Native.Maccatalyst@5.0.1-rc.1
+- pkg:nuget/Ditto.Native.Maccatalyst@5.0.2
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-dev-weekly.20260322.242
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-dev-weekly.20260329.258
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-experimental-gha-workflow.8
