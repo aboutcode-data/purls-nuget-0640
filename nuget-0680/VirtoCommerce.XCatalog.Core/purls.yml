@@ -2,6 +2,7 @@
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.1003.0
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.1006.0
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.1008.0
+- pkg:nuget/VirtoCommerce.XCatalog.Core@3.1009.0-alpha.210-vcst-5177-configurable-products-sorting
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.800.0
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.800.0-alpha.2-vcst-1352
 - pkg:nuget/VirtoCommerce.XCatalog.Core@3.800.0-alpha.6-vcst-1352
