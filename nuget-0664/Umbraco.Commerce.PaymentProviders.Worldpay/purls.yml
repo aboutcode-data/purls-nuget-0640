@@ -11,3 +11,4 @@
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@15.0.0-rc1
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@16.0.0
 - pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@16.0.0-rc1
+- pkg:nuget/Umbraco.Commerce.PaymentProviders.Worldpay@18.0.0
