@@ -37,5 +37,6 @@
 - pkg:nuget/RocketWelder.SDK@1.27.1-preview.c5081e5
 - pkg:nuget/RocketWelder.SDK@1.28.0
 - pkg:nuget/RocketWelder.SDK@2.0.0-preview.1
+- pkg:nuget/RocketWelder.SDK@2.11.1
 - pkg:nuget/RocketWelder.SDK@2.7.0
 - pkg:nuget/RocketWelder.SDK@2.8.0
