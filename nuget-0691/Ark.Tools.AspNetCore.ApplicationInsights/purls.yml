@@ -211,3 +211,4 @@
 - pkg:nuget/Ark.Tools.AspNetCore.ApplicationInsights@5.4.0
 - pkg:nuget/Ark.Tools.AspNetCore.ApplicationInsights@5.5.0
 - pkg:nuget/Ark.Tools.AspNetCore.ApplicationInsights@6.0.0
+- pkg:nuget/Ark.Tools.AspNetCore.ApplicationInsights@6.0.4
