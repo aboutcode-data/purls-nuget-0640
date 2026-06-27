@@ -79,3 +79,4 @@
 - pkg:nuget/linker.libs@1.9.1
 - pkg:nuget/linker.libs@1.9.6
 - pkg:nuget/linker.libs@1.9.96
+- pkg:nuget/linker.libs@2.0.13
