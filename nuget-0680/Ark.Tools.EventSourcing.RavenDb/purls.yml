@@ -158,3 +158,4 @@
 - pkg:nuget/Ark.Tools.EventSourcing.RavenDb@5.4.0
 - pkg:nuget/Ark.Tools.EventSourcing.RavenDb@5.5.0
 - pkg:nuget/Ark.Tools.EventSourcing.RavenDb@6.0.0
+- pkg:nuget/Ark.Tools.EventSourcing.RavenDb@6.0.4
