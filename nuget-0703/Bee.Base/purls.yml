@@ -54,4 +54,5 @@
 - pkg:nuget/Bee.Base@4.0.0
 - pkg:nuget/Bee.Base@4.0.1
 - pkg:nuget/Bee.Base@4.10.0
+- pkg:nuget/Bee.Base@4.12.1
 - pkg:nuget/Bee.Base@4.7.0
