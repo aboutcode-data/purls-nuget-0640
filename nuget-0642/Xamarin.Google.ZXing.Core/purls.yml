@@ -22,3 +22,4 @@
 - pkg:nuget/Xamarin.Google.ZXing.Core@3.5.3.7
 - pkg:nuget/Xamarin.Google.ZXing.Core@3.5.3.8
 - pkg:nuget/Xamarin.Google.ZXing.Core@3.5.3.9
+- pkg:nuget/Xamarin.Google.ZXing.Core@3.5.4.3
