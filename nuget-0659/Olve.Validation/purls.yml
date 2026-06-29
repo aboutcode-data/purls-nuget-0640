@@ -9,3 +9,5 @@
 - pkg:nuget/Olve.Validation@0.33.0
 - pkg:nuget/Olve.Validation@0.41.0
 - pkg:nuget/Olve.Validation@0.42.0
+- pkg:nuget/Olve.Validation@0.47.0
+- pkg:nuget/Olve.Validation@0.47.1
