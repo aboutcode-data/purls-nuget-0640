@@ -13,3 +13,6 @@
 - pkg:nuget/FAkka.FSI.Supervisor@1.562.101.201-dgx.21
 - pkg:nuget/FAkka.FSI.Supervisor@1.562.101.201-dgx.5
 - pkg:nuget/FAkka.FSI.Supervisor@1.562.101.201-dgx.9
+- pkg:nuget/FAkka.FSI.Supervisor@1.569.101.301-win2
+- pkg:nuget/FAkka.FSI.Supervisor@1.569.101.301-win3
+- pkg:nuget/FAkka.FSI.Supervisor@1.569.101.301-win5
