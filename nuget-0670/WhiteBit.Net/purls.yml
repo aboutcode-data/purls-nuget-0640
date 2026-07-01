@@ -29,3 +29,4 @@
 - pkg:nuget/WhiteBit.Net@2.9.0
 - pkg:nuget/WhiteBit.Net@3.11.0
 - pkg:nuget/WhiteBit.Net@3.11.1
+- pkg:nuget/WhiteBit.Net@4.0.0
