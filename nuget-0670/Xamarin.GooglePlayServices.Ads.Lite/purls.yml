@@ -60,6 +60,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@124.0.0.1
 - pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@124.0.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@124.0.0.3
+- pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@124.0.0.6
 - pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@30.0.1-alpha1
 - pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@30.0.1-alpha2
 - pkg:nuget/Xamarin.GooglePlayServices.Ads.Lite@30.0.1-alpha3
