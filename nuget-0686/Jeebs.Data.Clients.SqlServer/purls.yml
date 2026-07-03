@@ -218,3 +218,4 @@
 - pkg:nuget/Jeebs.Data.Clients.SqlServer@8.5.4
 - pkg:nuget/Jeebs.Data.Clients.SqlServer@8.5.5
 - pkg:nuget/Jeebs.Data.Clients.SqlServer@8.5.6
+- pkg:nuget/Jeebs.Data.Clients.SqlServer@9.3.4
