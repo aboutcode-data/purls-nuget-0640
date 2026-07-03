@@ -259,3 +259,4 @@
 - pkg:nuget/Kayisoft.Abp.AEManagement.Domain@5.0.8
 - pkg:nuget/Kayisoft.Abp.AEManagement.Domain@5.1.3
 - pkg:nuget/Kayisoft.Abp.AEManagement.Domain@5.1.9
+- pkg:nuget/Kayisoft.Abp.AEManagement.Domain@5.2.2
