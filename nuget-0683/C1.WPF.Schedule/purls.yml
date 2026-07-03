@@ -1,3 +1,4 @@
+- pkg:nuget/C1.WPF.Schedule@10.0.20261.89
 - pkg:nuget/C1.WPF.Schedule@5.0.20213.155-beta
 - pkg:nuget/C1.WPF.Schedule@5.0.20213.166-beta
 - pkg:nuget/C1.WPF.Schedule@5.0.20221.205
