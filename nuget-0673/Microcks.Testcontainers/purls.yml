@@ -44,4 +44,8 @@
 - pkg:nuget/Microcks.Testcontainers@0.3.4-alpha.619
 - pkg:nuget/Microcks.Testcontainers@0.3.4-alpha.621
 - pkg:nuget/Microcks.Testcontainers@0.3.4-alpha.623
+- pkg:nuget/Microcks.Testcontainers@0.3.5-alpha.678
+- pkg:nuget/Microcks.Testcontainers@0.3.5-alpha.679
+- pkg:nuget/Microcks.Testcontainers@0.3.5-alpha.687
+- pkg:nuget/Microcks.Testcontainers@0.3.5-alpha.688
 - pkg:nuget/Microcks.Testcontainers@0.30.0-alpha.97
