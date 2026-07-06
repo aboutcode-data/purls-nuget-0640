@@ -9,3 +9,5 @@
 - pkg:nuget/FunFair.Test.Infrastructure@6.3.2.2379-main
 - pkg:nuget/FunFair.Test.Infrastructure@6.3.2.2380-main
 - pkg:nuget/FunFair.Test.Infrastructure@6.3.3.2403-main
+- pkg:nuget/FunFair.Test.Infrastructure@6.3.4.2425-main
+- pkg:nuget/FunFair.Test.Infrastructure@6.3.4.2426-update-funfair
