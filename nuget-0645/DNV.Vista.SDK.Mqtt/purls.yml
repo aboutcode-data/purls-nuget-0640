@@ -102,3 +102,4 @@
 - pkg:nuget/DNV.Vista.SDK.Mqtt@0.2.0-preview-237
 - pkg:nuget/DNV.Vista.SDK.Mqtt@0.2.0-preview-238
 - pkg:nuget/DNV.Vista.SDK.Mqtt@0.3.2-preview-1
+- pkg:nuget/DNV.Vista.SDK.Mqtt@0.3.2-preview-2
