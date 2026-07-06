@@ -29,3 +29,4 @@
 - pkg:nuget/Intent.Modules.Modelers.Services.DomainInteractions@2.3.5
 - pkg:nuget/Intent.Modules.Modelers.Services.DomainInteractions@2.4.4
 - pkg:nuget/Intent.Modules.Modelers.Services.DomainInteractions@2.4.5
+- pkg:nuget/Intent.Modules.Modelers.Services.DomainInteractions@2.4.6
