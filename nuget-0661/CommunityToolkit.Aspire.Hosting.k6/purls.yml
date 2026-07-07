@@ -4,6 +4,7 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@13.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@13.4.0-beta.651
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@13.4.0-beta.671
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@13.4.1-beta.676
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@9.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@9.4.1-beta.271
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.k6@9.4.1-beta.272
