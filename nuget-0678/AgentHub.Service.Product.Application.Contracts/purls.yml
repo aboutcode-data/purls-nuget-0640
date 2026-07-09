@@ -5,6 +5,7 @@
 - pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.101
 - pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.102
 - pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.103
+- pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.107
 - pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.11
 - pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.12
 - pkg:nuget/AgentHub.Service.Product.Application.Contracts@1.0.13
