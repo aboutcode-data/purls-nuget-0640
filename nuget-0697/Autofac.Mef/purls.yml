@@ -20,3 +20,4 @@
 - pkg:nuget/Autofac.Mef@6.0.1
 - pkg:nuget/Autofac.Mef@6.1.0
 - pkg:nuget/Autofac.Mef@7.0.0
+- pkg:nuget/Autofac.Mef@8.0.1
