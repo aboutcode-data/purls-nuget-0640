@@ -14,4 +14,6 @@
 - pkg:nuget/Hexalith.EventStore.Server@3.46.0
 - pkg:nuget/Hexalith.EventStore.Server@3.47.0
 - pkg:nuget/Hexalith.EventStore.Server@3.51.0
+- pkg:nuget/Hexalith.EventStore.Server@3.53.0
+- pkg:nuget/Hexalith.EventStore.Server@3.54.0
 - pkg:nuget/Hexalith.EventStore.Server@3.9.0
