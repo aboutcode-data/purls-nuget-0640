@@ -6,3 +6,4 @@
 - pkg:nuget/dotnet-sln-sync@0.1.0
 - pkg:nuget/dotnet-sln-sync@2.0.0
 - pkg:nuget/dotnet-sln-sync@2.0.0-preview
+- pkg:nuget/dotnet-sln-sync@3.0.0
