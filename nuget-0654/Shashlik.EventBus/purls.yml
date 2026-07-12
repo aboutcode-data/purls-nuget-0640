@@ -50,3 +50,4 @@
 - pkg:nuget/Shashlik.EventBus@2.2.0-preview1
 - pkg:nuget/Shashlik.EventBus@2.3.0
 - pkg:nuget/Shashlik.EventBus@2.3.1
+- pkg:nuget/Shashlik.EventBus@3.0.0-beta.1
