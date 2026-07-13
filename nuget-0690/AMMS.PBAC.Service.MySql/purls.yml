@@ -16,6 +16,7 @@
 - pkg:nuget/AMMS.PBAC.Service.MySql@1.10.7
 - pkg:nuget/AMMS.PBAC.Service.MySql@1.10.8
 - pkg:nuget/AMMS.PBAC.Service.MySql@1.10.9%2Bbuild.250924
+- pkg:nuget/AMMS.PBAC.Service.MySql@1.12.0-dev
 - pkg:nuget/AMMS.PBAC.Service.MySql@1.5.0
 - pkg:nuget/AMMS.PBAC.Service.MySql@1.6.0
 - pkg:nuget/AMMS.PBAC.Service.MySql@1.7.0
