@@ -40,6 +40,7 @@
 - pkg:nuget/OneScript.Interview@1.2.1
 - pkg:nuget/OneScript.Interview@1.2.2
 - pkg:nuget/OneScript.Interview@1.2.6
+- pkg:nuget/OneScript.Interview@10.0.9
 - pkg:nuget/OneScript.Interview@6.0.0
 - pkg:nuget/OneScript.Interview@6.1.0
 - pkg:nuget/OneScript.Interview@6.1.1
