@@ -15,6 +15,7 @@
 - pkg:nuget/Xamarin.GooglePlayServices.Pay@116.4.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Pay@116.5.0
 - pkg:nuget/Xamarin.GooglePlayServices.Pay@116.5.0.1
+- pkg:nuget/Xamarin.GooglePlayServices.Pay@116.5.0.10
 - pkg:nuget/Xamarin.GooglePlayServices.Pay@116.5.0.2
 - pkg:nuget/Xamarin.GooglePlayServices.Pay@116.5.0.3
 - pkg:nuget/Xamarin.GooglePlayServices.Pay@116.5.0.4
