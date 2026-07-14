@@ -1,6 +1,7 @@
 - pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@1.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@10.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@10.0.1
+- pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@12.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@2.0.0
 - pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@2.0.0-preview1
 - pkg:nuget/Rsk.Saml.IdentityProvider.Storage.EntityFramework@2.0.1
