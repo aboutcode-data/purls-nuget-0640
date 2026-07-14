@@ -1,1 +1,3 @@
 - pkg:nuget/Microsoft.Maui.Essentials.AI@10.0.50-preview.1.26158.1
+- pkg:nuget/Microsoft.Maui.Essentials.AI@10.0.70-preview.1.26269.8
+- pkg:nuget/Microsoft.Maui.Essentials.AI@11.0.0-preview.5.26304.4
