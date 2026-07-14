@@ -2,4 +2,5 @@
 - pkg:nuget/Microsoft.Build.StandardCI@10.0.107-servicing.26217.108
 - pkg:nuget/Microsoft.Build.StandardCI@10.0.108-servicing.26229.119
 - pkg:nuget/Microsoft.Build.StandardCI@10.0.203-servicing.26219.105
+- pkg:nuget/Microsoft.Build.StandardCI@10.0.301-servicing.26329.109
 - pkg:nuget/Microsoft.Build.StandardCI@11.0.100-preview.4.26230.115
