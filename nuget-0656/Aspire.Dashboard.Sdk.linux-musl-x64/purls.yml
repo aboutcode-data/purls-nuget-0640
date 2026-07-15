@@ -2,6 +2,7 @@
 - pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@13.3.1
 - pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@13.4.0
 - pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@13.4.1
+- pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@13.4.6
 - pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@9.4.0
 - pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@9.4.1
 - pkg:nuget/Aspire.Dashboard.Sdk.linux-musl-x64@9.4.2
