@@ -19,3 +19,6 @@
 - pkg:nuget/Seq.App.Slack@0.2.50
 - pkg:nuget/Seq.App.Slack@1.0.0
 - pkg:nuget/Seq.App.Slack@1.0.0-dev-00017
+- pkg:nuget/Seq.App.Slack@2.0.0
+- pkg:nuget/Seq.App.Slack@2.0.0-dev-00044
+- pkg:nuget/Seq.App.Slack@2.0.0-dev-00045
