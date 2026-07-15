@@ -1,3 +1,6 @@
 - pkg:nuget/JD.SemanticKernel.Connectors.OpenAICodex@0.1.16
 - pkg:nuget/JD.SemanticKernel.Connectors.OpenAICodex@0.1.17
 - pkg:nuget/JD.SemanticKernel.Connectors.OpenAICodex@0.1.18
+- pkg:nuget/JD.SemanticKernel.Connectors.OpenAICodex@0.1.33
+- pkg:nuget/JD.SemanticKernel.Connectors.OpenAICodex@0.1.37
+- pkg:nuget/JD.SemanticKernel.Connectors.OpenAICodex@0.1.38
