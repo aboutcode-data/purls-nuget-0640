@@ -1,1 +1,4 @@
 - pkg:nuget/Shiny.AiConversation.MessageStores.SqliteDocDb@1.0.0-beta-0035
+- pkg:nuget/Shiny.AiConversation.MessageStores.SqliteDocDb@1.0.0-beta-0045
+- pkg:nuget/Shiny.AiConversation.MessageStores.SqliteDocDb@1.0.0-beta-0049
+- pkg:nuget/Shiny.AiConversation.MessageStores.SqliteDocDb@3.0.0-beta-0009
