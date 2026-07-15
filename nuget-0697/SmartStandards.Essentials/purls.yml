@@ -25,3 +25,5 @@
 - pkg:nuget/SmartStandards.Essentials@0.6.1
 - pkg:nuget/SmartStandards.Essentials@0.6.2
 - pkg:nuget/SmartStandards.Essentials@0.6.3
+- pkg:nuget/SmartStandards.Essentials@1.0.0
+- pkg:nuget/SmartStandards.Essentials@1.0.1
