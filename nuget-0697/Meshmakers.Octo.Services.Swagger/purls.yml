@@ -66,3 +66,4 @@
 - pkg:nuget/Meshmakers.Octo.Services.Swagger@3.4.10
 - pkg:nuget/Meshmakers.Octo.Services.Swagger@3.4.15
 - pkg:nuget/Meshmakers.Octo.Services.Swagger@3.4.24
+- pkg:nuget/Meshmakers.Octo.Services.Swagger@3.4.42
