@@ -14,3 +14,5 @@
 - pkg:nuget/Ev.ServiceBus.Apm@5.5.0-preview1
 - pkg:nuget/Ev.ServiceBus.Apm@5.5.1
 - pkg:nuget/Ev.ServiceBus.Apm@5.7.4
+- pkg:nuget/Ev.ServiceBus.Apm@5.7.5
+- pkg:nuget/Ev.ServiceBus.Apm@5.7.5-preview2
