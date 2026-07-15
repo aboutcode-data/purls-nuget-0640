@@ -10,3 +10,4 @@
 - pkg:nuget/EntityFrameworkCore.ConcurrentChunking@1.0.0-prerelease.31
 - pkg:nuget/EntityFrameworkCore.ConcurrentChunking@1.0.0.8
 - pkg:nuget/EntityFrameworkCore.ConcurrentChunking@1.0.0.9
+- pkg:nuget/EntityFrameworkCore.ConcurrentChunking@1.1.0-prerelease.53
