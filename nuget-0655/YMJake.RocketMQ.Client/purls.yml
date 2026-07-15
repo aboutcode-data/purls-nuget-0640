@@ -1,1 +1,4 @@
 - pkg:nuget/YMJake.RocketMQ.Client@5.4.5
+- pkg:nuget/YMJake.RocketMQ.Client@5.5.0
+- pkg:nuget/YMJake.RocketMQ.Client@5.5.1
+- pkg:nuget/YMJake.RocketMQ.Client@5.5.2
