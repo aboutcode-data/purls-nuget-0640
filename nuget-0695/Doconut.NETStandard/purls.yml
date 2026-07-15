@@ -23,6 +23,10 @@
 - pkg:nuget/Doconut.NETStandard@24.9.0
 - pkg:nuget/Doconut.NETStandard@24.9.1
 - pkg:nuget/Doconut.NETStandard@25.1.0
+- pkg:nuget/Doconut.NETStandard@25.10.0
+- pkg:nuget/Doconut.NETStandard@25.10.1
+- pkg:nuget/Doconut.NETStandard@25.11.0
+- pkg:nuget/Doconut.NETStandard@25.12.0
 - pkg:nuget/Doconut.NETStandard@25.2.0
 - pkg:nuget/Doconut.NETStandard@25.3.0
 - pkg:nuget/Doconut.NETStandard@25.4.0
@@ -30,5 +34,9 @@
 - pkg:nuget/Doconut.NETStandard@25.6.0
 - pkg:nuget/Doconut.NETStandard@25.7.0
 - pkg:nuget/Doconut.NETStandard@25.8.0
+- pkg:nuget/Doconut.NETStandard@25.9.0
+- pkg:nuget/Doconut.NETStandard@26.1.0
+- pkg:nuget/Doconut.NETStandard@26.2.0
 - pkg:nuget/Doconut.NETStandard@26.3.0
 - pkg:nuget/Doconut.NETStandard@26.4.0
+- pkg:nuget/Doconut.NETStandard@26.5.0
