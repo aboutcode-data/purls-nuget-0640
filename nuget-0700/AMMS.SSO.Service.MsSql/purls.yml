@@ -2,3 +2,5 @@
 - pkg:nuget/AMMS.SSO.Service.MsSql@1.6.0
 - pkg:nuget/AMMS.SSO.Service.MsSql@1.7.0
 - pkg:nuget/AMMS.SSO.Service.MsSql@1.7.3%2Bbuild.250918
+- pkg:nuget/AMMS.SSO.Service.MsSql@1.8.1-dev
+- pkg:nuget/AMMS.SSO.Service.MsSql@1.8.2-dev
