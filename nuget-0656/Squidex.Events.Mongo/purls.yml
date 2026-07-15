@@ -40,3 +40,4 @@
 - pkg:nuget/Squidex.Events.Mongo@7.8.0
 - pkg:nuget/Squidex.Events.Mongo@7.9.0
 - pkg:nuget/Squidex.Events.Mongo@8.0.1
+- pkg:nuget/Squidex.Events.Mongo@8.0.2
