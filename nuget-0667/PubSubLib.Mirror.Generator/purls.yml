@@ -2,3 +2,4 @@
 - pkg:nuget/PubSubLib.Mirror.Generator@1.19.2
 - pkg:nuget/PubSubLib.Mirror.Generator@1.19.4
 - pkg:nuget/PubSubLib.Mirror.Generator@1.19.9
+- pkg:nuget/PubSubLib.Mirror.Generator@2.0.1
