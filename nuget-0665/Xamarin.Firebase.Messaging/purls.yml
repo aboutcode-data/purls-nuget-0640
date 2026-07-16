@@ -52,6 +52,7 @@
 - pkg:nuget/Xamarin.Firebase.Messaging@124.1.2
 - pkg:nuget/Xamarin.Firebase.Messaging@125.0.0
 - pkg:nuget/Xamarin.Firebase.Messaging@125.0.0.1
+- pkg:nuget/Xamarin.Firebase.Messaging@125.1.1
 - pkg:nuget/Xamarin.Firebase.Messaging@30.0.1-alpha1
 - pkg:nuget/Xamarin.Firebase.Messaging@30.0.1-alpha2
 - pkg:nuget/Xamarin.Firebase.Messaging@30.0.1-alpha3
