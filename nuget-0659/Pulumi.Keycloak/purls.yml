@@ -396,6 +396,7 @@
 - pkg:nuget/Pulumi.Keycloak@6.13.0-alpha.1782803657
 - pkg:nuget/Pulumi.Keycloak@6.13.0-alpha.1783582085
 - pkg:nuget/Pulumi.Keycloak@6.13.0-alpha.1784011248
+- pkg:nuget/Pulumi.Keycloak@6.13.0-alpha.1784286793
 - pkg:nuget/Pulumi.Keycloak@6.2.0
 - pkg:nuget/Pulumi.Keycloak@6.2.0-alpha.1737525104
 - pkg:nuget/Pulumi.Keycloak@6.2.0-alpha.1737784316
