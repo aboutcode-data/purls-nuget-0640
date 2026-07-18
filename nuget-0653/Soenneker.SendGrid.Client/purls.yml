@@ -2418,3 +2418,4 @@
 - pkg:nuget/Soenneker.SendGrid.Client@4.0.2642
 - pkg:nuget/Soenneker.SendGrid.Client@4.0.2647
 - pkg:nuget/Soenneker.SendGrid.Client@4.0.2651
+- pkg:nuget/Soenneker.SendGrid.Client@4.0.2663
