@@ -1182,6 +1182,7 @@
 - pkg:nuget/AWSSDK.SecurityHub@4.0.10.3
 - pkg:nuget/AWSSDK.SecurityHub@4.0.100.1
 - pkg:nuget/AWSSDK.SecurityHub@4.0.102
+- pkg:nuget/AWSSDK.SecurityHub@4.0.102.1
 - pkg:nuget/AWSSDK.SecurityHub@4.0.11
 - pkg:nuget/AWSSDK.SecurityHub@4.0.11.6
 - pkg:nuget/AWSSDK.SecurityHub@4.0.2

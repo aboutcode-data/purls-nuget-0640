@@ -1202,6 +1202,7 @@
 - pkg:nuget/AWSSDK.ResourceGroups@4.0.1.4
 - pkg:nuget/AWSSDK.ResourceGroups@4.0.100.1
 - pkg:nuget/AWSSDK.ResourceGroups@4.0.100.4
+- pkg:nuget/AWSSDK.ResourceGroups@4.0.100.5
 - pkg:nuget/AWSSDK.ResourceGroups@4.0.2.16
 - pkg:nuget/AWSSDK.ResourceGroups@4.0.2.18
 - pkg:nuget/AWSSDK.ResourceGroups@4.0.2.19
