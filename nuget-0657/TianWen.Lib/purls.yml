@@ -70,6 +70,7 @@
 - pkg:nuget/TianWen.Lib@6.0.9151%2B5277eea1a08b04711d5665a3a4ef1f63c711e2a5
 - pkg:nuget/TianWen.Lib@6.1.10021%2Bef16200ae58099b442094e634faa597122e415f3
 - pkg:nuget/TianWen.Lib@6.1.10381%2Bb4e707c0db4325ede18cf68017377c26b7923f7c
+- pkg:nuget/TianWen.Lib@6.1.10491%2B47c6b85c80c048f724f060240e6cf35f25c20d25
 - pkg:nuget/TianWen.Lib@6.1.9301%2B5349cc99ce3611fbd263760f0617317831312442
 - pkg:nuget/TianWen.Lib@6.1.9451%2B6408c8367f1a684a3bd75c0187f7e51f6c1b3f88
 - pkg:nuget/TianWen.Lib@6.1.9471%2B92b724a073a44ae1fa502eae65ce2284709f3f0b
