@@ -107,6 +107,7 @@
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.1.8
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.100.1
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.100.4
+- pkg:nuget/AWSSDK.SSMGuiConnect@4.0.100.5
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.2.20
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.2.21
 - pkg:nuget/AWSSDK.SSMGuiConnect@4.0.2.22
