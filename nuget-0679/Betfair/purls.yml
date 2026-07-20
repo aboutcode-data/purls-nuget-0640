@@ -26,3 +26,5 @@
 - pkg:nuget/Betfair@9.0.1-alpha-1
 - pkg:nuget/Betfair@9.0.1-alpha-2
 - pkg:nuget/Betfair@9.0.1-alpha-3
+- pkg:nuget/Betfair@9.0.1-alpha-7
+- pkg:nuget/Betfair@9.0.1-alpha-8
