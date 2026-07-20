@@ -1,4 +1,5 @@
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement.Tests.UI@1.0.0-alpha.nest-282.0
+- pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement.Tests.UI@10.0.0
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement.Tests.UI@2.2.0
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement.Tests.UI@2.2.1-alpha.osoe-46.0
 - pkg:nuget/Lombiq.Hosting.Tenants.IdleTenantManagement.Tests.UI@2.2.1-alpha.osoe-46.1
