@@ -75,3 +75,4 @@
 - pkg:nuget/Jellyfin.Controller@10.9.6
 - pkg:nuget/Jellyfin.Controller@10.9.7
 - pkg:nuget/Jellyfin.Controller@10.9.9
+- pkg:nuget/Jellyfin.Controller@12.0.0-rc3
