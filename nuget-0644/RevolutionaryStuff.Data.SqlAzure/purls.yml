@@ -8,6 +8,7 @@
 - pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.153.100
 - pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.158.100
 - pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.162.100
+- pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.165.100
 - pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.79.90
 - pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.82.90
 - pkg:nuget/RevolutionaryStuff.Data.SqlAzure@4.84.90
