@@ -1,3 +1,7 @@
+- pkg:nuget/DevExpress.ExpressApp.Xpo.es@25.1.12
 - pkg:nuget/DevExpress.ExpressApp.Xpo.es@25.1.7
 - pkg:nuget/DevExpress.ExpressApp.Xpo.es@25.1.9
 - pkg:nuget/DevExpress.ExpressApp.Xpo.es@25.2.5
+- pkg:nuget/DevExpress.ExpressApp.Xpo.es@25.2.8
+- pkg:nuget/DevExpress.ExpressApp.Xpo.es@26.1.4-pre-26179
+- pkg:nuget/DevExpress.ExpressApp.Xpo.es@26.1.4-pre-26190
