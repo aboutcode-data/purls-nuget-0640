@@ -60,5 +60,6 @@
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-experimental-gha-workflow.9
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-experimental-transports-android-module.8
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-experimental-windows-runner-fix.1
+- pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-preview.11
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-preview.3
 - pkg:nuget/Ditto.Native.Maccatalyst@5.2.0-dev-sdks-4505.20260717.5
