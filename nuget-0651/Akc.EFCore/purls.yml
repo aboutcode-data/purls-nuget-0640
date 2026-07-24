@@ -3,6 +3,7 @@
 - pkg:nuget/Akc.EFCore@1.0.2
 - pkg:nuget/Akc.EFCore@1.0.3
 - pkg:nuget/Akc.EFCore@10.0.10
+- pkg:nuget/Akc.EFCore@10.0.12
 - pkg:nuget/Akc.EFCore@2.0.0
 - pkg:nuget/Akc.EFCore@2.0.2
 - pkg:nuget/Akc.EFCore@2.0.3
