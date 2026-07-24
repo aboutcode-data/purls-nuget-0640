@@ -17,3 +17,4 @@
 - pkg:nuget/Audis.Endpoints.Contract@1.0.0-beta9
 - pkg:nuget/Audis.Endpoints.Contract@2.0.0
 - pkg:nuget/Audis.Endpoints.Contract@2.1.0
+- pkg:nuget/Audis.Endpoints.Contract@3.4.0
