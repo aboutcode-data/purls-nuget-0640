@@ -94,6 +94,8 @@
 - pkg:nuget/Zaber.Motion@1.6.0-rc
 - pkg:nuget/Zaber.Motion@1.6.1
 - pkg:nuget/Zaber.Motion@1.6.1-rc
+- pkg:nuget/Zaber.Motion@10.0.0
+- pkg:nuget/Zaber.Motion@10.0.0-rc
 - pkg:nuget/Zaber.Motion@2.0.0
 - pkg:nuget/Zaber.Motion@2.0.0-rc
 - pkg:nuget/Zaber.Motion@2.0.1
