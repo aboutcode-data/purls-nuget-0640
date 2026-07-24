@@ -16,3 +16,4 @@
 - pkg:nuget/SD.CacheManager.Redis@2.1.2
 - pkg:nuget/SD.CacheManager.Redis@2.2.0
 - pkg:nuget/SD.CacheManager.Redis@2.3.0
+- pkg:nuget/SD.CacheManager.Redis@3.0.3
