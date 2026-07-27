@@ -81,3 +81,4 @@
 - pkg:nuget/SQLitePCLRaw.core@3.0.1
 - pkg:nuget/SQLitePCLRaw.core@3.0.2
 - pkg:nuget/SQLitePCLRaw.core@3.0.3
+- pkg:nuget/SQLitePCLRaw.core@3.0.5
