@@ -421,3 +421,5 @@
 - pkg:nuget/Soenneker.Zelos.Database@4.0.725
 - pkg:nuget/Soenneker.Zelos.Database@4.0.733
 - pkg:nuget/Soenneker.Zelos.Database@4.0.734
+- pkg:nuget/Soenneker.Zelos.Database@4.0.747
+- pkg:nuget/Soenneker.Zelos.Database@4.0.749
