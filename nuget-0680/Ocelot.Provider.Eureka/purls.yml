@@ -142,3 +142,9 @@
 - pkg:nuget/Ocelot.Provider.Eureka@24.0.0-beta.1
 - pkg:nuget/Ocelot.Provider.Eureka@24.0.0-beta.2
 - pkg:nuget/Ocelot.Provider.Eureka@24.0.0-beta.3
+- pkg:nuget/Ocelot.Provider.Eureka@24.1.0
+- pkg:nuget/Ocelot.Provider.Eureka@24.1.0-beta.1
+- pkg:nuget/Ocelot.Provider.Eureka@24.1.0-beta.2
+- pkg:nuget/Ocelot.Provider.Eureka@24.1.0-beta.3
+- pkg:nuget/Ocelot.Provider.Eureka@25.0.0-beta.1
+- pkg:nuget/Ocelot.Provider.Eureka@25.0.0-beta.2
