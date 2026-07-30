@@ -1,3 +1,5 @@
+- pkg:nuget/MarketingCloudSDK.Net.iOS@11.0.2.1-beta.2.3
+- pkg:nuget/MarketingCloudSDK.Net.iOS@11.0.2.2-beta.5.7
 - pkg:nuget/MarketingCloudSDK.Net.iOS@8.1.1.71
 - pkg:nuget/MarketingCloudSDK.Net.iOS@8.1.1.79
 - pkg:nuget/MarketingCloudSDK.Net.iOS@8.1.1.80
