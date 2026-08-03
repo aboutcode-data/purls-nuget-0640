@@ -187,6 +187,7 @@
 - pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.56
 - pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.57
 - pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.6
+- pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.65
 - pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.7
 - pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.8
 - pkg:nuget/Jinget.Handlers.ExternalServiceHandlers@8.0.9
