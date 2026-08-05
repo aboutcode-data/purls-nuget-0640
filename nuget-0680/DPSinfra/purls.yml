@@ -40,3 +40,4 @@
 - pkg:nuget/DPSinfra@2.5.0
 - pkg:nuget/DPSinfra@2.5.1
 - pkg:nuget/DPSinfra@2.5.2
+- pkg:nuget/DPSinfra@2.5.4
