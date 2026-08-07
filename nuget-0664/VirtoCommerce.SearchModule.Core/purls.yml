@@ -40,6 +40,7 @@
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.10.0-alpha.509
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.10.0-alpha.510
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.10.0-alpha.512
+- pkg:nuget/VirtoCommerce.SearchModule.Core@3.1007.0-alpha.856-vcst-5490
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.11.0
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.11.0-alpha.513
 - pkg:nuget/VirtoCommerce.SearchModule.Core@3.11.0-alpha.514
