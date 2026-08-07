@@ -37,3 +37,4 @@
 - pkg:nuget/Google.Apis.AnalyticsHub.v1beta1@1.69.0.3779
 - pkg:nuget/Google.Apis.AnalyticsHub.v1beta1@1.70.0.3826
 - pkg:nuget/Google.Apis.AnalyticsHub.v1beta1@1.70.0.3896
+- pkg:nuget/Google.Apis.AnalyticsHub.v1beta1@1.75.0.4225
