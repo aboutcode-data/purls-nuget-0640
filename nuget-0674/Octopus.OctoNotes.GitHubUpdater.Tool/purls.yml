@@ -23,3 +23,6 @@
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2680
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2715
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2717
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2749
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2755-pull-491
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2765-main
