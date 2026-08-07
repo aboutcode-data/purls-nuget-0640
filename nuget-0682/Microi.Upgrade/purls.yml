@@ -45,3 +45,4 @@
 - pkg:nuget/Microi.Upgrade@6.8.6
 - pkg:nuget/Microi.Upgrade@6.9.3
 - pkg:nuget/Microi.Upgrade@6.9.5
+- pkg:nuget/Microi.Upgrade@7.1.3
