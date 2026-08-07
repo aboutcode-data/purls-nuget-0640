@@ -27,3 +27,4 @@
 - pkg:nuget/Stateflows.Extensions.OneOf@0.17.8-alpha
 - pkg:nuget/Stateflows.Extensions.OneOf@0.17.9-alpha
 - pkg:nuget/Stateflows.Extensions.OneOf@0.19.5-beta
+- pkg:nuget/Stateflows.Extensions.OneOf@0.20.7-beta
