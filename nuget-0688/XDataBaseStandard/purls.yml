@@ -40,6 +40,9 @@
 - pkg:nuget/XDataBaseStandard@1.260203.1747
 - pkg:nuget/XDataBaseStandard@1.260203.1815
 - pkg:nuget/XDataBaseStandard@1.260612.1528
+- pkg:nuget/XDataBaseStandard@1.260728.1223
+- pkg:nuget/XDataBaseStandard@1.260807.1337
+- pkg:nuget/XDataBaseStandard@1.260807.1437
 - pkg:nuget/XDataBaseStandard@1.5.0
 - pkg:nuget/XDataBaseStandard@1.5.414
 - pkg:nuget/XDataBaseStandard@1.5.415
