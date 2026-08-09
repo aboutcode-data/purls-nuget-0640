@@ -25,3 +25,4 @@
 - pkg:nuget/SourceGeneration.ChangeTracking@1.0.0-beta5.250513.1
 - pkg:nuget/SourceGeneration.ChangeTracking@1.0.0-beta5.250513.2
 - pkg:nuget/SourceGeneration.ChangeTracking@1.0.0-beta5.250513.3
+- pkg:nuget/SourceGeneration.ChangeTracking@2.0.0-beta-202607145
