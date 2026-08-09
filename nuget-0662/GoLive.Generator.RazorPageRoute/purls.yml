@@ -20,3 +20,4 @@
 - pkg:nuget/GoLive.Generator.RazorPageRoute@2.2.3-alpha
 - pkg:nuget/GoLive.Generator.RazorPageRoute@2.2.4-alpha
 - pkg:nuget/GoLive.Generator.RazorPageRoute@2.2.5-alpha
+- pkg:nuget/GoLive.Generator.RazorPageRoute@2.3.20-alpha
