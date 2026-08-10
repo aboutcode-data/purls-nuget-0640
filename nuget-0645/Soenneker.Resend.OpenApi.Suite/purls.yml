@@ -53,6 +53,7 @@
 - pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.222
 - pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.227
 - pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.255
+- pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.260
 - pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.48
 - pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.49
 - pkg:nuget/Soenneker.Resend.OpenApi.Suite@4.0.55
