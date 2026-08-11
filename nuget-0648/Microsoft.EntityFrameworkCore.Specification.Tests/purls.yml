@@ -249,6 +249,7 @@
 - pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.0-rc.2.24474.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.1
 - pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.10
+- pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.19
 - pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.2
 - pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.3
 - pkg:nuget/Microsoft.EntityFrameworkCore.Specification.Tests@9.0.4
