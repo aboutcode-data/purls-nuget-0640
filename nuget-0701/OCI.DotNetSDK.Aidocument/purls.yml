@@ -45,6 +45,7 @@
 - pkg:nuget/OCI.DotNetSDK.Aidocument@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Aidocument@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Aidocument@140.0.0
+- pkg:nuget/OCI.DotNetSDK.Aidocument@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Aidocument@50.0.0
 - pkg:nuget/OCI.DotNetSDK.Aidocument@51.0.0
 - pkg:nuget/OCI.DotNetSDK.Aidocument@51.1.0
