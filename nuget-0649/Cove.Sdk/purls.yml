@@ -6,3 +6,4 @@
 - pkg:nuget/Cove.Sdk@0.4.0
 - pkg:nuget/Cove.Sdk@0.4.3
 - pkg:nuget/Cove.Sdk@1.0.0
+- pkg:nuget/Cove.Sdk@1.2.0-rc.1
