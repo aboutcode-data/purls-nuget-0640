@@ -124,6 +124,7 @@
 - pkg:nuget/Fast.NET.Core@3.5.13
 - pkg:nuget/Fast.NET.Core@3.5.14
 - pkg:nuget/Fast.NET.Core@3.5.2
+- pkg:nuget/Fast.NET.Core@3.5.29
 - pkg:nuget/Fast.NET.Core@3.5.3
 - pkg:nuget/Fast.NET.Core@3.5.4
 - pkg:nuget/Fast.NET.Core@3.5.5

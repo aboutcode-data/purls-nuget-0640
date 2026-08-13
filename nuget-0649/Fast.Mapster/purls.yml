@@ -124,6 +124,7 @@
 - pkg:nuget/Fast.Mapster@3.5.0
 - pkg:nuget/Fast.Mapster@3.5.1
 - pkg:nuget/Fast.Mapster@3.5.2
+- pkg:nuget/Fast.Mapster@3.5.21
 - pkg:nuget/Fast.Mapster@3.5.3
 - pkg:nuget/Fast.Mapster@3.5.4
 - pkg:nuget/Fast.Mapster@3.5.5
