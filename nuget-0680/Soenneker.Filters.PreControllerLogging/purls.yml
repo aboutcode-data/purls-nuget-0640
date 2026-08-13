@@ -15,3 +15,5 @@
 - pkg:nuget/Soenneker.Filters.PreControllerLogging@4.0.48
 - pkg:nuget/Soenneker.Filters.PreControllerLogging@4.0.51
 - pkg:nuget/Soenneker.Filters.PreControllerLogging@4.0.64
+- pkg:nuget/Soenneker.Filters.PreControllerLogging@4.0.76
+- pkg:nuget/Soenneker.Filters.PreControllerLogging@4.0.78
