@@ -1,2 +1,12 @@
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.11
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.17
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.18
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.20
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.22
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.25
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.45
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.52
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.53
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.60
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.7
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.9
