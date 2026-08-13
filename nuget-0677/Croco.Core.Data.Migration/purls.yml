@@ -10,6 +10,7 @@
 - pkg:nuget/Croco.Core.Data.Migration@1.8.0
 - pkg:nuget/Croco.Core.Data.Migration@1.8.1
 - pkg:nuget/Croco.Core.Data.Migration@1.8.2
+- pkg:nuget/Croco.Core.Data.Migration@10.0.6
 - pkg:nuget/Croco.Core.Data.Migration@2.0.0
 - pkg:nuget/Croco.Core.Data.Migration@2.1.0
 - pkg:nuget/Croco.Core.Data.Migration@3.0.0
