@@ -41,3 +41,4 @@
 - pkg:nuget/SPTarkov.Server.Assets@4.0.0-prerelease7
 - pkg:nuget/SPTarkov.Server.Assets@4.0.0-prerelease8
 - pkg:nuget/SPTarkov.Server.Assets@4.0.0-prerelease9
+- pkg:nuget/SPTarkov.Server.Assets@4.1.2
