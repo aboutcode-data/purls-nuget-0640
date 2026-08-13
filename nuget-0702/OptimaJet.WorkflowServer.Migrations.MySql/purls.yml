@@ -11,3 +11,4 @@
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.MySql@7.1.0
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.MySql@7.2.0
 - pkg:nuget/OptimaJet.WorkflowServer.Migrations.MySql@8.0.0
+- pkg:nuget/OptimaJet.WorkflowServer.Migrations.MySql@9.2.0
