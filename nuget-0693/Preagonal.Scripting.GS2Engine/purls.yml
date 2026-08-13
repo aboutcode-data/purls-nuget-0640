@@ -8,6 +8,11 @@
 - pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.17
 - pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.21
 - pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.25
+- pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.29
+- pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.36
+- pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.38
+- pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.39
+- pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.40
 - pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.5
 - pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.6
 - pkg:nuget/Preagonal.Scripting.GS2Engine@1.10.8
