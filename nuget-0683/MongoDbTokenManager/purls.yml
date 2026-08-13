@@ -1,4 +1,5 @@
 - pkg:nuget/MongoDbTokenManager@1.0.0
+- pkg:nuget/MongoDbTokenManager@10.2.0
 - pkg:nuget/MongoDbTokenManager@2.0.0
 - pkg:nuget/MongoDbTokenManager@2.1.0
 - pkg:nuget/MongoDbTokenManager@3.0.0
