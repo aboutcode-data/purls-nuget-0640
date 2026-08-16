@@ -1,0 +1,15 @@
+- pkg:nuget/PerformanceSharp.Analyzers@3.21.2
+- pkg:nuget/PerformanceSharp.Analyzers@3.23.1
+- pkg:nuget/PerformanceSharp.Analyzers@3.25.3
+- pkg:nuget/PerformanceSharp.Analyzers@3.28.0
+- pkg:nuget/PerformanceSharp.Analyzers@3.28.1
+- pkg:nuget/PerformanceSharp.Analyzers@3.30.3
+- pkg:nuget/PerformanceSharp.Analyzers@3.35.0
+- pkg:nuget/PerformanceSharp.Analyzers@3.36.0
+- pkg:nuget/PerformanceSharp.Analyzers@3.38.0
+- pkg:nuget/PerformanceSharp.Analyzers@3.39.1
+- pkg:nuget/PerformanceSharp.Analyzers@3.40.0
+- pkg:nuget/PerformanceSharp.Analyzers@3.41.10
+- pkg:nuget/PerformanceSharp.Analyzers@3.41.8
+- pkg:nuget/PerformanceSharp.Analyzers@3.42.0
+- pkg:nuget/PerformanceSharp.Analyzers@3.44.0
