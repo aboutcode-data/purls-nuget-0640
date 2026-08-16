@@ -1,3 +1,5 @@
 - pkg:nuget/polydera.trueform@0.8.0
+- pkg:nuget/polydera.trueform@0.9.13
+- pkg:nuget/polydera.trueform@0.9.17
 - pkg:nuget/polydera.trueform@0.9.4
 - pkg:nuget/polydera.trueform@0.9.6
