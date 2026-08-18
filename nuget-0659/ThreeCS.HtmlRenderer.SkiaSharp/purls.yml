@@ -11,6 +11,7 @@
 - pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.22-alpha
 - pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.23-alpha
 - pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.24-alpha
+- pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.26-alpha
 - pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.5-alpha
 - pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.6-alpha
 - pkg:nuget/ThreeCS.HtmlRenderer.SkiaSharp@0.9.7-alpha
