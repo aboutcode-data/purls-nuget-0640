@@ -37,3 +37,4 @@
 - pkg:nuget/ZiggyCreatures.FusionCache.Chaos@2.2.0-preview-1
 - pkg:nuget/ZiggyCreatures.FusionCache.Chaos@2.3.0
 - pkg:nuget/ZiggyCreatures.FusionCache.Chaos@2.4.0
+- pkg:nuget/ZiggyCreatures.FusionCache.Chaos@2.7.0
