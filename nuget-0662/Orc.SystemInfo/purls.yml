@@ -79,3 +79,4 @@
 - pkg:nuget/Orc.SystemInfo@5.0.0-alpha0378
 - pkg:nuget/Orc.SystemInfo@5.0.0-alpha0381
 - pkg:nuget/Orc.SystemInfo@5.0.1
+- pkg:nuget/Orc.SystemInfo@6.0.0
