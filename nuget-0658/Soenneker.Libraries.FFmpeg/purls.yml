@@ -196,6 +196,7 @@
 - pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.1029
 - pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.1068
 - pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.1099
+- pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.1124
 - pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.723
 - pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.772
 - pkg:nuget/Soenneker.Libraries.FFmpeg@4.0.797
