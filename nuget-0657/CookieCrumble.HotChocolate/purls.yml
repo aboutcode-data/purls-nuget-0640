@@ -259,4 +259,8 @@
 - pkg:nuget/CookieCrumble.HotChocolate@16.5.0-p.9
 - pkg:nuget/CookieCrumble.HotChocolate@16.6.0-p.11
 - pkg:nuget/CookieCrumble.HotChocolate@16.6.0-p.14
+- pkg:nuget/CookieCrumble.HotChocolate@16.6.1-p.1
+- pkg:nuget/CookieCrumble.HotChocolate@16.6.1-p.2
 - pkg:nuget/CookieCrumble.HotChocolate@16.6.1-p.3
+- pkg:nuget/CookieCrumble.HotChocolate@16.6.2-p.1
+- pkg:nuget/CookieCrumble.HotChocolate@16.6.2-p.4
