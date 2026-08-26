@@ -9,3 +9,4 @@
 - pkg:nuget/Soenneker.Box.HttpClients@4.0.65
 - pkg:nuget/Soenneker.Box.HttpClients@4.0.68
 - pkg:nuget/Soenneker.Box.HttpClients@4.0.75
+- pkg:nuget/Soenneker.Box.HttpClients@4.0.85
