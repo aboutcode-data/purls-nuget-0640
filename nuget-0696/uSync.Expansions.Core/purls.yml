@@ -69,6 +69,7 @@
 - pkg:nuget/uSync.Expansions.Core@16.0.5
 - pkg:nuget/uSync.Expansions.Core@16.0.6
 - pkg:nuget/uSync.Expansions.Core@17.0.0-rc1
+- pkg:nuget/uSync.Expansions.Core@18.1.1
 - pkg:nuget/uSync.Expansions.Core@8.10.0
 - pkg:nuget/uSync.Expansions.Core@8.10.1
 - pkg:nuget/uSync.Expansions.Core@8.10.2

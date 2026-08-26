@@ -73,6 +73,7 @@
 - pkg:nuget/uSync.Snapshots@16.0.5
 - pkg:nuget/uSync.Snapshots@16.0.6
 - pkg:nuget/uSync.Snapshots@17.0.0-rc1
+- pkg:nuget/uSync.Snapshots@18.1.1
 - pkg:nuget/uSync.Snapshots@8.10.0
 - pkg:nuget/uSync.Snapshots@8.10.1
 - pkg:nuget/uSync.Snapshots@8.10.2
