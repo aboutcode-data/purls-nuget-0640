@@ -64,3 +64,4 @@
 - pkg:nuget/Microsoft.SqlPackage@170.2.70
 - pkg:nuget/Microsoft.SqlPackage@170.3.93
 - pkg:nuget/Microsoft.SqlPackage@170.4.83
+- pkg:nuget/Microsoft.SqlPackage@170.5.80-preview
