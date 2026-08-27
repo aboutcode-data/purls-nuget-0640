@@ -72,6 +72,7 @@
 - pkg:nuget/DicomObjects.Core@5.0.44
 - pkg:nuget/DicomObjects.Core@5.0.45
 - pkg:nuget/DicomObjects.Core@5.0.5
+- pkg:nuget/DicomObjects.Core@5.0.51
 - pkg:nuget/DicomObjects.Core@5.0.6
 - pkg:nuget/DicomObjects.Core@5.0.7
 - pkg:nuget/DicomObjects.Core@5.0.8
