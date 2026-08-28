@@ -164,6 +164,8 @@
 - pkg:nuget/Ensconce.NDjango.Custom@1.29.4-develop-935
 - pkg:nuget/Ensconce.NDjango.Custom@1.29.4.933
 - pkg:nuget/Ensconce.NDjango.Custom@1.29.5.936
+- pkg:nuget/Ensconce.NDjango.Custom@1.32.1-develop-946
+- pkg:nuget/Ensconce.NDjango.Custom@1.32.1.947
 - pkg:nuget/Ensconce.NDjango.Custom@1.7.0-develop-690
 - pkg:nuget/Ensconce.NDjango.Custom@1.7.0-develop-691
 - pkg:nuget/Ensconce.NDjango.Custom@1.7.0-develop-692
