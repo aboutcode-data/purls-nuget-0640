@@ -130,3 +130,4 @@
 - pkg:nuget/NINA.Core@3.3.0.1005-nightly
 - pkg:nuget/NINA.Core@3.3.0.1034-nightly
 - pkg:nuget/NINA.Core@3.3.0.1056-nightly
+- pkg:nuget/NINA.Core@3.3.0.1057-nightly
