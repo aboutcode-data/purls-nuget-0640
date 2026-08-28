@@ -1,5 +1,6 @@
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.MySql@1.0.0-RC-20190708
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.MySql@1.0.0-alpha-20190701
+- pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.MySql@10.1.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.MySql@3.1.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.MySql@5.0.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.EFCore.MySql@6.0.0
