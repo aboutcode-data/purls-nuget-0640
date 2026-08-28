@@ -22,3 +22,4 @@
 - pkg:nuget/Digipost.Api.Client.Archive@14.7.3
 - pkg:nuget/Digipost.Api.Client.Archive@14.8.0
 - pkg:nuget/Digipost.Api.Client.Archive@14.8.1
+- pkg:nuget/Digipost.Api.Client.Archive@14.9.0
