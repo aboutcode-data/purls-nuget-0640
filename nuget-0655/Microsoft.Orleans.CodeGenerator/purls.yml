@@ -1,3 +1,4 @@
+- pkg:nuget/Microsoft.Orleans.CodeGenerator@10.3.0
 - pkg:nuget/Microsoft.Orleans.CodeGenerator@2.1.0
 - pkg:nuget/Microsoft.Orleans.CodeGenerator@2.1.0-rc2
 - pkg:nuget/Microsoft.Orleans.CodeGenerator@2.1.2
