@@ -63,3 +63,4 @@
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-preview.11
 - pkg:nuget/Ditto.Native.Maccatalyst@5.1.0-preview.3
 - pkg:nuget/Ditto.Native.Maccatalyst@5.2.0-dev-sdks-4505.20260717.5
+- pkg:nuget/Ditto.Native.Maccatalyst@5.2.0-experimental.ca.5
