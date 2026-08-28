@@ -1,1 +1,4 @@
+- pkg:nuget/Calabonga.AspNetCoreRazorPages.Template@10.0.3-g0ea432f8da
+- pkg:nuget/Calabonga.AspNetCoreRazorPages.Template@10.0.3-gd8f9019a38
+- pkg:nuget/Calabonga.AspNetCoreRazorPages.Template@10.0.5
 - pkg:nuget/Calabonga.AspNetCoreRazorPages.Template@9.2.0
