@@ -18,3 +18,4 @@
 - pkg:nuget/Maa.Framework.Binding.Native@4.4.0-preview.2
 - pkg:nuget/Maa.Framework.Binding.Native@4.5.0
 - pkg:nuget/Maa.Framework.Binding.Native@4.5.0-preview.1
+- pkg:nuget/Maa.Framework.Binding.Native@5.13.0-preview.1
