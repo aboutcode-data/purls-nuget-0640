@@ -1137,3 +1137,4 @@
 - pkg:nuget/Soenneker.GitHub.Client.Http@4.0.1386
 - pkg:nuget/Soenneker.GitHub.Client.Http@4.0.1392
 - pkg:nuget/Soenneker.GitHub.Client.Http@4.0.1400
+- pkg:nuget/Soenneker.GitHub.Client.Http@4.0.1406
