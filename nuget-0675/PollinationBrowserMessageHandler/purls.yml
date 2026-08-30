@@ -46,3 +46,5 @@
 - pkg:nuget/PollinationBrowserMessageHandler@3.5.8
 - pkg:nuget/PollinationBrowserMessageHandler@3.5.9
 - pkg:nuget/PollinationBrowserMessageHandler@3.6.0
+- pkg:nuget/PollinationBrowserMessageHandler@3.7.1
+- pkg:nuget/PollinationBrowserMessageHandler@3.8.1
