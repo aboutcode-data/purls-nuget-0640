@@ -55,6 +55,7 @@
 - pkg:nuget/Soenneker.Responses.Entities.Named@3.0.7
 - pkg:nuget/Soenneker.Responses.Entities.Named@3.0.8
 - pkg:nuget/Soenneker.Responses.Entities.Named@3.0.9
+- pkg:nuget/Soenneker.Responses.Entities.Named@4.0.108
 - pkg:nuget/Soenneker.Responses.Entities.Named@4.0.58
 - pkg:nuget/Soenneker.Responses.Entities.Named@4.0.60
 - pkg:nuget/Soenneker.Responses.Entities.Named@4.0.61
