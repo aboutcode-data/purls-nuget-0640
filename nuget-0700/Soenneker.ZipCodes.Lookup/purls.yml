@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.ZipCodes.Lookup@4.0.100
+- pkg:nuget/Soenneker.ZipCodes.Lookup@4.0.102
+- pkg:nuget/Soenneker.ZipCodes.Lookup@4.0.103
 - pkg:nuget/Soenneker.ZipCodes.Lookup@4.0.21
 - pkg:nuget/Soenneker.ZipCodes.Lookup@4.0.29
 - pkg:nuget/Soenneker.ZipCodes.Lookup@4.0.36
