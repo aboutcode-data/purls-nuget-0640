@@ -112,6 +112,8 @@
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.355
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.360
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.362
+- pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.397
+- pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.398
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.79
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.86
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@4.0.93
