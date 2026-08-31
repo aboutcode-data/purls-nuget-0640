@@ -52,5 +52,6 @@
 - pkg:nuget/nanoFramework.Iot.Device.Adxl343@1.0.86
 - pkg:nuget/nanoFramework.Iot.Device.Adxl343@1.0.95
 - pkg:nuget/nanoFramework.Iot.Device.Adxl343@1.0.98
+- pkg:nuget/nanoFramework.Iot.Device.Adxl343@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Adxl343@2.0.0-preview.49
 - pkg:nuget/nanoFramework.Iot.Device.Adxl343@2.0.0-preview.73
