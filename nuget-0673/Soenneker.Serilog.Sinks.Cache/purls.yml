@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.105
 - pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.112
 - pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.113
+- pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.118
 - pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.12
 - pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.13
 - pkg:nuget/Soenneker.Serilog.Sinks.Cache@4.0.42
