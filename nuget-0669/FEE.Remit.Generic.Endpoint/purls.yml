@@ -67,3 +67,4 @@
 - pkg:nuget/FEE.Remit.Generic.Endpoint@3.8.1
 - pkg:nuget/FEE.Remit.Generic.Endpoint@3.9.0
 - pkg:nuget/FEE.Remit.Generic.Endpoint@3.9.1
+- pkg:nuget/FEE.Remit.Generic.Endpoint@4.0.1
