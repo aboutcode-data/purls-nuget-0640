@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.TalkAbout.Integration.Models@1.0.0
 - pkg:nuget/cloudscribe.TalkAbout.Integration.Models@1.0.0-beta-20190720
 - pkg:nuget/cloudscribe.TalkAbout.Integration.Models@1.0.0-beta-20190727
+- pkg:nuget/cloudscribe.TalkAbout.Integration.Models@10.1.0
 - pkg:nuget/cloudscribe.TalkAbout.Integration.Models@3.0.0
 - pkg:nuget/cloudscribe.TalkAbout.Integration.Models@3.0.1
 - pkg:nuget/cloudscribe.TalkAbout.Integration.Models@3.1.0
