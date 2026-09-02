@@ -6,3 +6,5 @@
 - pkg:nuget/DemaConsulting.DoxygenTool@1.13.1
 - pkg:nuget/DemaConsulting.DoxygenTool@1.13.2
 - pkg:nuget/DemaConsulting.DoxygenTool@1.14.0
+- pkg:nuget/DemaConsulting.DoxygenTool@1.17.0
+- pkg:nuget/DemaConsulting.DoxygenTool@1.18.0
