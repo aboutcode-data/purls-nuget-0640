@@ -20,3 +20,5 @@
 - pkg:nuget/DaJet.Metadata@4.1.0
 - pkg:nuget/DaJet.Metadata@4.1.1
 - pkg:nuget/DaJet.Metadata@5.0.15
+- pkg:nuget/DaJet.Metadata@5.0.27
+- pkg:nuget/DaJet.Metadata@5.0.28
