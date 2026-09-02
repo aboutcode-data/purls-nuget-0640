@@ -6,3 +6,5 @@
 - pkg:nuget/TALXIS.CLI@1.0.5
 - pkg:nuget/TALXIS.CLI@1.0.6
 - pkg:nuget/TALXIS.CLI@1.13.0
+- pkg:nuget/TALXIS.CLI@1.19.1
+- pkg:nuget/TALXIS.CLI@1.20.0
