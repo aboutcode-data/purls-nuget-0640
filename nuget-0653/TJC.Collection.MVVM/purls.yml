@@ -85,6 +85,7 @@
 - pkg:nuget/TJC.Collection.MVVM@0.23.0
 - pkg:nuget/TJC.Collection.MVVM@0.24.0
 - pkg:nuget/TJC.Collection.MVVM@0.25.0
+- pkg:nuget/TJC.Collection.MVVM@0.25.3
 - pkg:nuget/TJC.Collection.MVVM@0.3.0
 - pkg:nuget/TJC.Collection.MVVM@0.3.1
 - pkg:nuget/TJC.Collection.MVVM@0.3.2
