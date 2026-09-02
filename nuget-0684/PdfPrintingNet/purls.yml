@@ -91,3 +91,4 @@
 - pkg:nuget/PdfPrintingNet@5.2.6
 - pkg:nuget/PdfPrintingNet@5.2.7
 - pkg:nuget/PdfPrintingNet@5.2.8
+- pkg:nuget/PdfPrintingNet@5.4.5
