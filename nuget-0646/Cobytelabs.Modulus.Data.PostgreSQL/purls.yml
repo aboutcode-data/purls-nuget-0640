@@ -1,1 +1,2 @@
 - pkg:nuget/Cobytelabs.Modulus.Data.PostgreSQL@1.1.0
+- pkg:nuget/Cobytelabs.Modulus.Data.PostgreSQL@1.3.0
