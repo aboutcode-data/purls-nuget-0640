@@ -1,1 +1,5 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorLeptonXLiteTheme.Bundling@5.4.0-rc.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorLeptonXLiteTheme.Bundling@5.4.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorLeptonXLiteTheme.Bundling@5.6.0-rc.1
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorLeptonXLiteTheme.Bundling@5.7.0-rc.2
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.MudBlazorLeptonXLiteTheme.Bundling@5.7.0-rc.3
