@@ -1,5 +1,6 @@
 - pkg:nuget/release-notes@0.1.0
 - pkg:nuget/release-notes@0.1.5
+- pkg:nuget/release-notes@0.11.2
 - pkg:nuget/release-notes@0.2.0
 - pkg:nuget/release-notes@0.2.1
 - pkg:nuget/release-notes@0.2.2
