@@ -1,5 +1,9 @@
+- pkg:nuget/Excalibur.A3.Policy.Opa@10.0.0-alpha.9
 - pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.162
 - pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.181
+- pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.197
+- pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.214
+- pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.216
 - pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.80
 - pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.82
 - pkg:nuget/Excalibur.A3.Policy.Opa@3.0.0-alpha.83
