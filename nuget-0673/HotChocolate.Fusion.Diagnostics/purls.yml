@@ -45,3 +45,4 @@
 - pkg:nuget/HotChocolate.Fusion.Diagnostics@16.6.1-p.3
 - pkg:nuget/HotChocolate.Fusion.Diagnostics@16.6.2
 - pkg:nuget/HotChocolate.Fusion.Diagnostics@16.6.2-p.8
+- pkg:nuget/HotChocolate.Fusion.Diagnostics@16.6.3
