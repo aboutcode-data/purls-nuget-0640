@@ -24,6 +24,7 @@
 - pkg:nuget/SW.Tools@1.0.12.2
 - pkg:nuget/SW.Tools@1.0.12.2-rc
 - pkg:nuget/SW.Tools@1.0.12.3
+- pkg:nuget/SW.Tools@1.0.14.3-rc
 - pkg:nuget/SW.Tools@1.0.3.1-rc
 - pkg:nuget/SW.Tools@1.0.3.2-rc
 - pkg:nuget/SW.Tools@1.0.8.2-rc
