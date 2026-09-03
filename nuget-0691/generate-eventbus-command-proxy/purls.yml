@@ -2,6 +2,7 @@
 - pkg:nuget/generate-eventbus-command-proxy@1.1.100
 - pkg:nuget/generate-eventbus-command-proxy@1.1.101
 - pkg:nuget/generate-eventbus-command-proxy@1.1.102
+- pkg:nuget/generate-eventbus-command-proxy@10.2.2
 - pkg:nuget/generate-eventbus-command-proxy@2.1.103
 - pkg:nuget/generate-eventbus-command-proxy@2.1.104
 - pkg:nuget/generate-eventbus-command-proxy@2.1.105
