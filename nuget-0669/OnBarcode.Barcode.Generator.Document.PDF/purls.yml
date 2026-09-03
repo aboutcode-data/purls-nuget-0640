@@ -21,6 +21,7 @@
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.45
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.5
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.6
+- pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.64
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.7
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.8
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.PDF@10.0.2.9
