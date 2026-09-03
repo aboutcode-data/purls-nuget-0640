@@ -17,3 +17,4 @@
 - pkg:nuget/Envivo.Fresnel@0.97.0-preview
 - pkg:nuget/Envivo.Fresnel@0.98.0-preview
 - pkg:nuget/Envivo.Fresnel@0.99.9-preview
+- pkg:nuget/Envivo.Fresnel@1.1.0
