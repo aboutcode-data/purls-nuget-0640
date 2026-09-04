@@ -472,5 +472,7 @@
 - pkg:nuget/Jina@1.1.1-dev.97
 - pkg:nuget/Jina@1.1.1-dev.98
 - pkg:nuget/Jina@1.1.1-dev.99
+- pkg:nuget/Jina@1.1.2-dev.12
+- pkg:nuget/Jina@1.1.2-dev.13
 - pkg:nuget/Jina@1.1.2-dev.5
 - pkg:nuget/Jina@1.1.2-dev.7
