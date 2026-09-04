@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Trulioo.OpenApiClientUtil@4.0.113
+- pkg:nuget/Soenneker.Trulioo.OpenApiClientUtil@4.0.116
 - pkg:nuget/Soenneker.Trulioo.OpenApiClientUtil@4.0.26
 - pkg:nuget/Soenneker.Trulioo.OpenApiClientUtil@4.0.29
 - pkg:nuget/Soenneker.Trulioo.OpenApiClientUtil@4.0.38
