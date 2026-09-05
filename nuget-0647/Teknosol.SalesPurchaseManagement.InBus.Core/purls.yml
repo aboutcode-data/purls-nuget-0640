@@ -1,1 +1,5 @@
 - pkg:nuget/Teknosol.SalesPurchaseManagement.InBus.Core@1.1.0
+- pkg:nuget/Teknosol.SalesPurchaseManagement.InBus.Core@1.1.11
+- pkg:nuget/Teknosol.SalesPurchaseManagement.InBus.Core@1.1.14
+- pkg:nuget/Teknosol.SalesPurchaseManagement.InBus.Core@1.1.18
+- pkg:nuget/Teknosol.SalesPurchaseManagement.InBus.Core@1.1.22
