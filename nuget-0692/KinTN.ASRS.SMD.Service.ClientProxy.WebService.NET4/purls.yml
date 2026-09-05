@@ -27,3 +27,4 @@
 - pkg:nuget/KinTN.ASRS.SMD.Service.ClientProxy.WebService.NET4@1.9.7
 - pkg:nuget/KinTN.ASRS.SMD.Service.ClientProxy.WebService.NET4@1.9.8
 - pkg:nuget/KinTN.ASRS.SMD.Service.ClientProxy.WebService.NET4@1.9.9
+- pkg:nuget/KinTN.ASRS.SMD.Service.ClientProxy.WebService.NET4@2.1.5
