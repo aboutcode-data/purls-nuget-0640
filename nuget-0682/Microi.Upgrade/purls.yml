@@ -54,3 +54,4 @@
 - pkg:nuget/Microi.Upgrade@7.8.7
 - pkg:nuget/Microi.Upgrade@7.9.1
 - pkg:nuget/Microi.Upgrade@8.0.2
+- pkg:nuget/Microi.Upgrade@8.1.8
