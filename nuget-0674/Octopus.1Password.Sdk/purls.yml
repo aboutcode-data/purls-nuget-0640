@@ -64,3 +64,4 @@
 - pkg:nuget/Octopus.1Password.Sdk@0.0.495
 - pkg:nuget/Octopus.1Password.Sdk@0.0.498
 - pkg:nuget/Octopus.1Password.Sdk@0.0.500
+- pkg:nuget/Octopus.1Password.Sdk@0.0.534
