@@ -289,6 +289,7 @@
 - pkg:nuget/Dynamicweb.QueryPublisher@10.27.3-PreRelease
 - pkg:nuget/Dynamicweb.QueryPublisher@10.27.8
 - pkg:nuget/Dynamicweb.QueryPublisher@10.28.8
+- pkg:nuget/Dynamicweb.QueryPublisher@10.29.3-PreRelease
 - pkg:nuget/Dynamicweb.QueryPublisher@10.3.0
 - pkg:nuget/Dynamicweb.QueryPublisher@10.3.1
 - pkg:nuget/Dynamicweb.QueryPublisher@10.3.10
