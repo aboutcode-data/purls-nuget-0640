@@ -124,6 +124,11 @@
 - pkg:nuget/Pulumiverse.Scaleway@1.50.0
 - pkg:nuget/Pulumiverse.Scaleway@1.50.0-alpha.1780409379
 - pkg:nuget/Pulumiverse.Scaleway@1.53.0
+- pkg:nuget/Pulumiverse.Scaleway@1.55.0
 - pkg:nuget/Pulumiverse.Scaleway@1.55.0-alpha.1785752976
 - pkg:nuget/Pulumiverse.Scaleway@1.55.0-alpha.1786087040
 - pkg:nuget/Pulumiverse.Scaleway@1.55.0-alpha.1786087072
+- pkg:nuget/Pulumiverse.Scaleway@1.55.0-alpha.1788940294
+- pkg:nuget/Pulumiverse.Scaleway@1.55.0-alpha.1788940347
+- pkg:nuget/Pulumiverse.Scaleway@1.56.0-alpha.1788940472
+- pkg:nuget/Pulumiverse.Scaleway@1.56.0-alpha.1788940713
