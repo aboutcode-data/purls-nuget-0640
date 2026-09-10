@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.102
 - pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.108
 - pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.109
+- pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.113
 - pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.15
 - pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.18
 - pkg:nuget/Soenneker.Wise.OpenApiClient@4.0.2
