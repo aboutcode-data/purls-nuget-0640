@@ -189,6 +189,7 @@
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.0-alpha.5
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.0-alpha.6
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.0-alpha.8
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.100
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.13
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.20
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.25
@@ -198,3 +199,8 @@
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.49
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.51
 - pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.88
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.94
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.95
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.97
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.98
+- pkg:nuget/FiftyOne.Pipeline.Examples.Shared@4.5.99
