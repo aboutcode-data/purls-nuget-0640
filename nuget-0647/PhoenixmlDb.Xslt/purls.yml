@@ -31,3 +31,6 @@
 - pkg:nuget/PhoenixmlDb.Xslt@1.4.4
 - pkg:nuget/PhoenixmlDb.Xslt@1.4.7
 - pkg:nuget/PhoenixmlDb.Xslt@1.4.8
+- pkg:nuget/PhoenixmlDb.Xslt@1.6.13
+- pkg:nuget/PhoenixmlDb.Xslt@1.6.3
+- pkg:nuget/PhoenixmlDb.Xslt@1.6.7
