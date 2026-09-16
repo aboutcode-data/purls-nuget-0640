@@ -308,3 +308,4 @@
 - pkg:nuget/TopModel.Generator@4.5.1
 - pkg:nuget/TopModel.Generator@4.7.0
 - pkg:nuget/TopModel.Generator@4.7.1
+- pkg:nuget/TopModel.Generator@4.8.2
