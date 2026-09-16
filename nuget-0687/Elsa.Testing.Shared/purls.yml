@@ -113,3 +113,4 @@
 - pkg:nuget/Elsa.Testing.Shared@3.6.0-rc2
 - pkg:nuget/Elsa.Testing.Shared@3.6.0-rc3
 - pkg:nuget/Elsa.Testing.Shared@3.8.1
+- pkg:nuget/Elsa.Testing.Shared@3.8.2
