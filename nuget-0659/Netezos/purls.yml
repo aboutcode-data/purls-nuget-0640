@@ -57,3 +57,4 @@
 - pkg:nuget/Netezos@2.9.0
 - pkg:nuget/Netezos@3.0.0
 - pkg:nuget/Netezos@3.0.2
+- pkg:nuget/Netezos@3.0.4
