@@ -5,6 +5,8 @@
 - pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.151
 - pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.155
 - pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.16
+- pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.161
+- pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.163
 - pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.20
 - pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.27
 - pkg:nuget/Soenneker.Maf.Pool.OpenAI.Azure@4.0.30
