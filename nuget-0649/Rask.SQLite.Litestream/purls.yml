@@ -62,5 +62,8 @@
 - pkg:nuget/Rask.SQLite.Litestream@0.22.1-alpha.0.7
 - pkg:nuget/Rask.SQLite.Litestream@0.23.0
 - pkg:nuget/Rask.SQLite.Litestream@0.23.1-alpha.0.10
+- pkg:nuget/Rask.SQLite.Litestream@0.23.1-alpha.0.18
+- pkg:nuget/Rask.SQLite.Litestream@0.23.1-alpha.0.20
+- pkg:nuget/Rask.SQLite.Litestream@0.23.1-alpha.0.23
 - pkg:nuget/Rask.SQLite.Litestream@0.23.1-alpha.0.3
 - pkg:nuget/Rask.SQLite.Litestream@0.23.1-alpha.0.9
