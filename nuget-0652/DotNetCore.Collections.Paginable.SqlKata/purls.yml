@@ -10,3 +10,4 @@
 - pkg:nuget/DotNetCore.Collections.Paginable.SqlKata@3.2.1
 - pkg:nuget/DotNetCore.Collections.Paginable.SqlKata@3.3.0
 - pkg:nuget/DotNetCore.Collections.Paginable.SqlKata@5.0.0
+- pkg:nuget/DotNetCore.Collections.Paginable.SqlKata@6.4.0
