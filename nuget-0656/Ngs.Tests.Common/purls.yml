@@ -69,6 +69,7 @@
 - pkg:nuget/Ngs.Tests.Common@1.5.50
 - pkg:nuget/Ngs.Tests.Common@1.5.51
 - pkg:nuget/Ngs.Tests.Common@1.5.6
+- pkg:nuget/Ngs.Tests.Common@1.5.60
 - pkg:nuget/Ngs.Tests.Common@1.5.7
 - pkg:nuget/Ngs.Tests.Common@1.5.8
 - pkg:nuget/Ngs.Tests.Common@1.5.9
