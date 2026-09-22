@@ -21,6 +21,8 @@
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.42
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.5
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.6
+- pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.62
+- pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.67
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.7
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.8
 - pkg:nuget/OnBarcode.Barcode.Generator.Document.Excel.Sample.Codabar@10.2.0.9
