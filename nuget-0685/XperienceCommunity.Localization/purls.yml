@@ -23,3 +23,5 @@
 - pkg:nuget/XperienceCommunity.Localization@1.4.1-pre.9c79180
 - pkg:nuget/XperienceCommunity.Localization@2.0.0
 - pkg:nuget/XperienceCommunity.Localization@2.0.1
+- pkg:nuget/XperienceCommunity.Localization@2.0.2
+- pkg:nuget/XperienceCommunity.Localization@2.1.0
