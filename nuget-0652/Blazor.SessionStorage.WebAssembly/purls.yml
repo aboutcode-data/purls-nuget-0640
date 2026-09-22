@@ -2,6 +2,7 @@
 - pkg:nuget/Blazor.SessionStorage.WebAssembly@1.4.3
 - pkg:nuget/Blazor.SessionStorage.WebAssembly@1.4.5
 - pkg:nuget/Blazor.SessionStorage.WebAssembly@1.5.0
+- pkg:nuget/Blazor.SessionStorage.WebAssembly@10.1.0
 - pkg:nuget/Blazor.SessionStorage.WebAssembly@2.0.1
 - pkg:nuget/Blazor.SessionStorage.WebAssembly@2.0.10
 - pkg:nuget/Blazor.SessionStorage.WebAssembly@2.0.11
