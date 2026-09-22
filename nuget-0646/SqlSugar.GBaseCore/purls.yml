@@ -31,6 +31,7 @@
 - pkg:nuget/SqlSugar.GBaseCore@5.1.4.205
 - pkg:nuget/SqlSugar.GBaseCore@5.1.4.206
 - pkg:nuget/SqlSugar.GBaseCore@5.1.4.207
+- pkg:nuget/SqlSugar.GBaseCore@5.1.4.270
 - pkg:nuget/SqlSugar.GBaseCore@5.1.4.3
 - pkg:nuget/SqlSugar.GBaseCore@5.1.4.95
 - pkg:nuget/SqlSugar.GBaseCore@5.1.4.96
