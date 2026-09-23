@@ -514,6 +514,7 @@
 - pkg:nuget/SharpFluids@3.0.505
 - pkg:nuget/SharpFluids@3.0.506
 - pkg:nuget/SharpFluids@3.0.507
+- pkg:nuget/SharpFluids@3.0.513
 - pkg:nuget/SharpFluids@3.0.94
 - pkg:nuget/SharpFluids@3.0.95
 - pkg:nuget/SharpFluids@3.0.96
