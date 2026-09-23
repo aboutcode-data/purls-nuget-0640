@@ -255,3 +255,4 @@
 - pkg:nuget/PecanHQ.Acorn@0.61.3
 - pkg:nuget/PecanHQ.Acorn@0.61.6
 - pkg:nuget/PecanHQ.Acorn@0.61.7
+- pkg:nuget/PecanHQ.Acorn@0.62.12
