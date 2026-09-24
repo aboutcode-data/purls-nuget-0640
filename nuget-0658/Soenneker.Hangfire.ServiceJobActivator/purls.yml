@@ -786,3 +786,4 @@
 - pkg:nuget/Soenneker.Hangfire.ServiceJobActivator@4.0.726
 - pkg:nuget/Soenneker.Hangfire.ServiceJobActivator@4.0.728
 - pkg:nuget/Soenneker.Hangfire.ServiceJobActivator@4.0.733
+- pkg:nuget/Soenneker.Hangfire.ServiceJobActivator@4.0.738
