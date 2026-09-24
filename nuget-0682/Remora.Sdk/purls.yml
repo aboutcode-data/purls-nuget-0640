@@ -20,3 +20,5 @@
 - pkg:nuget/Remora.Sdk@3.1.1
 - pkg:nuget/Remora.Sdk@3.1.2
 - pkg:nuget/Remora.Sdk@4.0.0
+- pkg:nuget/Remora.Sdk@5.0.1
+- pkg:nuget/Remora.Sdk@5.0.2
