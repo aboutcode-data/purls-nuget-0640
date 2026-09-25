@@ -4,6 +4,7 @@
 - pkg:nuget/HealthForms.Api@1.0.1
 - pkg:nuget/HealthForms.Api@1.0.10
 - pkg:nuget/HealthForms.Api@1.0.11
+- pkg:nuget/HealthForms.Api@1.0.16
 - pkg:nuget/HealthForms.Api@1.0.2
 - pkg:nuget/HealthForms.Api@1.0.3
 - pkg:nuget/HealthForms.Api@1.0.4
