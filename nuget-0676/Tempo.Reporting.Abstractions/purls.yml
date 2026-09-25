@@ -9,4 +9,5 @@
 - pkg:nuget/Tempo.Reporting.Abstractions@2.5.3
 - pkg:nuget/Tempo.Reporting.Abstractions@2.5.3-ci-20260721185803
 - pkg:nuget/Tempo.Reporting.Abstractions@2.7.1
+- pkg:nuget/Tempo.Reporting.Abstractions@2.8.23
 - pkg:nuget/Tempo.Reporting.Abstractions@2.8.7

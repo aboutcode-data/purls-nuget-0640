@@ -1,0 +1,3 @@
+- pkg:nuget/TenonAdmin.Caching.Redis@0.1.0
+- pkg:nuget/TenonAdmin.Caching.Redis@0.1.2
+- pkg:nuget/TenonAdmin.Caching.Redis@0.5.0
