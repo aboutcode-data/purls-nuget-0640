@@ -1,5 +1,9 @@
 - pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@25.1.8
+- pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@25.2.10
 - pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@25.2.7
 - pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@25.2.8
 - pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@26.1.2-beta
 - pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@26.1.4
+- pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@26.1.4-pre-26190
+- pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@26.1.5
+- pkg:nuget/DevExpress.AIIntegration.WinForms.SemanticSearch.de@26.1.5-pre-26248
