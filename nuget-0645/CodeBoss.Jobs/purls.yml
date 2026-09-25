@@ -1,3 +1,5 @@
+- pkg:nuget/CodeBoss.Jobs@10.0.38
+- pkg:nuget/CodeBoss.Jobs@10.0.39
 - pkg:nuget/CodeBoss.Jobs@8.0.10
 - pkg:nuget/CodeBoss.Jobs@8.0.11
 - pkg:nuget/CodeBoss.Jobs@8.0.12
