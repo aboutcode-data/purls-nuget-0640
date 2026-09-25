@@ -5,4 +5,5 @@
 - pkg:nuget/FsSemanticTagger@0.13.0-alpha.9
 - pkg:nuget/FsSemanticTagger@0.14.0-alpha.1
 - pkg:nuget/FsSemanticTagger@0.14.0-alpha.13
+- pkg:nuget/FsSemanticTagger@0.14.0-alpha.14
 - pkg:nuget/FsSemanticTagger@0.3.0-alpha.2
