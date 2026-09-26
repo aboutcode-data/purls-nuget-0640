@@ -25,6 +25,7 @@
 - pkg:nuget/MintPlayer.SourceGenerators@10.21.0
 - pkg:nuget/MintPlayer.SourceGenerators@10.6.0
 - pkg:nuget/MintPlayer.SourceGenerators@10.9.0
+- pkg:nuget/MintPlayer.SourceGenerators@12.0.1
 - pkg:nuget/MintPlayer.SourceGenerators@2.0.0
 - pkg:nuget/MintPlayer.SourceGenerators@2.0.1
 - pkg:nuget/MintPlayer.SourceGenerators@2.0.2
