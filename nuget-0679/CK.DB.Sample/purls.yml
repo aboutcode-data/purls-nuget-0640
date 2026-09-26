@@ -1,4 +1,5 @@
 - pkg:nuget/CK.DB.Sample@10.0.0
+- pkg:nuget/CK.DB.Sample@10.1.1
 - pkg:nuget/CK.DB.Sample@2.0.0
 - pkg:nuget/CK.DB.Sample@3.0.0
 - pkg:nuget/CK.DB.Sample@3.0.1

@@ -32,6 +32,8 @@
 - pkg:nuget/CK.DB.User.UserGitLab.Tests@13.0.2
 - pkg:nuget/CK.DB.User.UserGitLab.Tests@14.1.1
 - pkg:nuget/CK.DB.User.UserGitLab.Tests@15.0.0
+- pkg:nuget/CK.DB.User.UserGitLab.Tests@15.1.1
+- pkg:nuget/CK.DB.User.UserGitLab.Tests@16.0.0
 - pkg:nuget/CK.DB.User.UserGitLab.Tests@2.0.0
 - pkg:nuget/CK.DB.User.UserGitLab.Tests@3.0.0
 - pkg:nuget/CK.DB.User.UserGitLab.Tests@4.0.0

@@ -43,6 +43,7 @@
 - pkg:nuget/CK.DB.User.UserTwitter.AuthScope@14.1.1
 - pkg:nuget/CK.DB.User.UserTwitter.AuthScope@15.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AuthScope@15.1.1
+- pkg:nuget/CK.DB.User.UserTwitter.AuthScope@16.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AuthScope@2.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AuthScope@3.0.0
 - pkg:nuget/CK.DB.User.UserTwitter.AuthScope@4.0.0
