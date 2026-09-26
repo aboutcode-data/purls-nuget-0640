@@ -8,6 +8,7 @@
 - pkg:nuget/FsHotWatch@0.10.0-alpha.36
 - pkg:nuget/FsHotWatch@0.10.0-alpha.43
 - pkg:nuget/FsHotWatch@0.10.0-alpha.45
+- pkg:nuget/FsHotWatch@0.10.0-alpha.50
 - pkg:nuget/FsHotWatch@0.8.0-alpha.16
 - pkg:nuget/FsHotWatch@0.8.0-alpha.22
 - pkg:nuget/FsHotWatch@0.8.0-alpha.24
