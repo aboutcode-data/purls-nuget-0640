@@ -1,5 +1,6 @@
 - pkg:nuget/Domore.Async.TaskCaching@10.0.0
 - pkg:nuget/Domore.Async.TaskCaching@10.4.0
+- pkg:nuget/Domore.Async.TaskCaching@10.6.0
 - pkg:nuget/Domore.Async.TaskCaching@8.0.0.79
 - pkg:nuget/Domore.Async.TaskCaching@8.0.0.80
 - pkg:nuget/Domore.Async.TaskCaching@8.0.0.81
