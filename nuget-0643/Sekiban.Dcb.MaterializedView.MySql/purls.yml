@@ -1,0 +1,4 @@
+- pkg:nuget/Sekiban.Dcb.MaterializedView.MySql@10.12.0
+- pkg:nuget/Sekiban.Dcb.MaterializedView.MySql@10.4.0
+- pkg:nuget/Sekiban.Dcb.MaterializedView.MySql@10.8.0
+- pkg:nuget/Sekiban.Dcb.MaterializedView.MySql@10.8.1
