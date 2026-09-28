@@ -36,6 +36,7 @@
 - pkg:nuget/Ibex.CommandLine@6.11.2.4-beta
 - pkg:nuget/Ibex.CommandLine@6.11.3.1
 - pkg:nuget/Ibex.CommandLine@6.11.3.2-beta
+- pkg:nuget/Ibex.CommandLine@6.11.6.1
 - pkg:nuget/Ibex.CommandLine@6.2.1
 - pkg:nuget/Ibex.CommandLine@6.3.1
 - pkg:nuget/Ibex.CommandLine@6.4.1
