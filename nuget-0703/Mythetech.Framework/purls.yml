@@ -6,5 +6,8 @@
 - pkg:nuget/Mythetech.Framework@0.16.1
 - pkg:nuget/Mythetech.Framework@0.19.0-preview.22
 - pkg:nuget/Mythetech.Framework@0.19.8
+- pkg:nuget/Mythetech.Framework@0.21.1
+- pkg:nuget/Mythetech.Framework@0.21.1-preview.43
+- pkg:nuget/Mythetech.Framework@0.21.1-preview.44
 - pkg:nuget/Mythetech.Framework@0.5.2
 - pkg:nuget/Mythetech.Framework@0.9.1
