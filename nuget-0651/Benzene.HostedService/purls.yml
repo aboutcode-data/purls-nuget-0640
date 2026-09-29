@@ -5,3 +5,4 @@
 - pkg:nuget/Benzene.HostedService@0.0.2.13-alpha
 - pkg:nuget/Benzene.HostedService@0.0.2.14-alpha
 - pkg:nuget/Benzene.HostedService@0.0.2.15-alpha
+- pkg:nuget/Benzene.HostedService@0.0.3-alpha.4
