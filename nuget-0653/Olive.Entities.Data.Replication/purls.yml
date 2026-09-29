@@ -30,6 +30,7 @@
 - pkg:nuget/Olive.Entities.Data.Replication@1.0.97
 - pkg:nuget/Olive.Entities.Data.Replication@1.0.98
 - pkg:nuget/Olive.Entities.Data.Replication@1.0.99
+- pkg:nuget/Olive.Entities.Data.Replication@10.2.1
 - pkg:nuget/Olive.Entities.Data.Replication@2.1.102
 - pkg:nuget/Olive.Entities.Data.Replication@2.1.103
 - pkg:nuget/Olive.Entities.Data.Replication@2.1.104

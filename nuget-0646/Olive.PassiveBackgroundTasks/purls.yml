@@ -35,4 +35,5 @@
 - pkg:nuget/Olive.PassiveBackgroundTasks@1.0.7
 - pkg:nuget/Olive.PassiveBackgroundTasks@1.0.8
 - pkg:nuget/Olive.PassiveBackgroundTasks@1.0.9
+- pkg:nuget/Olive.PassiveBackgroundTasks@10.2.1
 - pkg:nuget/Olive.PassiveBackgroundTasks@8.0.0

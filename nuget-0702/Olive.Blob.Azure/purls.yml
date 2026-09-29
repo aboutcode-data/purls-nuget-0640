@@ -1,5 +1,6 @@
 - pkg:nuget/Olive.Blob.Azure@1.0.0
 - pkg:nuget/Olive.Blob.Azure@1.0.1
+- pkg:nuget/Olive.Blob.Azure@10.2.2
 - pkg:nuget/Olive.Blob.Azure@2.1.0
 - pkg:nuget/Olive.Blob.Azure@3.1.101
 - pkg:nuget/Olive.Blob.Azure@3.1.102
