@@ -39,3 +39,4 @@
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2836-main
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2837-renovate-renovat
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2838-pull-514
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2846-main
