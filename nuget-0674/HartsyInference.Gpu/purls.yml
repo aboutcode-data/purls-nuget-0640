@@ -21,3 +21,5 @@
 - pkg:nuget/HartsyInference.Gpu@2.0.0-alpha.233
 - pkg:nuget/HartsyInference.Gpu@2.0.0-alpha.237
 - pkg:nuget/HartsyInference.Gpu@2.0.0-alpha.247
+- pkg:nuget/HartsyInference.Gpu@2.0.0-alpha.250
+- pkg:nuget/HartsyInference.Gpu@2.0.0-alpha.251
