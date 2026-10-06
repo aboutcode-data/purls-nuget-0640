@@ -14,5 +14,6 @@
 - pkg:nuget/Ahjo.Vulkan.Native@0.13.1-alpha.0.17
 - pkg:nuget/Ahjo.Vulkan.Native@0.13.1-alpha.0.18
 - pkg:nuget/Ahjo.Vulkan.Native@0.13.1-alpha.0.19
+- pkg:nuget/Ahjo.Vulkan.Native@0.16.1-alpha.0.1
 - pkg:nuget/Ahjo.Vulkan.Native@0.4.1
 - pkg:nuget/Ahjo.Vulkan.Native@0.5.0
