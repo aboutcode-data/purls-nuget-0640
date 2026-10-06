@@ -2,3 +2,4 @@
 - pkg:nuget/Alvecta.Foundation.Application.DI@2.4.31
 - pkg:nuget/Alvecta.Foundation.Application.DI@5.0.49
 - pkg:nuget/Alvecta.Foundation.Application.DI@5.0.50
+- pkg:nuget/Alvecta.Foundation.Application.DI@6.1.58
