@@ -21,6 +21,7 @@
 - pkg:nuget/BoldReports.CRI.Signature@14.1.12
 - pkg:nuget/BoldReports.CRI.Signature@14.1.18
 - pkg:nuget/BoldReports.CRI.Signature@14.1.19
+- pkg:nuget/BoldReports.CRI.Signature@14.1.23
 - pkg:nuget/BoldReports.CRI.Signature@6.3.24
 - pkg:nuget/BoldReports.CRI.Signature@6.3.25
 - pkg:nuget/BoldReports.CRI.Signature@6.3.26
