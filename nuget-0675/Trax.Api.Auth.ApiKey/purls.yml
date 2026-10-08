@@ -2,3 +2,4 @@
 - pkg:nuget/Trax.Api.Auth.ApiKey@1.28.2
 - pkg:nuget/Trax.Api.Auth.ApiKey@1.37.0
 - pkg:nuget/Trax.Api.Auth.ApiKey@1.44.2
+- pkg:nuget/Trax.Api.Auth.ApiKey@1.47.0
