@@ -3,3 +3,5 @@
 - pkg:nuget/Orleans.Lattice.Storage.AzureTable@6.0.1
 - pkg:nuget/Orleans.Lattice.Storage.AzureTable@6.2.0
 - pkg:nuget/Orleans.Lattice.Storage.AzureTable@7.9.1
+- pkg:nuget/Orleans.Lattice.Storage.AzureTable@9.5.0
+- pkg:nuget/Orleans.Lattice.Storage.AzureTable@9.9.0
