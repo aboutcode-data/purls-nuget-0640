@@ -1,1 +1,6 @@
 - pkg:nuget/Fluens.Web.Auth@0.2.4
+- pkg:nuget/Fluens.Web.Auth@0.7.5
+- pkg:nuget/Fluens.Web.Auth@0.8.2
+- pkg:nuget/Fluens.Web.Auth@0.8.3
+- pkg:nuget/Fluens.Web.Auth@0.8.4
+- pkg:nuget/Fluens.Web.Auth@0.8.5

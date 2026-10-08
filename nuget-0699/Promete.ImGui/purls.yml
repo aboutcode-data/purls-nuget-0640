@@ -6,3 +6,4 @@
 - pkg:nuget/Promete.ImGui@0.9.0-build-403187
 - pkg:nuget/Promete.ImGui@0.9.0-build-e55aaf
 - pkg:nuget/Promete.ImGui@0.9.1
+- pkg:nuget/Promete.ImGui@2.0.0
