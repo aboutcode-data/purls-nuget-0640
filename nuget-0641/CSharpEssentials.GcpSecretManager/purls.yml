@@ -16,3 +16,7 @@
 - pkg:nuget/CSharpEssentials.GcpSecretManager@2.0.9
 - pkg:nuget/CSharpEssentials.GcpSecretManager@3.0.7
 - pkg:nuget/CSharpEssentials.GcpSecretManager@3.1.0
+- pkg:nuget/CSharpEssentials.GcpSecretManager@4.1.0
+- pkg:nuget/CSharpEssentials.GcpSecretManager@5.2.0
+- pkg:nuget/CSharpEssentials.GcpSecretManager@5.2.1
+- pkg:nuget/CSharpEssentials.GcpSecretManager@6.0.0
