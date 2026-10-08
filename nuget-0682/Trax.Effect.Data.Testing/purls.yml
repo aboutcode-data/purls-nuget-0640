@@ -1,3 +1,7 @@
 - pkg:nuget/Trax.Effect.Data.Testing@1.41.1
 - pkg:nuget/Trax.Effect.Data.Testing@1.43.0
 - pkg:nuget/Trax.Effect.Data.Testing@1.45.0
+- pkg:nuget/Trax.Effect.Data.Testing@1.48.0
+- pkg:nuget/Trax.Effect.Data.Testing@1.57.1
+- pkg:nuget/Trax.Effect.Data.Testing@1.57.3
+- pkg:nuget/Trax.Effect.Data.Testing@1.60.0
