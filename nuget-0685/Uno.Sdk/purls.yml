@@ -1163,3 +1163,5 @@
 - pkg:nuget/Uno.Sdk@7.0.0-dev.34
 - pkg:nuget/Uno.Sdk@7.0.0-dev.37
 - pkg:nuget/Uno.Sdk@7.0.0-dev.40
+- pkg:nuget/Uno.Sdk@7.0.0-dev.53
+- pkg:nuget/Uno.Sdk@7.0.0-dev.54
