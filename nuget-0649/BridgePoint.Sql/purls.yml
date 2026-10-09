@@ -46,3 +46,4 @@
 - pkg:nuget/BridgePoint.Sql@6.0.0-beta.1%2Bcc72acce27924c7a96a787544dfc62c079e7f4d5
 - pkg:nuget/BridgePoint.Sql@6.2.0
 - pkg:nuget/BridgePoint.Sql@6.6.0
+- pkg:nuget/BridgePoint.Sql@7.0.0-beta.1
