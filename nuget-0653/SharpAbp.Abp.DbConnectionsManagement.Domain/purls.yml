@@ -188,3 +188,5 @@
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Domain@4.6.6
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Domain@4.6.8
 - pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Domain@4.6.9
+- pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Domain@4.7.5
+- pkg:nuget/SharpAbp.Abp.DbConnectionsManagement.Domain@6.0.1
