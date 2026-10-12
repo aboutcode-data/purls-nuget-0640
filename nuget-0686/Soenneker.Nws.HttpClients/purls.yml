@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Nws.HttpClients@4.0.133
 - pkg:nuget/Soenneker.Nws.HttpClients@4.0.135
 - pkg:nuget/Soenneker.Nws.HttpClients@4.0.143
+- pkg:nuget/Soenneker.Nws.HttpClients@4.0.147
 - pkg:nuget/Soenneker.Nws.HttpClients@4.0.15
 - pkg:nuget/Soenneker.Nws.HttpClients@4.0.31
 - pkg:nuget/Soenneker.Nws.HttpClients@4.0.32
