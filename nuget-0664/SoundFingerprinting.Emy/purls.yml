@@ -52,6 +52,7 @@
 - pkg:nuget/SoundFingerprinting.Emy@14.1.1
 - pkg:nuget/SoundFingerprinting.Emy@15.12.0
 - pkg:nuget/SoundFingerprinting.Emy@15.14.1
+- pkg:nuget/SoundFingerprinting.Emy@15.16.0-ffmpeg4
 - pkg:nuget/SoundFingerprinting.Emy@15.3.0
 - pkg:nuget/SoundFingerprinting.Emy@15.6.20
 - pkg:nuget/SoundFingerprinting.Emy@5.2.1-beta1
