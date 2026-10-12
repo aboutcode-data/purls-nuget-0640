@@ -167,6 +167,8 @@
 - pkg:nuget/TwitchLib.Client@4.0.0-preview-fd131763416cb9f1a31705ca609566d7e7e7fac8
 - pkg:nuget/TwitchLib.Client@4.0.0-preview.94.41bcdd5a3490c126bcd94feb5de66ece30008b7c
 - pkg:nuget/TwitchLib.Client@4.0.1-preview.102.3710fe93043591c998146cf5e2e621f366171b05
+- pkg:nuget/TwitchLib.Client@4.0.1-preview.114.e9cee90
+- pkg:nuget/TwitchLib.Client@4.0.1-preview.115.b1960ca
 - pkg:nuget/TwitchLib.Client@4.0.1-preview.95.427e2c108805d9546d9dec19875dcc3a8c9b7e1b
 - pkg:nuget/TwitchLib.Client@4.0.1-preview.96.b3ab00a982bcbdb0106d16ad268ddcdda76a0354
 - pkg:nuget/TwitchLib.Client@4.0.1-preview.97.5f79221ba0f3abbe9e05c8b275c6c98f92e9c1ef
