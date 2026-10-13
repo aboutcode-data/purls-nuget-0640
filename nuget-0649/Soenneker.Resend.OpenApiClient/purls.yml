@@ -32,6 +32,7 @@
 - pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.119
 - pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.124
 - pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.133
+- pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.148
 - pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.38
 - pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.50
 - pkg:nuget/Soenneker.Resend.OpenApiClient@4.0.68
