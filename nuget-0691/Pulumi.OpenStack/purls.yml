@@ -490,6 +490,8 @@
 - pkg:nuget/Pulumi.OpenStack@5.5.0-alpha.1776926379
 - pkg:nuget/Pulumi.OpenStack@5.5.0-alpha.1777272825
 - pkg:nuget/Pulumi.OpenStack@5.5.0-alpha.1777878166
+- pkg:nuget/Pulumi.OpenStack@5.5.3
+- pkg:nuget/Pulumi.OpenStack@5.5.3-alpha.1791908745
 - pkg:nuget/Pulumi.OpenStack@5.6.0-alpha.1780471923
 - pkg:nuget/Pulumi.OpenStack@5.6.0-alpha.1780903877
 - pkg:nuget/Pulumi.OpenStack@5.6.0-alpha.1781596137
