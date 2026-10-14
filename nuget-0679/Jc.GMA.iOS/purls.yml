@@ -8,6 +8,7 @@
 - pkg:nuget/Jc.GMA.iOS@11.13.5
 - pkg:nuget/Jc.GMA.iOS@11.13.5-preview100
 - pkg:nuget/Jc.GMA.iOS@11.13.6-preview100
+- pkg:nuget/Jc.GMA.iOS@12.11.0
 - pkg:nuget/Jc.GMA.iOS@12.2.0
 - pkg:nuget/Jc.GMA.iOS@12.2.0-preview100
 - pkg:nuget/Jc.GMA.iOS@12.2.1
