@@ -53,6 +53,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Sas20181203@1.2.0
 - pkg:nuget/AlibabaCloud.SDK.Sas20181203@1.2.1
 - pkg:nuget/AlibabaCloud.SDK.Sas20181203@1.2.2
+- pkg:nuget/AlibabaCloud.SDK.Sas20181203@10.3.0
 - pkg:nuget/AlibabaCloud.SDK.Sas20181203@2.0.0
 - pkg:nuget/AlibabaCloud.SDK.Sas20181203@2.1.0
 - pkg:nuget/AlibabaCloud.SDK.Sas20181203@2.1.1
