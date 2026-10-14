@@ -25,5 +25,7 @@
 - pkg:nuget/ktsu.ImGui.Styler@3.45.0
 - pkg:nuget/ktsu.ImGui.Styler@3.58.1-pre.1
 - pkg:nuget/ktsu.ImGui.Styler@3.59.0
+- pkg:nuget/ktsu.ImGui.Styler@3.65.0
 - pkg:nuget/ktsu.ImGui.Styler@3.7.0
+- pkg:nuget/ktsu.ImGui.Styler@3.75.1
 - pkg:nuget/ktsu.ImGui.Styler@3.9.0
