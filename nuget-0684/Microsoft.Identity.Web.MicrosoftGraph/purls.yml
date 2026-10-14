@@ -114,6 +114,7 @@
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.13.2
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.14.0
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.14.1
+- pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.16.0
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.2.0
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.2.1
 - pkg:nuget/Microsoft.Identity.Web.MicrosoftGraph@3.2.2
