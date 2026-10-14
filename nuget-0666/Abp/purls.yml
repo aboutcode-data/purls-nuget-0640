@@ -138,6 +138,7 @@
 - pkg:nuget/Abp@10.1.0
 - pkg:nuget/Abp@10.2.0
 - pkg:nuget/Abp@10.3.0
+- pkg:nuget/Abp@10.5.1
 - pkg:nuget/Abp@2.0.0
 - pkg:nuget/Abp@2.0.0-preview1
 - pkg:nuget/Abp@2.0.0-preview2
