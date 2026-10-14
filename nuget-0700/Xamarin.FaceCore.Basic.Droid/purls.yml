@@ -297,3 +297,5 @@
 - pkg:nuget/Xamarin.FaceCore.Basic.Droid@8.4.809
 - pkg:nuget/Xamarin.FaceCore.Basic.Droid@8.5.815-nightly
 - pkg:nuget/Xamarin.FaceCore.Basic.Droid@8.5.818-nightly
+- pkg:nuget/Xamarin.FaceCore.Basic.Droid@8.5.822-nightly
+- pkg:nuget/Xamarin.FaceCore.Basic.Droid@8.5.823-rc
