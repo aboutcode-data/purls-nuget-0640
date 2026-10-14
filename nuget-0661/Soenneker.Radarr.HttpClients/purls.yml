@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Radarr.HttpClients@4.0.106
 - pkg:nuget/Soenneker.Radarr.HttpClients@4.0.111
 - pkg:nuget/Soenneker.Radarr.HttpClients@4.0.130
+- pkg:nuget/Soenneker.Radarr.HttpClients@4.0.161
+- pkg:nuget/Soenneker.Radarr.HttpClients@4.0.162
 - pkg:nuget/Soenneker.Radarr.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Radarr.HttpClients@4.0.22
 - pkg:nuget/Soenneker.Radarr.HttpClients@4.0.24
