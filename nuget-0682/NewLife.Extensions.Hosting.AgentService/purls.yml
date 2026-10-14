@@ -82,6 +82,7 @@
 - pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.14.2025.1113-beta0106
 - pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.15.2026.402
 - pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.15.2026.402-beta0903
+- pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.17.2026.1013-beta0210
 - pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.6.2023.1102
 - pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.6.2023.1102-beta0640
 - pkg:nuget/NewLife.Extensions.Hosting.AgentService@10.6.2023.1120-beta0220
