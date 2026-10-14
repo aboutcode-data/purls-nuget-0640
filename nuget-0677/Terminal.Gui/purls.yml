@@ -872,3 +872,6 @@
 - pkg:nuget/Terminal.Gui@2.5.1-develop.36
 - pkg:nuget/Terminal.Gui@2.5.1-develop.40
 - pkg:nuget/Terminal.Gui@2.5.1-develop.41
+- pkg:nuget/Terminal.Gui@2.5.1-develop.73
+- pkg:nuget/Terminal.Gui@2.5.1-develop.74
+- pkg:nuget/Terminal.Gui@2.5.1-develop.75
