@@ -5,6 +5,7 @@
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.115
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.121
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.129
+- pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.140
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.17
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.18
 - pkg:nuget/Soenneker.Pinecone.HttpClients@4.0.20
