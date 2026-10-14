@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.AspNetCore.SignalR@10.1.0
 - pkg:nuget/Abp.AspNetCore.SignalR@10.2.0
 - pkg:nuget/Abp.AspNetCore.SignalR@10.3.0
+- pkg:nuget/Abp.AspNetCore.SignalR@10.5.1
 - pkg:nuget/Abp.AspNetCore.SignalR@3.3.0-preview1
 - pkg:nuget/Abp.AspNetCore.SignalR@3.4.0-preview2
 - pkg:nuget/Abp.AspNetCore.SignalR@3.5.0-preview3

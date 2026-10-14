@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.FluentValidation@10.1.0
 - pkg:nuget/Abp.FluentValidation@10.2.0
 - pkg:nuget/Abp.FluentValidation@10.3.0
+- pkg:nuget/Abp.FluentValidation@10.5.1
 - pkg:nuget/Abp.FluentValidation@3.8.0
 - pkg:nuget/Abp.FluentValidation@3.8.1
 - pkg:nuget/Abp.FluentValidation@3.8.2
