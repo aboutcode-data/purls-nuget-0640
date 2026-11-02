@@ -376,3 +376,4 @@
 - pkg:nuget/Verify.ApprovalTestsTransition@33.0.0-beta.4
 - pkg:nuget/Verify.ApprovalTestsTransition@33.0.0-beta.6
 - pkg:nuget/Verify.ApprovalTestsTransition@33.0.0-beta.8
+- pkg:nuget/Verify.ApprovalTestsTransition@33.3.4
