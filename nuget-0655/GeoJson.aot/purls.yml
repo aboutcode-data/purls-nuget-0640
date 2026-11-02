@@ -1,3 +1,4 @@
 - pkg:nuget/GeoJson.aot@1.0.0
 - pkg:nuget/GeoJson.aot@1.0.0-preview.1
 - pkg:nuget/GeoJson.aot@1.0.0-preview.5
+- pkg:nuget/GeoJson.aot@2.0.0
