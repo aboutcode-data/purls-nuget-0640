@@ -150,6 +150,7 @@
 - pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.1164
 - pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.1170
 - pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.1193
+- pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.1409
 - pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.655
 - pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.656
 - pkg:nuget/TencentCloudSDKIntlEN.Redis@3.0.657
