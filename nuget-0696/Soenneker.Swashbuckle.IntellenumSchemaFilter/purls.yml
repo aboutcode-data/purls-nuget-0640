@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@11.0.399
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@11.0.400
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@3.0.1
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@3.0.10
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@3.0.100
@@ -219,3 +221,8 @@
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.363
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.372
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.373
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.381
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.384
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.391
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.394
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@4.0.395
