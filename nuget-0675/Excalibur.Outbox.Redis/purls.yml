@@ -1,4 +1,5 @@
 - pkg:nuget/Excalibur.Outbox.Redis@10.0.0-alpha.14
+- pkg:nuget/Excalibur.Outbox.Redis@10.0.0-alpha.19
 - pkg:nuget/Excalibur.Outbox.Redis@10.0.0-alpha.9
 - pkg:nuget/Excalibur.Outbox.Redis@3.0.0-alpha.165
 - pkg:nuget/Excalibur.Outbox.Redis@3.0.0-alpha.181
