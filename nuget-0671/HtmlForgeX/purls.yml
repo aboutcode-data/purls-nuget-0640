@@ -10,3 +10,5 @@
 - pkg:nuget/HtmlForgeX@0.6.0
 - pkg:nuget/HtmlForgeX@0.7.0
 - pkg:nuget/HtmlForgeX@0.8.0
+- pkg:nuget/HtmlForgeX@1.0.0
+- pkg:nuget/HtmlForgeX@2.0.0
