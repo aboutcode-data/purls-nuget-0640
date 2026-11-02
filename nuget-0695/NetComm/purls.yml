@@ -27,6 +27,8 @@
 - pkg:nuget/NetComm@12.0.7
 - pkg:nuget/NetComm@12.0.8
 - pkg:nuget/NetComm@12.0.9
+- pkg:nuget/NetComm@13.0.10
+- pkg:nuget/NetComm@13.0.12
 - pkg:nuget/NetComm@13.10.1
 - pkg:nuget/NetComm@2.0.0
 - pkg:nuget/NetComm@2.0.1
