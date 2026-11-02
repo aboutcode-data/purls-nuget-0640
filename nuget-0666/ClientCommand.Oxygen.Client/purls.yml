@@ -80,3 +80,4 @@
 - pkg:nuget/ClientCommand.Oxygen.Client@6.1.4
 - pkg:nuget/ClientCommand.Oxygen.Client@6.1.5
 - pkg:nuget/ClientCommand.Oxygen.Client@7.2.0
+- pkg:nuget/ClientCommand.Oxygen.Client@7.2.3
