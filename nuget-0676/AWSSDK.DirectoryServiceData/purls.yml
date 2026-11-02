@@ -239,6 +239,8 @@
 - pkg:nuget/AWSSDK.DirectoryServiceData@4.0.1.1
 - pkg:nuget/AWSSDK.DirectoryServiceData@4.0.1.2
 - pkg:nuget/AWSSDK.DirectoryServiceData@4.0.1.4
+- pkg:nuget/AWSSDK.DirectoryServiceData@4.0.100.19
+- pkg:nuget/AWSSDK.DirectoryServiceData@4.0.100.21
 - pkg:nuget/AWSSDK.DirectoryServiceData@4.0.100.4
 - pkg:nuget/AWSSDK.DirectoryServiceData@4.0.100.5
 - pkg:nuget/AWSSDK.DirectoryServiceData@4.0.100.8
