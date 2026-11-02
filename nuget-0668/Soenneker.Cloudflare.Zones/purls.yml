@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Cloudflare.Zones@11.0.954
+- pkg:nuget/Soenneker.Cloudflare.Zones@11.0.957
 - pkg:nuget/Soenneker.Cloudflare.Zones@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.Zones@3.0.100
 - pkg:nuget/Soenneker.Cloudflare.Zones@3.0.101
