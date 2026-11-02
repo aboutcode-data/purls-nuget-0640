@@ -489,6 +489,7 @@
 - pkg:nuget/HotChocolate.Analyzers@13.9.14
 - pkg:nuget/HotChocolate.Analyzers@13.9.14-p.1
 - pkg:nuget/HotChocolate.Analyzers@13.9.15
+- pkg:nuget/HotChocolate.Analyzers@13.9.18
 - pkg:nuget/HotChocolate.Analyzers@13.9.2
 - pkg:nuget/HotChocolate.Analyzers@13.9.3
 - pkg:nuget/HotChocolate.Analyzers@13.9.4
