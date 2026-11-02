@@ -735,6 +735,8 @@
 - pkg:nuget/Pulumi.NewRelic@5.79.5-alpha.1791908659
 - pkg:nuget/Pulumi.NewRelic@5.8.0
 - pkg:nuget/Pulumi.NewRelic@5.8.0-alpha.1679928994%2B5c6488e3
+- pkg:nuget/Pulumi.NewRelic@5.80.1-alpha.1792380925
+- pkg:nuget/Pulumi.NewRelic@5.81.0-alpha.1792131203
 - pkg:nuget/Pulumi.NewRelic@5.9.0
 - pkg:nuget/Pulumi.NewRelic@5.9.0-alpha.1680282898%2Bb0d47700
 - pkg:nuget/Pulumi.NewRelic@5.9.1

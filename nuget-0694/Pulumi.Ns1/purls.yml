@@ -123,6 +123,9 @@
 - pkg:nuget/Pulumi.Ns1@3.10.0-alpha.1779952906
 - pkg:nuget/Pulumi.Ns1@3.10.0-alpha.1780471598
 - pkg:nuget/Pulumi.Ns1@3.10.0-alpha.1780903527
+- pkg:nuget/Pulumi.Ns1@3.10.2
+- pkg:nuget/Pulumi.Ns1@3.10.2-alpha.1791908692
+- pkg:nuget/Pulumi.Ns1@3.10.2-alpha.1793126428
 - pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1781595820
 - pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1781767997
 - pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1782372419
@@ -133,6 +136,10 @@
 - pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1787819691
 - pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1788847821
 - pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1790317252
+- pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1792044981
+- pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1792131264
+- pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1792649757
+- pkg:nuget/Pulumi.Ns1@3.11.0-alpha.1793375433
 - pkg:nuget/Pulumi.Ns1@3.2.0
 - pkg:nuget/Pulumi.Ns1@3.2.0-alpha.1695907666%2B1fc0b44f
 - pkg:nuget/Pulumi.Ns1@3.2.0-alpha.1696361369%2B3ef095ff
