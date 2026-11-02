@@ -4,6 +4,7 @@
 - pkg:nuget/ZWebAPI@1.10.0
 - pkg:nuget/ZWebAPI@1.11.1
 - pkg:nuget/ZWebAPI@1.11.2
+- pkg:nuget/ZWebAPI@1.13.3
 - pkg:nuget/ZWebAPI@1.2.0
 - pkg:nuget/ZWebAPI@1.3.0
 - pkg:nuget/ZWebAPI@1.3.1
