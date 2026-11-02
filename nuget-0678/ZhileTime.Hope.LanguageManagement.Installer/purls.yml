@@ -1,3 +1,4 @@
+- pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@11.1.0
 - pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@4.0.1
 - pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@4.1.0
 - pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@4.1.2
@@ -42,3 +43,4 @@
 - pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@6.1.10
 - pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@6.2.0
 - pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@6.2.1
+- pkg:nuget/ZhileTime.Hope.LanguageManagement.Installer@8.1.0
