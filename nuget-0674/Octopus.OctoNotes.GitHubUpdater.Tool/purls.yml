@@ -43,3 +43,12 @@
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2852-main
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2853-pull-518
 - pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2854-renovate-nunit-5
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2863-pull-520
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2864-renovate-renovat
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2865-main
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2887-main
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2891-pull-527
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2897-dpt-3717-shared-
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2898-pull-528
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2903-main
+- pkg:nuget/Octopus.OctoNotes.GitHubUpdater.Tool@0.0.2913-lindsay-move-to-
