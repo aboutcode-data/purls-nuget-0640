@@ -186,3 +186,5 @@
 - pkg:nuget/WireMock.Net.OpenApiParser@2.11.0
 - pkg:nuget/WireMock.Net.OpenApiParser@2.15.0
 - pkg:nuget/WireMock.Net.OpenApiParser@2.2.0
+- pkg:nuget/WireMock.Net.OpenApiParser@2.20.0
+- pkg:nuget/WireMock.Net.OpenApiParser@2.21.0
