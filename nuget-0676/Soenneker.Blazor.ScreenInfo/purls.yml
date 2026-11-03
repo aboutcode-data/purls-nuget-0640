@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Blazor.ScreenInfo@11.0.521
+- pkg:nuget/Soenneker.Blazor.ScreenInfo@11.0.530
 - pkg:nuget/Soenneker.Blazor.ScreenInfo@3.0.1
 - pkg:nuget/Soenneker.Blazor.ScreenInfo@3.0.10
 - pkg:nuget/Soenneker.Blazor.ScreenInfo@3.0.100
