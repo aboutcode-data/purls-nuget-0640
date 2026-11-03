@@ -38,5 +38,6 @@
 - pkg:nuget/DotnetDeployer.Tool@1.0.52
 - pkg:nuget/DotnetDeployer.Tool@1.0.56
 - pkg:nuget/DotnetDeployer.Tool@1.0.57
+- pkg:nuget/DotnetDeployer.Tool@1.0.67
 - pkg:nuget/DotnetDeployer.Tool@1.0.8
 - pkg:nuget/DotnetDeployer.Tool@1.0.9
