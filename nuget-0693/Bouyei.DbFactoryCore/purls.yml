@@ -48,3 +48,4 @@
 - pkg:nuget/Bouyei.DbFactoryCore@24.8.0
 - pkg:nuget/Bouyei.DbFactoryCore@24.9.0
 - pkg:nuget/Bouyei.DbFactoryCore@24.9.10
+- pkg:nuget/Bouyei.DbFactoryCore@26.10.9
