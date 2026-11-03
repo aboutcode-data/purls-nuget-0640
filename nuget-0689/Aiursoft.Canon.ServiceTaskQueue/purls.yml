@@ -1,1 +1,4 @@
+- pkg:nuget/Aiursoft.Canon.ServiceTaskQueue@10.0.16
+- pkg:nuget/Aiursoft.Canon.ServiceTaskQueue@10.0.17
+- pkg:nuget/Aiursoft.Canon.ServiceTaskQueue@10.0.18
 - pkg:nuget/Aiursoft.Canon.ServiceTaskQueue@10.0.7

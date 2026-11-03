@@ -10,6 +10,9 @@
 - pkg:nuget/Aiursoft.GitRunner@10.0.22
 - pkg:nuget/Aiursoft.GitRunner@10.0.31
 - pkg:nuget/Aiursoft.GitRunner@10.0.34
+- pkg:nuget/Aiursoft.GitRunner@10.0.40
+- pkg:nuget/Aiursoft.GitRunner@10.0.41
+- pkg:nuget/Aiursoft.GitRunner@10.0.44
 - pkg:nuget/Aiursoft.GitRunner@7.0.0
 - pkg:nuget/Aiursoft.GitRunner@7.0.1
 - pkg:nuget/Aiursoft.GitRunner@7.0.10
