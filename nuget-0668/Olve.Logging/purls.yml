@@ -6,3 +6,5 @@
 - pkg:nuget/Olve.Logging@0.42.0
 - pkg:nuget/Olve.Logging@0.47.0
 - pkg:nuget/Olve.Logging@0.47.1
+- pkg:nuget/Olve.Logging@0.56.0
+- pkg:nuget/Olve.Logging@0.61.0
