@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.GitHub.Client.Http@11.0.1542
 - pkg:nuget/Soenneker.GitHub.Client.Http@2.1.1
 - pkg:nuget/Soenneker.GitHub.Client.Http@2.1.10
 - pkg:nuget/Soenneker.GitHub.Client.Http@2.1.11
