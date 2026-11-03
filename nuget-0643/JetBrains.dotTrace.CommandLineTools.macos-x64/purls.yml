@@ -274,3 +274,5 @@
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.macos-x64@2026.2.0.1
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.macos-x64@2026.2.1
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.macos-x64@2026.2.2
+- pkg:nuget/JetBrains.dotTrace.CommandLineTools.macos-x64@2026.3.0-eap08
+- pkg:nuget/JetBrains.dotTrace.CommandLineTools.macos-x64@2026.3.0-eap09
