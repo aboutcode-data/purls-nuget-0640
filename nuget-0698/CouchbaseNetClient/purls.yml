@@ -159,6 +159,7 @@
 - pkg:nuget/CouchbaseNetClient@3.1.5-local-202105032202
 - pkg:nuget/CouchbaseNetClient@3.1.6
 - pkg:nuget/CouchbaseNetClient@3.1.7
+- pkg:nuget/CouchbaseNetClient@3.10.1
 - pkg:nuget/CouchbaseNetClient@3.2.0
 - pkg:nuget/CouchbaseNetClient@3.2.1
 - pkg:nuget/CouchbaseNetClient@3.2.2
