@@ -133,3 +133,5 @@
 - pkg:nuget/Soenneker.Utils.Test.PhoneNumber@4.0.279
 - pkg:nuget/Soenneker.Utils.Test.PhoneNumber@4.0.285
 - pkg:nuget/Soenneker.Utils.Test.PhoneNumber@4.0.286
+- pkg:nuget/Soenneker.Utils.Test.PhoneNumber@4.0.297
+- pkg:nuget/Soenneker.Utils.Test.PhoneNumber@4.0.307
