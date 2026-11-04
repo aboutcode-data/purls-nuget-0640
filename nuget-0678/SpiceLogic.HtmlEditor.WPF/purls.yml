@@ -13,3 +13,6 @@
 - pkg:nuget/SpiceLogic.HtmlEditor.WPF@3.2.0
 - pkg:nuget/SpiceLogic.HtmlEditor.WPF@3.7.4
 - pkg:nuget/SpiceLogic.HtmlEditor.WPF@3.7.6
+- pkg:nuget/SpiceLogic.HtmlEditor.WPF@4.1.5
+- pkg:nuget/SpiceLogic.HtmlEditor.WPF@4.2.1
+- pkg:nuget/SpiceLogic.HtmlEditor.WPF@4.2.6
