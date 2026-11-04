@@ -29,6 +29,7 @@
 - pkg:nuget/Ecng.Linq@1.0.178
 - pkg:nuget/Ecng.Linq@1.0.18
 - pkg:nuget/Ecng.Linq@1.0.19
+- pkg:nuget/Ecng.Linq@1.0.195
 - pkg:nuget/Ecng.Linq@1.0.2
 - pkg:nuget/Ecng.Linq@1.0.20
 - pkg:nuget/Ecng.Linq@1.0.21
