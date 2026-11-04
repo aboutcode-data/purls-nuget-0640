@@ -34,7 +34,10 @@
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.5
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.51
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.52
+- pkg:nuget/InLiveTools.IntegradorDelivery@1.0.55
+- pkg:nuget/InLiveTools.IntegradorDelivery@1.0.56
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.6
+- pkg:nuget/InLiveTools.IntegradorDelivery@1.0.60
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.7
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.8
 - pkg:nuget/InLiveTools.IntegradorDelivery@1.0.9
