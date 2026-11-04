@@ -1,5 +1,7 @@
 - pkg:nuget/KMG.Common@1.0.0
 - pkg:nuget/KMG.Common@1.1.0
+- pkg:nuget/KMG.Common@10.1.1
+- pkg:nuget/KMG.Common@10.1.2
 - pkg:nuget/KMG.Common@2.10.0
 - pkg:nuget/KMG.Common@2.10.1
 - pkg:nuget/KMG.Common@2.10.2
