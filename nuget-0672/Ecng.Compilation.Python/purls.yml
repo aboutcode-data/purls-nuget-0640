@@ -29,6 +29,7 @@
 - pkg:nuget/Ecng.Compilation.Python@1.0.218
 - pkg:nuget/Ecng.Compilation.Python@1.0.22
 - pkg:nuget/Ecng.Compilation.Python@1.0.23
+- pkg:nuget/Ecng.Compilation.Python@1.0.239
 - pkg:nuget/Ecng.Compilation.Python@1.0.24
 - pkg:nuget/Ecng.Compilation.Python@1.0.25
 - pkg:nuget/Ecng.Compilation.Python@1.0.26
