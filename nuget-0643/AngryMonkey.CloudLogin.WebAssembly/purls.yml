@@ -1,0 +1,5 @@
+- pkg:nuget/AngryMonkey.CloudLogin.WebAssembly@1.5.2
+- pkg:nuget/AngryMonkey.CloudLogin.WebAssembly@2.0.1
+- pkg:nuget/AngryMonkey.CloudLogin.WebAssembly@2.2.1
+- pkg:nuget/AngryMonkey.CloudLogin.WebAssembly@2.2.6
+- pkg:nuget/AngryMonkey.CloudLogin.WebAssembly@2.3.2
