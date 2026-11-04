@@ -54,6 +54,7 @@
 - pkg:nuget/uSync.Snapshots@13.2.0
 - pkg:nuget/uSync.Snapshots@13.2.1
 - pkg:nuget/uSync.Snapshots@13.2.2
+- pkg:nuget/uSync.Snapshots@13.4.0-final
 - pkg:nuget/uSync.Snapshots@14.2.0
 - pkg:nuget/uSync.Snapshots@14.2.1
 - pkg:nuget/uSync.Snapshots@15.0.0
