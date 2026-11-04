@@ -19,3 +19,4 @@
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.SqlQueryObjects@0.43.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.SqlQueryObjects@0.45.0-dev
 - pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.SqlQueryObjects@0.49.0-dev
+- pkg:nuget/IOKode.OpinionatedFramework.SourceGenerators.SqlQueryObjects@0.50.0-dev
