@@ -1,5 +1,6 @@
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Application.Contracts@11.2.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Application.Contracts@11.3.0
+- pkg:nuget/ZhileTime.Hope.DataDictionary.Application.Contracts@11.5.1
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Application.Contracts@4.2.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Application.Contracts@4.3.0
 - pkg:nuget/ZhileTime.Hope.DataDictionary.Application.Contracts@4.4.0
