@@ -106,3 +106,4 @@
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.9
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.93
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.94
+- pkg:nuget/DrifterApps.Seeds.Domain@2.0.2
