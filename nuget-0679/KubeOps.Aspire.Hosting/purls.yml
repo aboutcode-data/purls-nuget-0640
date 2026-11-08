@@ -19,3 +19,4 @@
 - pkg:nuget/KubeOps.Aspire.Hosting@13.3.3-prerelease.3
 - pkg:nuget/KubeOps.Aspire.Hosting@13.3.4
 - pkg:nuget/KubeOps.Aspire.Hosting@13.3.4-prerelease.3
+- pkg:nuget/KubeOps.Aspire.Hosting@13.3.6-prerelease.2
