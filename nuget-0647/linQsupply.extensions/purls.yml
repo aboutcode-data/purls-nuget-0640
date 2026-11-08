@@ -33,7 +33,10 @@
 - pkg:nuget/linQsupply.extensions@1.0.173
 - pkg:nuget/linQsupply.extensions@1.0.175
 - pkg:nuget/linQsupply.extensions@1.0.18
+- pkg:nuget/linQsupply.extensions@1.0.189
 - pkg:nuget/linQsupply.extensions@1.0.19
+- pkg:nuget/linQsupply.extensions@1.0.190
+- pkg:nuget/linQsupply.extensions@1.0.191
 - pkg:nuget/linQsupply.extensions@1.0.20
 - pkg:nuget/linQsupply.extensions@1.0.21
 - pkg:nuget/linQsupply.extensions@1.0.22
