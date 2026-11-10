@@ -1,3 +1,6 @@
+- pkg:nuget/DubUrl.Schema@0.101.1
+- pkg:nuget/DubUrl.Schema@0.101.3
+- pkg:nuget/DubUrl.Schema@0.104.0
 - pkg:nuget/DubUrl.Schema@0.23.0
 - pkg:nuget/DubUrl.Schema@0.24.0
 - pkg:nuget/DubUrl.Schema@0.24.1
@@ -67,3 +70,12 @@
 - pkg:nuget/DubUrl.Schema@0.29.7
 - pkg:nuget/DubUrl.Schema@0.29.8
 - pkg:nuget/DubUrl.Schema@0.29.9
+- pkg:nuget/DubUrl.Schema@0.35.0
+- pkg:nuget/DubUrl.Schema@0.36.0
+- pkg:nuget/DubUrl.Schema@0.39.1
+- pkg:nuget/DubUrl.Schema@0.42.1
+- pkg:nuget/DubUrl.Schema@0.44.0
+- pkg:nuget/DubUrl.Schema@0.52.0
+- pkg:nuget/DubUrl.Schema@0.53.0
+- pkg:nuget/DubUrl.Schema@0.54.0
+- pkg:nuget/DubUrl.Schema@0.55.0
