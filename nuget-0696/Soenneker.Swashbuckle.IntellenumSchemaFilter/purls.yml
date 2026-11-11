@@ -1,5 +1,7 @@
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@11.0.399
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@11.0.400
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@11.0.405
+- pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@11.0.406
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@3.0.1
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@3.0.10
 - pkg:nuget/Soenneker.Swashbuckle.IntellenumSchemaFilter@3.0.100
