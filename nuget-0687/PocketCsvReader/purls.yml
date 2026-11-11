@@ -104,6 +104,9 @@
 - pkg:nuget/PocketCsvReader@2.69.0
 - pkg:nuget/PocketCsvReader@2.7.0
 - pkg:nuget/PocketCsvReader@2.7.1
+- pkg:nuget/PocketCsvReader@2.70.0
+- pkg:nuget/PocketCsvReader@2.71.0
+- pkg:nuget/PocketCsvReader@2.71.1
 - pkg:nuget/PocketCsvReader@2.8.0
 - pkg:nuget/PocketCsvReader@2.8.1
 - pkg:nuget/PocketCsvReader@2.8.2
