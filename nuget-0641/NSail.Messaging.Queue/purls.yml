@@ -6,6 +6,8 @@
 - pkg:nuget/NSail.Messaging.Queue@0.1.1128
 - pkg:nuget/NSail.Messaging.Queue@0.1.1130
 - pkg:nuget/NSail.Messaging.Queue@0.1.1133
+- pkg:nuget/NSail.Messaging.Queue@0.1.1137
+- pkg:nuget/NSail.Messaging.Queue@0.1.1142
 - pkg:nuget/NSail.Messaging.Queue@0.1.379
 - pkg:nuget/NSail.Messaging.Queue@0.1.404
 - pkg:nuget/NSail.Messaging.Queue@0.1.414
