@@ -30,6 +30,7 @@
 - pkg:nuget/Microsoft.VisualStudio.OLE.Interop@17.7.37355
 - pkg:nuget/Microsoft.VisualStudio.OLE.Interop@17.8.37221
 - pkg:nuget/Microsoft.VisualStudio.OLE.Interop@17.9.37000
+- pkg:nuget/Microsoft.VisualStudio.OLE.Interop@18.12.1603
 - pkg:nuget/Microsoft.VisualStudio.OLE.Interop@7.10.6070
 - pkg:nuget/Microsoft.VisualStudio.OLE.Interop@7.10.6070-pre
 - pkg:nuget/Microsoft.VisualStudio.OLE.Interop@7.10.6071

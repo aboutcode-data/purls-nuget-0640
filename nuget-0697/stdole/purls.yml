@@ -28,6 +28,7 @@
 - pkg:nuget/stdole@17.7.37355
 - pkg:nuget/stdole@17.8.37221
 - pkg:nuget/stdole@17.9.37000
+- pkg:nuget/stdole@18.12.1603
 - pkg:nuget/stdole@7.0.3300
 - pkg:nuget/stdole@7.0.3301
 - pkg:nuget/stdole@7.0.3302
