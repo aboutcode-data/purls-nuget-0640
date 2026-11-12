@@ -63,3 +63,5 @@
 - pkg:nuget/MeasureMap@3.0.0-RC22
 - pkg:nuget/MeasureMap@3.0.0-RC48
 - pkg:nuget/MeasureMap@3.0.1
+- pkg:nuget/MeasureMap@3.1.0-RC40
+- pkg:nuget/MeasureMap@3.1.0-RC41
