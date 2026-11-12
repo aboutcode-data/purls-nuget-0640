@@ -52,3 +52,4 @@
 - pkg:nuget/Sentry.AspNetCore.Blazor.WebAssembly@6.2.0-alpha.0
 - pkg:nuget/Sentry.AspNetCore.Blazor.WebAssembly@6.3.0
 - pkg:nuget/Sentry.AspNetCore.Blazor.WebAssembly@6.3.2
+- pkg:nuget/Sentry.AspNetCore.Blazor.WebAssembly@7.0.0-rc.2
