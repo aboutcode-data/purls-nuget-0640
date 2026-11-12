@@ -7,6 +7,7 @@
 - pkg:nuget/DotNetCensus.Core@1.11.1
 - pkg:nuget/DotNetCensus.Core@1.11.2
 - pkg:nuget/DotNetCensus.Core@1.11.3
+- pkg:nuget/DotNetCensus.Core@1.15.2
 - pkg:nuget/DotNetCensus.Core@1.2.0
 - pkg:nuget/DotNetCensus.Core@1.2.1
 - pkg:nuget/DotNetCensus.Core@1.2.2
