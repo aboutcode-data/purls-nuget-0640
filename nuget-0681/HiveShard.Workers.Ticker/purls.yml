@@ -1,3 +1,4 @@
 - pkg:nuget/HiveShard.Workers.Ticker@3.0.2
 - pkg:nuget/HiveShard.Workers.Ticker@3.0.3
 - pkg:nuget/HiveShard.Workers.Ticker@3.2.1
+- pkg:nuget/HiveShard.Workers.Ticker@3.6.0
