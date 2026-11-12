@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Utils.Debounce@11.0.98
+- pkg:nuget/Soenneker.Utils.Debounce@11.0.99
 - pkg:nuget/Soenneker.Utils.Debounce@3.0.1
 - pkg:nuget/Soenneker.Utils.Debounce@3.0.10
 - pkg:nuget/Soenneker.Utils.Debounce@3.0.2
