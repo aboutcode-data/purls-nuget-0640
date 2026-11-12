@@ -175,6 +175,7 @@
 - pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@13.0.0-beta.2
 - pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@13.1.1
 - pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@13.1.2
+- pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@13.1.3
 - pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@6.10.0
 - pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@6.11.0
 - pkg:nuget/Sitko.Core.Storage.Metadata.Postgres@6.12.0
