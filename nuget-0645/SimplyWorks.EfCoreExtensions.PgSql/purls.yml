@@ -1,3 +1,6 @@
+- pkg:nuget/SimplyWorks.EfCoreExtensions.PgSql@10.1.0
+- pkg:nuget/SimplyWorks.EfCoreExtensions.PgSql@10.1.1
+- pkg:nuget/SimplyWorks.EfCoreExtensions.PgSql@10.2.0
 - pkg:nuget/SimplyWorks.EfCoreExtensions.PgSql@2.0.39
 - pkg:nuget/SimplyWorks.EfCoreExtensions.PgSql@2.0.40
 - pkg:nuget/SimplyWorks.EfCoreExtensions.PgSql@2.0.41
