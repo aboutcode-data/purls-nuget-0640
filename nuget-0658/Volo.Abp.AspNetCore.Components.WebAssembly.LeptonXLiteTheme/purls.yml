@@ -137,3 +137,4 @@
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme@5.6.3
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme@5.7.0-rc.2
 - pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme@5.7.0-rc.3
+- pkg:nuget/Volo.Abp.AspNetCore.Components.WebAssembly.LeptonXLiteTheme@6.0.0-rc.2
