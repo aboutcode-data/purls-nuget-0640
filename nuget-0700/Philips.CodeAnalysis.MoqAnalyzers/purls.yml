@@ -4,3 +4,4 @@
 - pkg:nuget/Philips.CodeAnalysis.MoqAnalyzers@1.1.0
 - pkg:nuget/Philips.CodeAnalysis.MoqAnalyzers@1.3.0-prerelease.8
 - pkg:nuget/Philips.CodeAnalysis.MoqAnalyzers@2.0.0
+- pkg:nuget/Philips.CodeAnalysis.MoqAnalyzers@2.1.2
