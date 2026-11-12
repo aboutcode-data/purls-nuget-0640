@@ -56,3 +56,4 @@
 - pkg:nuget/org.k2fsa.sherpa.onnx.runtime.win-arm64@1.12.7
 - pkg:nuget/org.k2fsa.sherpa.onnx.runtime.win-arm64@1.12.8
 - pkg:nuget/org.k2fsa.sherpa.onnx.runtime.win-arm64@1.12.9
+- pkg:nuget/org.k2fsa.sherpa.onnx.runtime.win-arm64@2.0.1
