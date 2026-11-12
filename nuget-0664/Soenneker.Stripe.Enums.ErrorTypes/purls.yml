@@ -1,6 +1,7 @@
 - pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@11.0.89
 - pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@11.0.90
 - pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@11.0.92
+- pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@11.0.93
 - pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@3.0.1
 - pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@3.0.10
 - pkg:nuget/Soenneker.Stripe.Enums.ErrorTypes@3.0.11
