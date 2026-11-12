@@ -8,6 +8,7 @@
 - pkg:nuget/ChilkatDnCore@11.0.0
 - pkg:nuget/ChilkatDnCore@11.1.0
 - pkg:nuget/ChilkatDnCore@11.4.0
+- pkg:nuget/ChilkatDnCore@11.7.0
 - pkg:nuget/ChilkatDnCore@9.5.0.58
 - pkg:nuget/ChilkatDnCore@9.5.0.59
 - pkg:nuget/ChilkatDnCore@9.5.0.62
