@@ -16,3 +16,4 @@
 - pkg:nuget/Meziantou.AspNetCore.ServiceDefaults@1.0.8
 - pkg:nuget/Meziantou.AspNetCore.ServiceDefaults@1.0.9
 - pkg:nuget/Meziantou.AspNetCore.ServiceDefaults@2.0.0
+- pkg:nuget/Meziantou.AspNetCore.ServiceDefaults@2.0.11
