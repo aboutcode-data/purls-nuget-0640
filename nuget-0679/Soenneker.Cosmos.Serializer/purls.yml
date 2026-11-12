@@ -272,6 +272,7 @@
 - pkg:nuget/Soenneker.Cosmos.Serializer@11.0.2793
 - pkg:nuget/Soenneker.Cosmos.Serializer@11.0.2795
 - pkg:nuget/Soenneker.Cosmos.Serializer@11.0.2796
+- pkg:nuget/Soenneker.Cosmos.Serializer@11.0.2797
 - pkg:nuget/Soenneker.Cosmos.Serializer@2.0.1
 - pkg:nuget/Soenneker.Cosmos.Serializer@2.0.2
 - pkg:nuget/Soenneker.Cosmos.Serializer@2.0.269
