@@ -1,3 +1,14 @@
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.131
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.133
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.134
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.135
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.137
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.138
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@11.0.148
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.111
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.112
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.123
+- pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.124
 - pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.30
 - pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.36
 - pkg:nuget/Soenneker.Sentry.OpenApiClient@4.0.41
