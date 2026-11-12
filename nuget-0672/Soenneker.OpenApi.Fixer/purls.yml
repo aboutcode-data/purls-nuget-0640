@@ -1,4 +1,6 @@
 - pkg:nuget/Soenneker.OpenApi.Fixer@11.0.422
+- pkg:nuget/Soenneker.OpenApi.Fixer@11.0.433
+- pkg:nuget/Soenneker.OpenApi.Fixer@11.0.435
 - pkg:nuget/Soenneker.OpenApi.Fixer@3.0.1
 - pkg:nuget/Soenneker.OpenApi.Fixer@3.0.10
 - pkg:nuget/Soenneker.OpenApi.Fixer@3.0.13
