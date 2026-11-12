@@ -11,6 +11,8 @@
 - pkg:nuget/Soenneker.Render.OpenApiClientUtil@11.0.253
 - pkg:nuget/Soenneker.Render.OpenApiClientUtil@11.0.254
 - pkg:nuget/Soenneker.Render.OpenApiClientUtil@11.0.255
+- pkg:nuget/Soenneker.Render.OpenApiClientUtil@11.0.258
+- pkg:nuget/Soenneker.Render.OpenApiClientUtil@11.0.260
 - pkg:nuget/Soenneker.Render.OpenApiClientUtil@4.0.11
 - pkg:nuget/Soenneker.Render.OpenApiClientUtil@4.0.112
 - pkg:nuget/Soenneker.Render.OpenApiClientUtil@4.0.115
