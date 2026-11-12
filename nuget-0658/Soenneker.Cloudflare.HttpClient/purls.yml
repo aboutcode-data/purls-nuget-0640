@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@11.0.528
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@11.0.536
+- pkg:nuget/Soenneker.Cloudflare.HttpClient@11.0.544
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@3.0.1
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@3.0.10
 - pkg:nuget/Soenneker.Cloudflare.HttpClient@3.0.11
