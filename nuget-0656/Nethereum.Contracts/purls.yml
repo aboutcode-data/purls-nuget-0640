@@ -77,3 +77,4 @@
 - pkg:nuget/Nethereum.Contracts@4.8.0
 - pkg:nuget/Nethereum.Contracts@4.9.0
 - pkg:nuget/Nethereum.Contracts@5.0.0
+- pkg:nuget/Nethereum.Contracts@7.1.0

@@ -48,3 +48,4 @@
 - pkg:nuget/Nethereum.BlockchainProcessing@4.8.0
 - pkg:nuget/Nethereum.BlockchainProcessing@4.9.0
 - pkg:nuget/Nethereum.BlockchainProcessing@5.0.0
+- pkg:nuget/Nethereum.BlockchainProcessing@7.1.0
