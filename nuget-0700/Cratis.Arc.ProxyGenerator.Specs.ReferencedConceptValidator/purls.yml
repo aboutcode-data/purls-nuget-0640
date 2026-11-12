@@ -1,5 +1,13 @@
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.100.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.101.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.103.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.106.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.110.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.111.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.126.1
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.127.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.128.0
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.130.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.32.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.32.1
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Specs.ReferencedConceptValidator@22.34.1
