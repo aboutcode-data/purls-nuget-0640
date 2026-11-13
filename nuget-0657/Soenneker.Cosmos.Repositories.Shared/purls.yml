@@ -8,6 +8,9 @@
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@11.0.548
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@11.0.549
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@11.0.554
+- pkg:nuget/Soenneker.Cosmos.Repositories.Shared@11.0.558
+- pkg:nuget/Soenneker.Cosmos.Repositories.Shared@11.0.565
+- pkg:nuget/Soenneker.Cosmos.Repositories.Shared@11.0.568
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@3.0.1
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@3.0.10
 - pkg:nuget/Soenneker.Cosmos.Repositories.Shared@3.0.11
