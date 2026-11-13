@@ -1,6 +1,7 @@
 - pkg:nuget/DubUrl.Schema@0.101.1
 - pkg:nuget/DubUrl.Schema@0.101.3
 - pkg:nuget/DubUrl.Schema@0.104.0
+- pkg:nuget/DubUrl.Schema@0.105.0
 - pkg:nuget/DubUrl.Schema@0.23.0
 - pkg:nuget/DubUrl.Schema@0.24.0
 - pkg:nuget/DubUrl.Schema@0.24.1
