@@ -17,6 +17,7 @@
 - pkg:nuget/Enigmatry.Entry.Infrastructure@10.2.3
 - pkg:nuget/Enigmatry.Entry.Infrastructure@10.3.0
 - pkg:nuget/Enigmatry.Entry.Infrastructure@10.4.0
+- pkg:nuget/Enigmatry.Entry.Infrastructure@10.6.0
 - pkg:nuget/Enigmatry.Entry.Infrastructure@2.0.0
 - pkg:nuget/Enigmatry.Entry.Infrastructure@2.0.0-preview
 - pkg:nuget/Enigmatry.Entry.Infrastructure@2.0.0-preview.1
