@@ -11,3 +11,4 @@
 - pkg:nuget/ZeroAlloc.Scheduling.Telemetry@2.2.2
 - pkg:nuget/ZeroAlloc.Scheduling.Telemetry@2.2.3
 - pkg:nuget/ZeroAlloc.Scheduling.Telemetry@2.2.9
+- pkg:nuget/ZeroAlloc.Scheduling.Telemetry@2.3.1
