@@ -5,6 +5,7 @@
 - pkg:nuget/CSoft.Parser@10.5.0
 - pkg:nuget/CSoft.Parser@10.6.0
 - pkg:nuget/CSoft.Parser@10.6.2
+- pkg:nuget/CSoft.Parser@11.0.1
 - pkg:nuget/CSoft.Parser@2.0.0
 - pkg:nuget/CSoft.Parser@5.0.0
 - pkg:nuget/CSoft.Parser@5.0.1
