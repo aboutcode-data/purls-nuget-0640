@@ -9,3 +9,4 @@
 - pkg:nuget/DiscogsApiClient@4.0.0-beta.1
 - pkg:nuget/DiscogsApiClient@4.0.0-beta.2
 - pkg:nuget/DiscogsApiClient@4.0.0-beta.3
+- pkg:nuget/DiscogsApiClient@5.1.0
