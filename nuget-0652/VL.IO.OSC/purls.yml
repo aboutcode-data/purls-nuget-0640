@@ -39,6 +39,7 @@
 - pkg:nuget/VL.IO.OSC@1.2.1
 - pkg:nuget/VL.IO.OSC@2.0.0
 - pkg:nuget/VL.IO.OSC@2.0.1
+- pkg:nuget/VL.IO.OSC@2.0.12
 - pkg:nuget/VL.IO.OSC@2.0.2
 - pkg:nuget/VL.IO.OSC@2.0.3
 - pkg:nuget/VL.IO.OSC@2.0.4
