@@ -16,4 +16,5 @@
 - pkg:nuget/Reynj.Newtonsoft.Json@1.4.3-PullRequest0008.5
 - pkg:nuget/Reynj.Newtonsoft.Json@1.5.0
 - pkg:nuget/Reynj.Newtonsoft.Json@1.6.0
+- pkg:nuget/Reynj.Newtonsoft.Json@1.7.3-PullRequest17.4
 - pkg:nuget/Reynj.Newtonsoft.Json@1.7.3-dotnet-11-support.1-2
