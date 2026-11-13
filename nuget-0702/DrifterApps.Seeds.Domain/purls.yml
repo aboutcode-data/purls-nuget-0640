@@ -71,7 +71,17 @@
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.140
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.148
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.15
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.150
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.151
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.157
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.160
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.164
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.165
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.167
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.168
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.17
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.170
+- pkg:nuget/DrifterApps.Seeds.Domain@1.0.179
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.18
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.19
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.20
@@ -106,4 +116,5 @@
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.9
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.93
 - pkg:nuget/DrifterApps.Seeds.Domain@1.0.94
+- pkg:nuget/DrifterApps.Seeds.Domain@2.0.1
 - pkg:nuget/DrifterApps.Seeds.Domain@2.0.2
