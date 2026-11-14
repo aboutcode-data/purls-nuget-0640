@@ -1,0 +1,14 @@
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.41
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.43
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.44
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.46
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.47
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.58
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@11.0.60
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.10
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.22
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.31
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.32
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.40
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.6
+- pkg:nuget/Soenneker.OpenHands.OpenApiClient@4.0.9

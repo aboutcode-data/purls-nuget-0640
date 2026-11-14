@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Together.HttpClients@11.0.156
+- pkg:nuget/Soenneker.Together.HttpClients@11.0.158
+- pkg:nuget/Soenneker.Together.HttpClients@11.0.162
 - pkg:nuget/Soenneker.Together.HttpClients@4.0.101
 - pkg:nuget/Soenneker.Together.HttpClients@4.0.106
 - pkg:nuget/Soenneker.Together.HttpClients@4.0.109
