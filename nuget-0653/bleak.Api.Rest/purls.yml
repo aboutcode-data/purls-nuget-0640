@@ -13,3 +13,4 @@
 - pkg:nuget/bleak.Api.Rest@2.2.20
 - pkg:nuget/bleak.Api.Rest@2.3.21
 - pkg:nuget/bleak.Api.Rest@2.3.22
+- pkg:nuget/bleak.Api.Rest@2.4.0
