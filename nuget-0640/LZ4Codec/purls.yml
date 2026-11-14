@@ -8,3 +8,4 @@
 - pkg:nuget/LZ4Codec@2023.5.28
 - pkg:nuget/LZ4Codec@2023.6.1
 - pkg:nuget/LZ4Codec@2024.11.26
+- pkg:nuget/LZ4Codec@2026.8.6
