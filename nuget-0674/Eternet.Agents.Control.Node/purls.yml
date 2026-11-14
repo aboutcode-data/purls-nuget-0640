@@ -6,6 +6,16 @@
 - pkg:nuget/Eternet.Agents.Control.Node@2.0.149
 - pkg:nuget/Eternet.Agents.Control.Node@2.0.154
 - pkg:nuget/Eternet.Agents.Control.Node@2.0.172
+- pkg:nuget/Eternet.Agents.Control.Node@2.0.187
+- pkg:nuget/Eternet.Agents.Control.Node@2.0.190
+- pkg:nuget/Eternet.Agents.Control.Node@2.0.191
 - pkg:nuget/Eternet.Agents.Control.Node@2.0.70
 - pkg:nuget/Eternet.Agents.Control.Node@2.0.82
 - pkg:nuget/Eternet.Agents.Control.Node@2.0.92
+- pkg:nuget/Eternet.Agents.Control.Node@3.0.13
+- pkg:nuget/Eternet.Agents.Control.Node@3.0.14
+- pkg:nuget/Eternet.Agents.Control.Node@3.0.15
+- pkg:nuget/Eternet.Agents.Control.Node@3.0.23
+- pkg:nuget/Eternet.Agents.Control.Node@3.0.7
+- pkg:nuget/Eternet.Agents.Control.Node@5.0.4
+- pkg:nuget/Eternet.Agents.Control.Node@5.0.5
