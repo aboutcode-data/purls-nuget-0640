@@ -2,3 +2,5 @@
 - pkg:nuget/uSync.Umbraco.Commerce@12.0.0-rc2
 - pkg:nuget/uSync.Umbraco.Commerce@12.0.0-rc3
 - pkg:nuget/uSync.Umbraco.Commerce@13.1.0-rc1
+- pkg:nuget/uSync.Umbraco.Commerce@17.1.2
+- pkg:nuget/uSync.Umbraco.Commerce@18.0.0
