@@ -9,3 +9,5 @@
 - pkg:nuget/DodoPayments.Client@6.26.1
 - pkg:nuget/DodoPayments.Client@6.28.0
 - pkg:nuget/DodoPayments.Client@6.35.0
+- pkg:nuget/DodoPayments.Client@6.39.0
+- pkg:nuget/DodoPayments.Client@6.44.0
