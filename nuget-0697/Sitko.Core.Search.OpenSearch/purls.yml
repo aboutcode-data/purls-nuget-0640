@@ -60,3 +60,5 @@
 - pkg:nuget/Sitko.Core.Search.OpenSearch@12.0.0
 - pkg:nuget/Sitko.Core.Search.OpenSearch@13.0.0-beta.1
 - pkg:nuget/Sitko.Core.Search.OpenSearch@13.0.0-beta.2
+- pkg:nuget/Sitko.Core.Search.OpenSearch@13.1.1
+- pkg:nuget/Sitko.Core.Search.OpenSearch@13.1.2
