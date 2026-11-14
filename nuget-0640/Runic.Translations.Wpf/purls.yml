@@ -1,1 +1,4 @@
 - pkg:nuget/Runic.Translations.Wpf@0.6.0-preview.2
+- pkg:nuget/Runic.Translations.Wpf@0.6.0-preview.5
+- pkg:nuget/Runic.Translations.Wpf@0.7.0-preview.3
+- pkg:nuget/Runic.Translations.Wpf@0.8.0
