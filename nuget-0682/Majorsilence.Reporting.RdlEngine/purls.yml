@@ -1,4 +1,9 @@
 - pkg:nuget/Majorsilence.Reporting.RdlEngine@26.0.2
+- pkg:nuget/Majorsilence.Reporting.RdlEngine@26.0.7
+- pkg:nuget/Majorsilence.Reporting.RdlEngine@27.0.0-alpha.11
+- pkg:nuget/Majorsilence.Reporting.RdlEngine@27.0.0-alpha.2
+- pkg:nuget/Majorsilence.Reporting.RdlEngine@27.0.0-alpha.3
+- pkg:nuget/Majorsilence.Reporting.RdlEngine@27.0.0-alpha.6
 - pkg:nuget/Majorsilence.Reporting.RdlEngine@4.16.0
 - pkg:nuget/Majorsilence.Reporting.RdlEngine@4.17.0
 - pkg:nuget/Majorsilence.Reporting.RdlEngine@4.18.0
