@@ -7,3 +7,5 @@
 - pkg:nuget/Ollama.Api@0.9.25
 - pkg:nuget/Ollama.Api@0.9.8
 - pkg:nuget/Ollama.Api@1.0.10
+- pkg:nuget/Ollama.Api@1.1.12
+- pkg:nuget/Ollama.Api@1.1.8
