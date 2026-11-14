@@ -1,3 +1,5 @@
+- pkg:nuget/OpenWebUISharp@0.11.0
+- pkg:nuget/OpenWebUISharp@0.12.5
 - pkg:nuget/OpenWebUISharp@1.0.0
 - pkg:nuget/OpenWebUISharp@1.0.1
 - pkg:nuget/OpenWebUISharp@1.0.2
