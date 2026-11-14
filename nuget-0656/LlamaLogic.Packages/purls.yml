@@ -67,3 +67,5 @@
 - pkg:nuget/LlamaLogic.Packages@3.5.1
 - pkg:nuget/LlamaLogic.Packages@4.9.0
 - pkg:nuget/LlamaLogic.Packages@5.0.0
+- pkg:nuget/LlamaLogic.Packages@5.2.0
+- pkg:nuget/LlamaLogic.Packages@5.3.0
