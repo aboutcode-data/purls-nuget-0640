@@ -42,6 +42,7 @@
 - pkg:nuget/Contensive.Processor@25.4.4.1
 - pkg:nuget/Contensive.Processor@25.7.18.3
 - pkg:nuget/Contensive.Processor@25.7.21.3
+- pkg:nuget/Contensive.Processor@26.11.12.30636
 - pkg:nuget/Contensive.Processor@5.0.10
 - pkg:nuget/Contensive.Processor@5.0.6
 - pkg:nuget/Contensive.Processor@5.0.7
