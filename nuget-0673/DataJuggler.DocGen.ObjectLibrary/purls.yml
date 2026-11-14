@@ -2,3 +2,4 @@
 - pkg:nuget/DataJuggler.DocGen.ObjectLibrary@1.0.11
 - pkg:nuget/DataJuggler.DocGen.ObjectLibrary@1.0.8
 - pkg:nuget/DataJuggler.DocGen.ObjectLibrary@1.0.9
+- pkg:nuget/DataJuggler.DocGen.ObjectLibrary@10.0.0
