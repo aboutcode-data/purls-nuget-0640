@@ -21,3 +21,4 @@
 - pkg:nuget/CodeWF.AspNetCore.EventBus@3.4.4.2
 - pkg:nuget/CodeWF.AspNetCore.EventBus@3.4.5
 - pkg:nuget/CodeWF.AspNetCore.EventBus@3.4.5.16
+- pkg:nuget/CodeWF.AspNetCore.EventBus@3.4.5.27
