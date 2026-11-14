@@ -1,0 +1,6 @@
+- pkg:nuget/TauriKit.Sidecar.Loopback.AspNetCore@0.15.0
+- pkg:nuget/TauriKit.Sidecar.Loopback.AspNetCore@0.16.1
+- pkg:nuget/TauriKit.Sidecar.Loopback.AspNetCore@0.21.0
+- pkg:nuget/TauriKit.Sidecar.Loopback.AspNetCore@0.27.0
+- pkg:nuget/TauriKit.Sidecar.Loopback.AspNetCore@0.29.0
+- pkg:nuget/TauriKit.Sidecar.Loopback.AspNetCore@0.32.0
