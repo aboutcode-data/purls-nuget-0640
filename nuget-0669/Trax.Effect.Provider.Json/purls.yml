@@ -18,3 +18,8 @@
 - pkg:nuget/Trax.Effect.Provider.Json@1.57.1
 - pkg:nuget/Trax.Effect.Provider.Json@1.57.3
 - pkg:nuget/Trax.Effect.Provider.Json@1.60.0
+- pkg:nuget/Trax.Effect.Provider.Json@1.65.0
+- pkg:nuget/Trax.Effect.Provider.Json@1.67.0
+- pkg:nuget/Trax.Effect.Provider.Json@1.69.0
+- pkg:nuget/Trax.Effect.Provider.Json@1.69.1
+- pkg:nuget/Trax.Effect.Provider.Json@1.70.0
