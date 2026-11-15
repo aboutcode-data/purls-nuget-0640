@@ -104,3 +104,4 @@
 - pkg:nuget/ModularPipelines.TeamCity@2.47.0
 - pkg:nuget/ModularPipelines.TeamCity@2.47.8
 - pkg:nuget/ModularPipelines.TeamCity@2.9.0
+- pkg:nuget/ModularPipelines.TeamCity@4.0.0

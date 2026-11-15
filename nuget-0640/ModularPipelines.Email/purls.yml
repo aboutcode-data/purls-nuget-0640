@@ -152,3 +152,4 @@
 - pkg:nuget/ModularPipelines.Email@2.8.23
 - pkg:nuget/ModularPipelines.Email@2.8.4
 - pkg:nuget/ModularPipelines.Email@2.9.0
+- pkg:nuget/ModularPipelines.Email@4.0.0
