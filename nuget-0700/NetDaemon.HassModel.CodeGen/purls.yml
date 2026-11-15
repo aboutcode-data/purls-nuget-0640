@@ -46,3 +46,4 @@
 - pkg:nuget/NetDaemon.HassModel.CodeGen@25.36.0
 - pkg:nuget/NetDaemon.HassModel.CodeGen@25.5.0
 - pkg:nuget/NetDaemon.HassModel.CodeGen@25.6.0
+- pkg:nuget/NetDaemon.HassModel.CodeGen@26.45.0-alpha-4
