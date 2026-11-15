@@ -1,5 +1,6 @@
 - pkg:nuget/dotnet-bundlingtools@3.0.0
 - pkg:nuget/dotnet-bundlingtools@3.1.0
+- pkg:nuget/dotnet-bundlingtools@3.10.1
 - pkg:nuget/dotnet-bundlingtools@3.2.0
 - pkg:nuget/dotnet-bundlingtools@3.3.0
 - pkg:nuget/dotnet-bundlingtools@3.4.0
