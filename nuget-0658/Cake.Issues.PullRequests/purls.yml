@@ -78,3 +78,4 @@
 - pkg:nuget/Cake.Issues.PullRequests@5.8.0
 - pkg:nuget/Cake.Issues.PullRequests@5.9.0
 - pkg:nuget/Cake.Issues.PullRequests@5.9.1
+- pkg:nuget/Cake.Issues.PullRequests@7.0.0-beta0001
