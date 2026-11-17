@@ -257,3 +257,4 @@
 - pkg:nuget/Atom.SDK.Net@5.2.0-beta.2507091
 - pkg:nuget/Atom.SDK.Net@5.2.0-rc.1
 - pkg:nuget/Atom.SDK.Net@5.2.0-rc.2
+- pkg:nuget/Atom.SDK.Net@6.2.0-alpha.2611171
