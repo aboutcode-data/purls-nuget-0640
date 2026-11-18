@@ -92,3 +92,4 @@
 - pkg:nuget/Microsoft.WindowsAppSDK@2.2.0
 - pkg:nuget/Microsoft.WindowsAppSDK@2.2.2-experimental9
 - pkg:nuget/Microsoft.WindowsAppSDK@2.5.4-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK@2.7.0
