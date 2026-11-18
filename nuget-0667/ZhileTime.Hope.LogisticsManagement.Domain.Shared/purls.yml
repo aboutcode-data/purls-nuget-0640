@@ -1,5 +1,6 @@
 - pkg:nuget/ZhileTime.Hope.LogisticsManagement.Domain.Shared@11.3.0
 - pkg:nuget/ZhileTime.Hope.LogisticsManagement.Domain.Shared@11.5.1
+- pkg:nuget/ZhileTime.Hope.LogisticsManagement.Domain.Shared@12.1.0
 - pkg:nuget/ZhileTime.Hope.LogisticsManagement.Domain.Shared@3.5.0
 - pkg:nuget/ZhileTime.Hope.LogisticsManagement.Domain.Shared@3.6.0
 - pkg:nuget/ZhileTime.Hope.LogisticsManagement.Domain.Shared@3.6.1
