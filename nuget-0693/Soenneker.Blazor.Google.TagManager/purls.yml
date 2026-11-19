@@ -3,6 +3,8 @@
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@11.0.424
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@11.0.428
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@11.0.431
+- pkg:nuget/Soenneker.Blazor.Google.TagManager@11.0.432
+- pkg:nuget/Soenneker.Blazor.Google.TagManager@11.0.433
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@3.0.1
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@3.0.10
 - pkg:nuget/Soenneker.Blazor.Google.TagManager@3.0.11
