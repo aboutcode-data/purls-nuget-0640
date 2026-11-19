@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Stackmonitoring@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Stackmonitoring@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Stackmonitoring@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Stackmonitoring@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Stackmonitoring@36.0.0
 - pkg:nuget/OCI.DotNetSDK.Stackmonitoring@37.0.0
 - pkg:nuget/OCI.DotNetSDK.Stackmonitoring@37.1.0
