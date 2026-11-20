@@ -71,6 +71,8 @@
 - pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.17.0
 - pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.172.5
 - pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.172.8
+- pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.174.0
+- pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.175.1
 - pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.2.2
 - pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.21.1
 - pkg:nuget/Cratis.Chronicle.CodeAnalysis@19.23.1
