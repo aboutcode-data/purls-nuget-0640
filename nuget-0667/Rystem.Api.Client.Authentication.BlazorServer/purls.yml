@@ -1,4 +1,5 @@
 - pkg:nuget/Rystem.Api.Client.Authentication.BlazorServer@10.0.7
+- pkg:nuget/Rystem.Api.Client.Authentication.BlazorServer@11.1.0-beta.3
 - pkg:nuget/Rystem.Api.Client.Authentication.BlazorServer@6.0.0
 - pkg:nuget/Rystem.Api.Client.Authentication.BlazorServer@6.0.0-rc.2
 - pkg:nuget/Rystem.Api.Client.Authentication.BlazorServer@6.0.0-rc.3
