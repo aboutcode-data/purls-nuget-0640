@@ -2,6 +2,8 @@
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@11.0.139
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@11.0.141
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@11.0.143
+- pkg:nuget/Soenneker.Extensions.Stripe.Customer@11.0.146
+- pkg:nuget/Soenneker.Extensions.Stripe.Customer@11.0.147
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@3.0.1
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@3.0.10
 - pkg:nuget/Soenneker.Extensions.Stripe.Customer@3.0.11
