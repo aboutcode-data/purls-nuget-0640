@@ -14,5 +14,6 @@
 - pkg:nuget/ManiaAPI.TrackmaniaIO@2.0.0-alpha9
 - pkg:nuget/ManiaAPI.TrackmaniaIO@2.0.0-beta3
 - pkg:nuget/ManiaAPI.TrackmaniaIO@2.1.0
+- pkg:nuget/ManiaAPI.TrackmaniaIO@2.11.0
 - pkg:nuget/ManiaAPI.TrackmaniaIO@2.2.0
 - pkg:nuget/ManiaAPI.TrackmaniaIO@2.3.1
