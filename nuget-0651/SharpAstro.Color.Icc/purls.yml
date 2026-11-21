@@ -17,3 +17,5 @@
 - pkg:nuget/SharpAstro.Color.Icc@3.35.1841%2B3d19e50454875c1b49c45881c5c87485ef60c0dd
 - pkg:nuget/SharpAstro.Color.Icc@3.4.411%2Bf037593fcd3dacf1566b74308b3860a43e612d90
 - pkg:nuget/SharpAstro.Color.Icc@3.4.471%2Bd21f7a1ae13949006c5283574d4bf3688d48856b
+- pkg:nuget/SharpAstro.Color.Icc@3.40.2011%2B74354d7d8f8aafd408c1f021565a77f25b4dfcac
+- pkg:nuget/SharpAstro.Color.Icc@3.40.2031%2Bc9be695b80c6594ae897022d67c92ca3cc4a4c2b
