@@ -18,3 +18,6 @@
 - pkg:nuget/Ama.Enterprise.P2p.Telemetry@0.1.261027-ci1856
 - pkg:nuget/Ama.Enterprise.P2p.Telemetry@0.1.261027-ci1903
 - pkg:nuget/Ama.Enterprise.P2p.Telemetry@0.1.261111-ci1705
+- pkg:nuget/Ama.Enterprise.P2p.Telemetry@0.1.261121-ci1357
+- pkg:nuget/Ama.Enterprise.P2p.Telemetry@0.1.261121-ci1439
+- pkg:nuget/Ama.Enterprise.P2p.Telemetry@0.1.261121-ci2005
