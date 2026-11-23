@@ -8,4 +8,5 @@
 - pkg:nuget/PanoramicData.HealthChecks.Core@10.0.17
 - pkg:nuget/PanoramicData.HealthChecks.Core@10.0.3
 - pkg:nuget/PanoramicData.HealthChecks.Core@10.0.90
+- pkg:nuget/PanoramicData.HealthChecks.Core@10.0.96
 - pkg:nuget/PanoramicData.HealthChecks.Core@9.0.1
