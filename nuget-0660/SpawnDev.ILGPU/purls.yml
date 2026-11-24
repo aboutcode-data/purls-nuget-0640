@@ -36,3 +36,5 @@
 - pkg:nuget/SpawnDev.ILGPU@5.4.34
 - pkg:nuget/SpawnDev.ILGPU@5.4.35
 - pkg:nuget/SpawnDev.ILGPU@5.4.43
+- pkg:nuget/SpawnDev.ILGPU@5.4.45
+- pkg:nuget/SpawnDev.ILGPU@5.4.46
