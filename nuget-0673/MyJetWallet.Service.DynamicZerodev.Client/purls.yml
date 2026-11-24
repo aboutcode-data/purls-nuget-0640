@@ -4,3 +4,4 @@
 - pkg:nuget/MyJetWallet.Service.DynamicZerodev.Client@3.5.0
 - pkg:nuget/MyJetWallet.Service.DynamicZerodev.Client@4.1.0
 - pkg:nuget/MyJetWallet.Service.DynamicZerodev.Client@4.2.1
+- pkg:nuget/MyJetWallet.Service.DynamicZerodev.Client@4.3.0
