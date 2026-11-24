@@ -740,6 +740,7 @@
 - pkg:nuget/GDL.IDAS.Contracts@2026.11.16.1053
 - pkg:nuget/GDL.IDAS.Contracts@2026.11.19.1056
 - pkg:nuget/GDL.IDAS.Contracts@2026.11.20.1057
+- pkg:nuget/GDL.IDAS.Contracts@2026.11.24.1058
 - pkg:nuget/GDL.IDAS.Contracts@2026.2.18.955
 - pkg:nuget/GDL.IDAS.Contracts@2026.3.11.964
 - pkg:nuget/GDL.IDAS.Contracts@2026.3.12.967
