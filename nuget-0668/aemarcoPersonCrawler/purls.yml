@@ -1,4 +1,5 @@
 - pkg:nuget/aemarcoPersonCrawler@10.0.3
+- pkg:nuget/aemarcoPersonCrawler@10.2.7
 - pkg:nuget/aemarcoPersonCrawler@2.1.11
 - pkg:nuget/aemarcoPersonCrawler@2.1.12
 - pkg:nuget/aemarcoPersonCrawler@2.1.13
