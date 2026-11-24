@@ -8,9 +8,11 @@
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@13.5.1-beta.763
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@13.5.1-beta.895
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@13.6.1-beta.935
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@17.0.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@17.0.0-beta.1052
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@17.0.0-beta.1075
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@17.0.0-beta.1078
+- pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@17.0.0-beta.1090
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@9.4.0
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@9.4.1-beta.271
 - pkg:nuget/CommunityToolkit.Aspire.Hosting.Adminer@9.4.1-beta.272
