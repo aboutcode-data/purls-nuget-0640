@@ -184,3 +184,4 @@
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription.PullDelivery@1.3.8-preview.1
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription.PullDelivery@1.3.9-preview.1
 - pkg:nuget/Workleap.DomainEventPropagation.Subscription.PullDelivery@1.3.9-preview.2
+- pkg:nuget/Workleap.DomainEventPropagation.Subscription.PullDelivery@2.0.0-preview.211
