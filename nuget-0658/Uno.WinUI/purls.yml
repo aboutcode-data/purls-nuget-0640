@@ -4704,5 +4704,7 @@
 - pkg:nuget/Uno.WinUI@7.1.0-dev.563
 - pkg:nuget/Uno.WinUI@7.1.0-dev.572
 - pkg:nuget/Uno.WinUI@7.1.0-dev.581
+- pkg:nuget/Uno.WinUI@7.1.0-dev.586
+- pkg:nuget/Uno.WinUI@7.1.0-dev.593
 - pkg:nuget/Uno.WinUI@7.1.0-dev.75
 - pkg:nuget/Uno.WinUI@7.1.0-dev.77
