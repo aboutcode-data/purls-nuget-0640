@@ -24,3 +24,5 @@
 - pkg:nuget/Webority.Security.Abstractions@0.79.1
 - pkg:nuget/Webority.Security.Abstractions@0.8.0
 - pkg:nuget/Webority.Security.Abstractions@0.80.0
+- pkg:nuget/Webority.Security.Abstractions@0.80.2
+- pkg:nuget/Webority.Security.Abstractions@0.81.0
