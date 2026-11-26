@@ -139,6 +139,7 @@
 - pkg:nuget/GridGain.Ignite.Log4Net@8.9.38
 - pkg:nuget/GridGain.Ignite.Log4Net@8.9.39
 - pkg:nuget/GridGain.Ignite.Log4Net@8.9.4
+- pkg:nuget/GridGain.Ignite.Log4Net@8.9.40.1
 - pkg:nuget/GridGain.Ignite.Log4Net@8.9.5
 - pkg:nuget/GridGain.Ignite.Log4Net@8.9.6
 - pkg:nuget/GridGain.Ignite.Log4Net@8.9.7
