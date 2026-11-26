@@ -1,3 +1,8 @@
 - pkg:nuget/Ignixa.FhirMappingLanguage@0.0.127
 - pkg:nuget/Ignixa.FhirMappingLanguage@0.0.142
 - pkg:nuget/Ignixa.FhirMappingLanguage@0.0.149
+- pkg:nuget/Ignixa.FhirMappingLanguage@0.5.2-beta
+- pkg:nuget/Ignixa.FhirMappingLanguage@0.6.19-beta
+- pkg:nuget/Ignixa.FhirMappingLanguage@0.6.28-beta
+- pkg:nuget/Ignixa.FhirMappingLanguage@0.6.4-beta
+- pkg:nuget/Ignixa.FhirMappingLanguage@0.6.82-beta
