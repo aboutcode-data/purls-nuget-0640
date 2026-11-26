@@ -1,3 +1,4 @@
 - pkg:nuget/VSTestPlaylistTools.TrxToPlaylistConverter@0.0.2
 - pkg:nuget/VSTestPlaylistTools.TrxToPlaylistConverter@0.0.2-alpha
 - pkg:nuget/VSTestPlaylistTools.TrxToPlaylistConverter@1.1.0
+- pkg:nuget/VSTestPlaylistTools.TrxToPlaylistConverter@2.0.1-beta.125
