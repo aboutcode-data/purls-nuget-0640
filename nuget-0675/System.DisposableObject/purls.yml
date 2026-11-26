@@ -10,5 +10,6 @@
 - pkg:nuget/System.DisposableObject@1.4.1
 - pkg:nuget/System.DisposableObject@1.5.0
 - pkg:nuget/System.DisposableObject@1.5.1
+- pkg:nuget/System.DisposableObject@11.0.0
 - pkg:nuget/System.DisposableObject@8.0.0
 - pkg:nuget/System.DisposableObject@9.0.0
