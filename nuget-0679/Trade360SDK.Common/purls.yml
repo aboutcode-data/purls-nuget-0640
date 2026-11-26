@@ -7,3 +7,4 @@
 - pkg:nuget/Trade360SDK.Common@1.2.1
 - pkg:nuget/Trade360SDK.Common@1.3.0
 - pkg:nuget/Trade360SDK.Common@1.6.0
+- pkg:nuget/Trade360SDK.Common@2.3.16
