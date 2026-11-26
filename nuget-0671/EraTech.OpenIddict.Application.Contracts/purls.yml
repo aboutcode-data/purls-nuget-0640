@@ -61,3 +61,4 @@
 - pkg:nuget/EraTech.OpenIddict.Application.Contracts@2.2.27
 - pkg:nuget/EraTech.OpenIddict.Application.Contracts@2.2.30
 - pkg:nuget/EraTech.OpenIddict.Application.Contracts@2.2.39
+- pkg:nuget/EraTech.OpenIddict.Application.Contracts@2.2.45
