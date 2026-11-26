@@ -72,5 +72,7 @@
 - pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.5
 - pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.572
 - pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.581
+- pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.586
+- pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.593
 - pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.75
 - pkg:nuget/Uno.WinUI.WebView.X11@7.1.0-dev.77
