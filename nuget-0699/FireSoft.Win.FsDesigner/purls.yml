@@ -1,4 +1,5 @@
 - pkg:nuget/FireSoft.Win.FsDesigner@10.0.10
+- pkg:nuget/FireSoft.Win.FsDesigner@11.0.1
 - pkg:nuget/FireSoft.Win.FsDesigner@8.0.1
 - pkg:nuget/FireSoft.Win.FsDesigner@8.0.2
 - pkg:nuget/FireSoft.Win.FsDesigner@8.0.3
