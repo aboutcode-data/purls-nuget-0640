@@ -13,3 +13,5 @@
 - pkg:nuget/Serender.AuditLog@1.0.8
 - pkg:nuget/Serender.AuditLog@1.0.9
 - pkg:nuget/Serender.AuditLog@1.1.0
+- pkg:nuget/Serender.AuditLog@1.1.2
+- pkg:nuget/Serender.AuditLog@1.1.4
