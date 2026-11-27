@@ -68,3 +68,8 @@
 - pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.758
 - pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.764
 - pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.772
+- pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.789
+- pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.790
+- pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.791
+- pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.792
+- pkg:nuget/Benevia.Core.Dashboards.Blazor@0.10.5-ci.794
