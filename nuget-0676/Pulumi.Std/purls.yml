@@ -35,3 +35,7 @@
 - pkg:nuget/Pulumi.Std@2.4.0-alpha.1790318626
 - pkg:nuget/Pulumi.Std@2.4.0-alpha.1793690810
 - pkg:nuget/Pulumi.Std@2.4.0-alpha.1793832383
+- pkg:nuget/Pulumi.Std@2.4.0-alpha.1794333872
+- pkg:nuget/Pulumi.Std@2.4.0-alpha.1794381134
+- pkg:nuget/Pulumi.Std@2.4.0-alpha.1795567635
+- pkg:nuget/Pulumi.Std@2.4.0-alpha.1795635404
