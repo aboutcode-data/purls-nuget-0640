@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Libraries.FFmpeg@11.0.1229
 - pkg:nuget/Soenneker.Libraries.FFmpeg@2.1.1
 - pkg:nuget/Soenneker.Libraries.FFmpeg@2.1.16
 - pkg:nuget/Soenneker.Libraries.FFmpeg@2.1.17
