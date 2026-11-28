@@ -1,0 +1,12 @@
+- pkg:nuget/Akaule.NimBus.Deploy@3.11.0
+- pkg:nuget/Akaule.NimBus.Deploy@3.3.1
+- pkg:nuget/Akaule.NimBus.Deploy@3.4.0
+- pkg:nuget/Akaule.NimBus.Deploy@3.6.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.1.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.15.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.18.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.2.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.5.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.7.0
+- pkg:nuget/Akaule.NimBus.Deploy@4.8.0
+- pkg:nuget/Akaule.NimBus.Deploy@5.5.0

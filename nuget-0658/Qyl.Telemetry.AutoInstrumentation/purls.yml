@@ -3,4 +3,7 @@
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation@24.0.2
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation@24.1.0
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation@25.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation@26.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation@27.0.0
+- pkg:nuget/Qyl.Telemetry.AutoInstrumentation@28.2.1
 - pkg:nuget/Qyl.Telemetry.AutoInstrumentation@9.0.1
