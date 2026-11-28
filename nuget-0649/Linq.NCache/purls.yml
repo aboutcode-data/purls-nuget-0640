@@ -13,3 +13,4 @@
 - pkg:nuget/Linq.NCache@5.3.3.1
 - pkg:nuget/Linq.NCache@5.3.5
 - pkg:nuget/Linq.NCache@5.3.6
+- pkg:nuget/Linq.NCache@5.3.800
