@@ -1,5 +1,8 @@
 - pkg:nuget/MosaicUIWpf@2025.9.20.1
 - pkg:nuget/MosaicUIWpf@2025.9.8.1
+- pkg:nuget/MosaicUIWpf@2026.10.26.1
+- pkg:nuget/MosaicUIWpf@2026.11.24.1
+- pkg:nuget/MosaicUIWpf@2026.11.25.1
 - pkg:nuget/MosaicUIWpf@2026.5.1.1
 - pkg:nuget/MosaicUIWpf@2026.5.5.1
 - pkg:nuget/MosaicUIWpf@2026.6.16.1
