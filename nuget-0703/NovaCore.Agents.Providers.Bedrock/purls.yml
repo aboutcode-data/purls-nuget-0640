@@ -1,1 +1,4 @@
 - pkg:nuget/NovaCore.Agents.Providers.Bedrock@3.5.4
+- pkg:nuget/NovaCore.Agents.Providers.Bedrock@4.0.0
+- pkg:nuget/NovaCore.Agents.Providers.Bedrock@4.0.1
+- pkg:nuget/NovaCore.Agents.Providers.Bedrock@4.1.0
