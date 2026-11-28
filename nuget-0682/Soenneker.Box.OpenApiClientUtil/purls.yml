@@ -5,6 +5,9 @@
 - pkg:nuget/Soenneker.Box.OpenApiClientUtil@11.0.236
 - pkg:nuget/Soenneker.Box.OpenApiClientUtil@11.0.237
 - pkg:nuget/Soenneker.Box.OpenApiClientUtil@11.0.241
+- pkg:nuget/Soenneker.Box.OpenApiClientUtil@11.0.249
+- pkg:nuget/Soenneker.Box.OpenApiClientUtil@11.0.255
+- pkg:nuget/Soenneker.Box.OpenApiClientUtil@11.0.259
 - pkg:nuget/Soenneker.Box.OpenApiClientUtil@4.0.109
 - pkg:nuget/Soenneker.Box.OpenApiClientUtil@4.0.118
 - pkg:nuget/Soenneker.Box.OpenApiClientUtil@4.0.135
