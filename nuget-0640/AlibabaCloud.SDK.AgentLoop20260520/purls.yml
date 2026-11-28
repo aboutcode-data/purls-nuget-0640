@@ -1,2 +1,5 @@
 - pkg:nuget/AlibabaCloud.SDK.AgentLoop20260520@1.0.0
 - pkg:nuget/AlibabaCloud.SDK.AgentLoop20260520@2.0.0
+- pkg:nuget/AlibabaCloud.SDK.AgentLoop20260520@2.4.2
+- pkg:nuget/AlibabaCloud.SDK.AgentLoop20260520@2.4.5
+- pkg:nuget/AlibabaCloud.SDK.AgentLoop20260520@2.5.3
