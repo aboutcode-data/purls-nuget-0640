@@ -3,5 +3,9 @@
 - pkg:nuget/LiteOrm.Common@8.0.18
 - pkg:nuget/LiteOrm.Common@8.0.20
 - pkg:nuget/LiteOrm.Common@8.0.6
+- pkg:nuget/LiteOrm.Common@8.1.17
+- pkg:nuget/LiteOrm.Common@8.1.18
 - pkg:nuget/LiteOrm.Common@8.1.2
 - pkg:nuget/LiteOrm.Common@8.1.4
+- pkg:nuget/LiteOrm.Common@8.2.0
+- pkg:nuget/LiteOrm.Common@8.2.1
