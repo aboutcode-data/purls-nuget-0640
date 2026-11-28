@@ -1,2 +1,3 @@
 - pkg:nuget/Canton.Ledger.Kernel@0.2.0-preview.1
 - pkg:nuget/Canton.Ledger.Kernel@0.6.0
+- pkg:nuget/Canton.Ledger.Kernel@0.8.1
