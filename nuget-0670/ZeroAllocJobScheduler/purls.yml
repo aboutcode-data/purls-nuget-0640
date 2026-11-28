@@ -4,3 +4,4 @@
 - pkg:nuget/ZeroAllocJobScheduler@1.1.0
 - pkg:nuget/ZeroAllocJobScheduler@1.1.1
 - pkg:nuget/ZeroAllocJobScheduler@1.1.2
+- pkg:nuget/ZeroAllocJobScheduler@2.0.0
