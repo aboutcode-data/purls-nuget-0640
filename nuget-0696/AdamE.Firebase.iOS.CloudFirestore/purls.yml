@@ -36,5 +36,6 @@
 - pkg:nuget/AdamE.Firebase.iOS.CloudFirestore@11.8.0
 - pkg:nuget/AdamE.Firebase.iOS.CloudFirestore@11.9.0
 - pkg:nuget/AdamE.Firebase.iOS.CloudFirestore@12.0.0
+- pkg:nuget/AdamE.Firebase.iOS.CloudFirestore@12.17.0
 - pkg:nuget/AdamE.Firebase.iOS.CloudFirestore@12.2.0
 - pkg:nuget/AdamE.Firebase.iOS.CloudFirestore@12.3.0
