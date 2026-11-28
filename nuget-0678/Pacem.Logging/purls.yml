@@ -1,0 +1,5 @@
+- pkg:nuget/Pacem.Logging@0.10.19-galilei
+- pkg:nuget/Pacem.Logging@1.0.0-maiorana
+- pkg:nuget/Pacem.Logging@1.0.2
+- pkg:nuget/Pacem.Logging@1.1.0
+- pkg:nuget/Pacem.Logging@2.0.0-alpoge
