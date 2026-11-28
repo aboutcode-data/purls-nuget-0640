@@ -1,3 +1,4 @@
 - pkg:nuget/NTokenizers.Extensions.Spectre.Console@0.5.0-preview
 - pkg:nuget/NTokenizers.Extensions.Spectre.Console@2.0.0
 - pkg:nuget/NTokenizers.Extensions.Spectre.Console@2.0.1
+- pkg:nuget/NTokenizers.Extensions.Spectre.Console@3.1.0
