@@ -27,3 +27,5 @@
 - pkg:nuget/Messaging09.Amqp@1.6.1
 - pkg:nuget/Messaging09.Amqp@1.6.2
 - pkg:nuget/Messaging09.Amqp@1.6.5
+- pkg:nuget/Messaging09.Amqp@1.6.6
+- pkg:nuget/Messaging09.Amqp@1.7.1
