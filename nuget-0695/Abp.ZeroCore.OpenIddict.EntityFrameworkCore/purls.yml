@@ -2,6 +2,7 @@
 - pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@10.1.0
 - pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@10.2.0
 - pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@10.3.0
+- pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@10.5.1
 - pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@9.2.0
 - pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@9.2.1
 - pkg:nuget/Abp.ZeroCore.OpenIddict.EntityFrameworkCore@9.2.2
