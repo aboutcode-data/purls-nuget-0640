@@ -1,3 +1,4 @@
 - pkg:nuget/Winche.Database.AspNetCore.WebSockets@10.2.0
 - pkg:nuget/Winche.Database.AspNetCore.WebSockets@10.3.0
+- pkg:nuget/Winche.Database.AspNetCore.WebSockets@12.0.0
 - pkg:nuget/Winche.Database.AspNetCore.WebSockets@8.0.0
