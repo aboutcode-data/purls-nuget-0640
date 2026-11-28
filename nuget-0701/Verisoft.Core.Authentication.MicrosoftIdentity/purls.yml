@@ -21,5 +21,6 @@
 - pkg:nuget/Verisoft.Core.Authentication.MicrosoftIdentity@1.0.9
 - pkg:nuget/Verisoft.Core.Authentication.MicrosoftIdentity@1.1.10
 - pkg:nuget/Verisoft.Core.Authentication.MicrosoftIdentity@1.1.11
+- pkg:nuget/Verisoft.Core.Authentication.MicrosoftIdentity@1.1.21
 - pkg:nuget/Verisoft.Core.Authentication.MicrosoftIdentity@1.1.4
 - pkg:nuget/Verisoft.Core.Authentication.MicrosoftIdentity@1.1.8
